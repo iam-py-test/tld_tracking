@@ -17,5 +17,5 @@ for domain in domains:
     pass
 outlist = open("output.md",'w')
 for tld in tlds:
-  outlist.write("{}: {}\n".format(tld,tlds[tld]))
+  outlist.write("{}: {}<br>\n".format(tld,tlds[tld]))
 outlist.close()
