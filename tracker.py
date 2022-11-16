@@ -4,7 +4,7 @@ from publicsuffixlist import PublicSuffixList
 
 psl = PublicSuffixList()
 
-fulldomainslist = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
+domains = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt").text.split("\n")
 tlds = {}
 
 for domain in domains:
