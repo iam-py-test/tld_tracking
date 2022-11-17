@@ -1,11 +1,11 @@
-com: 3053<br>
+com: 3055<br>
 xyz: 528<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 278<br>
 net: 213<br>
 live: 45<br>
-org: 171<br>
+org: 172<br>
 web.app: 4<br>
 cc: 18<br>
 de: 72<br>
