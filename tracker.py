@@ -10,6 +10,9 @@ tlds = {}
 for domain in domains:
   try:
     tld = psl.publicsuffix(domain)
+    if tld == None:
+      print(domain)
+      continue
     if tld not in tlds:
       tlds[tld] = 0
     tlds[tld] += 1
