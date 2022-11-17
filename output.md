@@ -207,4 +207,3 @@ hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 com.tr: 1<br>
 vn: 1<br>
-None: 1<br>
