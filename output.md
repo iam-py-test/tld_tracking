@@ -1,10 +1,10 @@
-com: 3056<br>
+com: 3054<br>
 xyz: 528<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 278<br>
 net: 213<br>
-live: 45<br>
+live: 46<br>
 org: 172<br>
 web.app: 4<br>
 cc: 18<br>
@@ -67,7 +67,7 @@ ma: 1<br>
 casa: 149<br>
 bar: 15<br>
 glitch.me: 15<br>
-one: 6<br>
+one: 5<br>
 sytes.net: 4<br>
 su: 15<br>
 com.br: 6<br>
@@ -99,7 +99,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 24<br>
-click: 6<br>
+click: 8<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -185,6 +185,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
+dedyn.io: 1<br>
 cloudfront.net: 6<br>
 wang: 1<br>
 rw: 1<br>
