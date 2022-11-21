@@ -1,4 +1,4 @@
-com: 3054<br>
+com: 3058<br>
 xyz: 528<br>
 in: 21<br>
 duckdns.org: 20<br>
@@ -43,7 +43,7 @@ gq: 8<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
 fun: 15<br>
-club: 88<br>
+club: 89<br>
 xn--p1ai: 6<br>
 shop: 16<br>
 online: 43<br>
@@ -124,7 +124,7 @@ codes: 2<br>
 ug: 2<br>
 ac.ug: 1<br>
 pk: 1<br>
-name: 5<br>
+name: 6<br>
 contact: 1<br>
 social: 3<br>
 quest: 1<br>
