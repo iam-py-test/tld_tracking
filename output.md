@@ -1,10 +1,10 @@
-com: 3059<br>
+com: 3063<br>
 xyz: 528<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 278<br>
 net: 213<br>
-live: 46<br>
+live: 47<br>
 org: 172<br>
 web.app: 4<br>
 cc: 18<br>
@@ -140,7 +140,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 4<br>
+cfd: 6<br>
 asia: 1<br>
 today: 6<br>
 wtf: 1<br>
@@ -185,7 +185,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 1<br>
+dedyn.io: 2<br>
 cloudfront.net: 6<br>
 wang: 1<br>
 rw: 1<br>
