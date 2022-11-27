@@ -1,9 +1,9 @@
-com: 3063<br>
+com: 3069<br>
 xyz: 528<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 278<br>
-net: 213<br>
+net: 215<br>
 live: 47<br>
 org: 172<br>
 web.app: 4<br>
@@ -12,7 +12,7 @@ de: 72<br>
 co.in: 2<br>
 cn: 24<br>
 ru: 414<br>
-info: 115<br>
+info: 117<br>
 pl: 4<br>
 tk: 13<br>
 us: 36<br>
@@ -52,7 +52,7 @@ me: 31<br>
 buzz: 93<br>
 uno: 18<br>
 cyou: 13<br>
-icu: 39<br>
+icu: 40<br>
 store: 20<br>
 download: 2<br>
 digital: 2<br>
@@ -186,6 +186,7 @@ s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
 dedyn.io: 2<br>
+myphotos.cc: 1<br>
 cloudfront.net: 6<br>
 wang: 1<br>
 rw: 1<br>
