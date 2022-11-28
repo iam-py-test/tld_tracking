@@ -1,4 +1,4 @@
-com: 3069<br>
+com: 3071<br>
 xyz: 528<br>
 in: 21<br>
 duckdns.org: 20<br>
@@ -19,7 +19,7 @@ us: 36<br>
 top: 394<br>
 win: 3<br>
 trade: 1<br>
-blogspot.com: 14<br>
+blogspot.com: 15<br>
 pw: 16<br>
 nf: 1<br>
 space: 193<br>
@@ -60,7 +60,7 @@ best: 3<br>
 cf: 2<br>
 ls: 1<br>
 onion: 2<br>
-co.uk: 50<br>
+co.uk: 51<br>
 ngrok.io: 2<br>
 com.ar: 4<br>
 ma: 1<br>
@@ -85,7 +85,7 @@ se: 5<br>
 link: 13<br>
 gratis: 1<br>
 no-ip.biz: 1<br>
-uk: 5<br>
+uk: 6<br>
 art: 4<br>
 co: 112<br>
 help: 1<br>
@@ -187,7 +187,7 @@ ca: 16<br>
 com.vn: 1<br>
 dedyn.io: 2<br>
 myphotos.cc: 1<br>
-cloudfront.net: 6<br>
+cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
 re: 1<br>
