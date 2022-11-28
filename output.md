@@ -1,11 +1,11 @@
-com: 3071<br>
-xyz: 528<br>
+com: 3260<br>
+xyz: 533<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 278<br>
-net: 215<br>
+net: 251<br>
 live: 47<br>
-org: 172<br>
+org: 175<br>
 web.app: 4<br>
 cc: 18<br>
 de: 72<br>
@@ -43,7 +43,7 @@ gq: 8<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
 fun: 15<br>
-club: 89<br>
+club: 92<br>
 xn--p1ai: 6<br>
 shop: 16<br>
 online: 43<br>
@@ -106,7 +106,7 @@ foundation: 1<br>
 ink: 1<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 10<br>
+io: 11<br>
 si: 1<br>
 run: 2<br>
 dk: 5<br>
@@ -142,7 +142,7 @@ page: 2<br>
 fit: 1<br>
 cfd: 6<br>
 asia: 1<br>
-today: 6<br>
+today: 7<br>
 wtf: 1<br>
 network: 1<br>
 ro: 1<br>
@@ -187,6 +187,7 @@ ca: 16<br>
 com.vn: 1<br>
 dedyn.io: 2<br>
 myphotos.cc: 1<br>
+news: 1<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
