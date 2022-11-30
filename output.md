@@ -1,5 +1,5 @@
 com: 3262<br>
-xyz: 533<br>
+xyz: 536<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 280<br>
@@ -106,7 +106,7 @@ foundation: 1<br>
 ink: 1<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 11<br>
+io: 12<br>
 si: 1<br>
 run: 2<br>
 dk: 5<br>
@@ -140,7 +140,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 6<br>
+cfd: 9<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
