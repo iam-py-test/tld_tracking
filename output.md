@@ -1,9 +1,9 @@
-com: 3262<br>
+com: 3260<br>
 xyz: 536<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 280<br>
-net: 255<br>
+net: 254<br>
 live: 47<br>
 org: 175<br>
 web.app: 4<br>
