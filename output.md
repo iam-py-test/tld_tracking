@@ -1,4 +1,4 @@
-com: 3260<br>
+com: 3270<br>
 xyz: 536<br>
 in: 21<br>
 duckdns.org: 20<br>
@@ -46,7 +46,7 @@ fun: 15<br>
 club: 92<br>
 xn--p1ai: 6<br>
 shop: 16<br>
-online: 44<br>
+online: 45<br>
 cloud: 3<br>
 me: 31<br>
 buzz: 93<br>
