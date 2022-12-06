@@ -1,4 +1,4 @@
-com: 3270<br>
+com: 3271<br>
 xyz: 536<br>
 in: 21<br>
 duckdns.org: 20<br>
@@ -49,7 +49,7 @@ shop: 16<br>
 online: 45<br>
 cloud: 3<br>
 me: 31<br>
-buzz: 93<br>
+buzz: 197<br>
 uno: 18<br>
 cyou: 13<br>
 icu: 40<br>
