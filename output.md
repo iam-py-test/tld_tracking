@@ -1,9 +1,9 @@
-com: 3278<br>
-xyz: 536<br>
+com: 3286<br>
+xyz: 537<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 280<br>
-net: 254<br>
+net: 256<br>
 live: 47<br>
 org: 176<br>
 web.app: 4<br>
@@ -16,7 +16,7 @@ info: 118<br>
 pl: 4<br>
 tk: 13<br>
 us: 36<br>
-top: 395<br>
+top: 400<br>
 win: 3<br>
 trade: 1<br>
 blogspot.com: 15<br>
@@ -45,7 +45,7 @@ ey.r.appspot.com: 1<br>
 fun: 15<br>
 club: 92<br>
 xn--p1ai: 6<br>
-shop: 16<br>
+shop: 18<br>
 online: 45<br>
 cloud: 3<br>
 me: 31<br>
