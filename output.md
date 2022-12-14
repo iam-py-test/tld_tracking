@@ -1,10 +1,10 @@
-com: 3288<br>
+com: 3302<br>
 xyz: 538<br>
 in: 21<br>
 duckdns.org: 20<br>
-site: 280<br>
-net: 256<br>
-live: 47<br>
+site: 281<br>
+net: 262<br>
+live: 51<br>
 org: 176<br>
 web.app: 4<br>
 cc: 18<br>
@@ -22,7 +22,7 @@ trade: 1<br>
 blogspot.com: 15<br>
 pw: 16<br>
 nf: 1<br>
-space: 193<br>
+space: 201<br>
 biz: 29<br>
 cz: 1<br>
 center: 1<br>
@@ -45,11 +45,11 @@ ey.r.appspot.com: 1<br>
 fun: 15<br>
 club: 92<br>
 xn--p1ai: 6<br>
-shop: 18<br>
-online: 45<br>
+shop: 19<br>
+online: 46<br>
 cloud: 3<br>
 me: 31<br>
-buzz: 197<br>
+buzz: 200<br>
 uno: 18<br>
 cyou: 13<br>
 icu: 40<br>
@@ -206,6 +206,7 @@ netlify.app: 2<br>
 ondigitalocean.app: 1<br>
 bio: 1<br>
 tv: 1<br>
+games: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 com.tr: 1<br>
