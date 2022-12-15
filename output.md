@@ -51,7 +51,7 @@ cloud: 3<br>
 me: 31<br>
 buzz: 200<br>
 uno: 18<br>
-cyou: 13<br>
+cyou: 14<br>
 icu: 40<br>
 store: 21<br>
 download: 3<br>
@@ -99,7 +99,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 24<br>
-click: 8<br>
+click: 9<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
