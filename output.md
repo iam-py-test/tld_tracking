@@ -2,7 +2,7 @@ com: 3302<br>
 xyz: 538<br>
 in: 21<br>
 duckdns.org: 20<br>
-site: 281<br>
+site: 282<br>
 net: 262<br>
 live: 51<br>
 org: 176<br>
@@ -11,7 +11,7 @@ cc: 18<br>
 de: 72<br>
 co.in: 2<br>
 cn: 24<br>
-ru: 415<br>
+ru: 416<br>
 info: 118<br>
 pl: 4<br>
 tk: 13<br>
@@ -37,7 +37,7 @@ la: 6<br>
 tech: 11<br>
 pp.ru: 2<br>
 net.ru: 4<br>
-ga: 7<br>
+ga: 8<br>
 ml: 16<br>
 gq: 8<br>
 exposed: 1<br>
@@ -140,7 +140,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 9<br>
+cfd: 10<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -188,6 +188,7 @@ com.vn: 1<br>
 dedyn.io: 2<br>
 myphotos.cc: 1<br>
 news: 1<br>
+za.com: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -196,7 +197,6 @@ finance: 1<br>
 ba: 1<br>
 services: 1<br>
 us-east-1.linodeobjects.com: 1<br>
-za.com: 1<br>
 bet: 2<br>
 cash: 2<br>
 rip: 1<br>
