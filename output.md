@@ -1,4 +1,4 @@
-com: 3309<br>
+com: 3313<br>
 xyz: 539<br>
 in: 21<br>
 duckdns.org: 20<br>
@@ -11,7 +11,7 @@ cc: 18<br>
 de: 72<br>
 co.in: 2<br>
 cn: 24<br>
-ru: 416<br>
+ru: 417<br>
 info: 119<br>
 pl: 4<br>
 tk: 13<br>
@@ -43,7 +43,7 @@ gq: 8<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
 fun: 15<br>
-club: 92<br>
+club: 93<br>
 xn--p1ai: 6<br>
 shop: 20<br>
 online: 46<br>
@@ -56,7 +56,7 @@ icu: 40<br>
 store: 21<br>
 download: 3<br>
 digital: 2<br>
-best: 3<br>
+best: 4<br>
 cf: 2<br>
 ls: 1<br>
 onion: 2<br>
@@ -93,13 +93,13 @@ ru.com: 10<br>
 ms: 4<br>
 ir: 1<br>
 gg: 1<br>
-dev: 1<br>
+dev: 2<br>
 org.ru: 8<br>
 gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 24<br>
-click: 9<br>
+click: 10<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -189,6 +189,7 @@ dedyn.io: 2<br>
 myphotos.cc: 1<br>
 news: 1<br>
 za.com: 2<br>
+vu: 1<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -207,6 +208,7 @@ ondigitalocean.app: 1<br>
 bio: 1<br>
 tv: 1<br>
 games: 1<br>
+mobi: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 com.tr: 1<br>
