@@ -1,10 +1,10 @@
-com: 3313<br>
-xyz: 539<br>
+com: 3321<br>
+xyz: 542<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 282<br>
 net: 263<br>
-live: 51<br>
+live: 52<br>
 org: 177<br>
 web.app: 4<br>
 cc: 18<br>
@@ -12,7 +12,7 @@ de: 72<br>
 co.in: 2<br>
 cn: 24<br>
 ru: 417<br>
-info: 119<br>
+info: 120<br>
 pl: 4<br>
 tk: 13<br>
 us: 36<br>
@@ -52,7 +52,7 @@ me: 31<br>
 buzz: 200<br>
 uno: 18<br>
 cyou: 15<br>
-icu: 40<br>
+icu: 42<br>
 store: 21<br>
 download: 3<br>
 digital: 2<br>
