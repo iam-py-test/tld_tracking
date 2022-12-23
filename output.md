@@ -1,4 +1,4 @@
-com: 3321<br>
+com: 3328<br>
 xyz: 542<br>
 in: 21<br>
 duckdns.org: 20<br>
@@ -70,7 +70,7 @@ glitch.me: 15<br>
 one: 5<br>
 sytes.net: 4<br>
 su: 15<br>
-com.br: 6<br>
+com.br: 7<br>
 org.nz: 1<br>
 be: 1<br>
 fr: 1<br>
