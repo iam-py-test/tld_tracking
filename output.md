@@ -1,11 +1,11 @@
-com: 3328<br>
+com: 3334<br>
 xyz: 542<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 282<br>
-net: 263<br>
+net: 265<br>
 live: 52<br>
-org: 178<br>
+org: 179<br>
 web.app: 4<br>
 cc: 18<br>
 de: 72<br>
@@ -190,6 +190,7 @@ myphotos.cc: 1<br>
 news: 1<br>
 za.com: 2<br>
 vu: 1<br>
+us-east-1.linodeobjects.com: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -197,7 +198,6 @@ re: 1<br>
 finance: 1<br>
 ba: 1<br>
 services: 1<br>
-us-east-1.linodeobjects.com: 1<br>
 bet: 2<br>
 cash: 2<br>
 rip: 1<br>
