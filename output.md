@@ -1,4 +1,4 @@
-com: 3334<br>
+com: 3342<br>
 xyz: 542<br>
 in: 21<br>
 duckdns.org: 20<br>
@@ -60,7 +60,7 @@ best: 4<br>
 cf: 2<br>
 ls: 1<br>
 onion: 2<br>
-co.uk: 51<br>
+co.uk: 52<br>
 ngrok.io: 2<br>
 com.ar: 4<br>
 ma: 1<br>
