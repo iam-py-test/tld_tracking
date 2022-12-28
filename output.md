@@ -1,9 +1,9 @@
-com: 3342<br>
-xyz: 542<br>
+com: 3346<br>
+xyz: 543<br>
 in: 21<br>
 duckdns.org: 20<br>
 site: 282<br>
-net: 265<br>
+net: 266<br>
 live: 52<br>
 org: 179<br>
 web.app: 4<br>
@@ -140,7 +140,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 10<br>
+cfd: 13<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -185,7 +185,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 2<br>
+dedyn.io: 3<br>
 myphotos.cc: 1<br>
 news: 1<br>
 za.com: 2<br>
