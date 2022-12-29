@@ -8,9 +8,8 @@ lists = {"The malicious website blocklist":"https://raw.githubusercontent.com/ia
 lists_data = {}
 tldsg = {}
 
-
-tlds = {}
 for l in lists:
+  tlds = {}
   domains = requests.get(lists[l]).text.split("\n")
   for domain in domains:
     try:
@@ -27,6 +26,7 @@ for l in lists:
     except:
       pass
   lists_data[l] = tlds
+
 outlist = open("output.md",'w')
 outlist.write("## All lists\n")
 for tld in tldsg:
