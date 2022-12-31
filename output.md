@@ -1,5 +1,5 @@
 ## All lists
-com: 3351<br>
+com: 3357<br>
 xyz: 543<br>
 duckdns.org: 20<br>
 site: 282<br>
@@ -217,7 +217,7 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3327<br>
+com: 3333<br>
 xyz: 543<br>
 duckdns.org: 20<br>
 site: 282<br>
