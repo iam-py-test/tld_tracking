@@ -1,5 +1,5 @@
 ## All lists
-com: 3357<br>
+com: 3336<br>
 xyz: 543<br>
 duckdns.org: 20<br>
 site: 282<br>
@@ -42,7 +42,7 @@ ml: 16<br>
 gq: 8<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
-fun: 15<br>
+fun: 16<br>
 club: 93<br>
 xn--p1ai: 6<br>
 shop: 20<br>
@@ -86,7 +86,7 @@ gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 114<br>
+co: 115<br>
 help: 1<br>
 ru.com: 10<br>
 ms: 4<br>
@@ -186,7 +186,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 3<br>
+dedyn.io: 4<br>
 myphotos.cc: 1<br>
 news: 1<br>
 za.com: 2<br>
@@ -217,7 +217,7 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3333<br>
+com: 3312<br>
 xyz: 543<br>
 duckdns.org: 20<br>
 site: 282<br>
@@ -260,7 +260,7 @@ ml: 16<br>
 gq: 8<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
-fun: 15<br>
+fun: 16<br>
 club: 93<br>
 xn--p1ai: 6<br>
 shop: 20<br>
@@ -304,7 +304,7 @@ gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 112<br>
+co: 113<br>
 help: 1<br>
 ru.com: 10<br>
 ms: 4<br>
@@ -404,7 +404,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 3<br>
+dedyn.io: 4<br>
 myphotos.cc: 1<br>
 news: 1<br>
 za.com: 2<br>
