@@ -1,9 +1,9 @@
 ## All lists
-com: 3336<br>
-xyz: 543<br>
+com: 3338<br>
+xyz: 544<br>
 duckdns.org: 20<br>
 site: 282<br>
-net: 263<br>
+net: 266<br>
 live: 52<br>
 cc: 18<br>
 in: 20<br>
@@ -15,7 +15,7 @@ info: 121<br>
 pl: 4<br>
 tk: 13<br>
 us: 36<br>
-top: 403<br>
+top: 404<br>
 win: 3<br>
 trade: 1<br>
 org: 180<br>
@@ -48,7 +48,7 @@ xn--p1ai: 6<br>
 shop: 20<br>
 online: 46<br>
 cloud: 3<br>
-me: 31<br>
+me: 32<br>
 buzz: 200<br>
 uno: 18<br>
 cyou: 16<br>
@@ -98,7 +98,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 25<br>
-click: 11<br>
+click: 13<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -217,11 +217,11 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3312<br>
-xyz: 543<br>
+com: 3313<br>
+xyz: 544<br>
 duckdns.org: 20<br>
 site: 282<br>
-net: 262<br>
+net: 264<br>
 live: 52<br>
 cc: 18<br>
 in: 20<br>
@@ -233,7 +233,7 @@ info: 121<br>
 pl: 4<br>
 tk: 13<br>
 us: 36<br>
-top: 403<br>
+top: 404<br>
 win: 3<br>
 trade: 1<br>
 org: 177<br>
@@ -266,7 +266,7 @@ xn--p1ai: 6<br>
 shop: 20<br>
 online: 46<br>
 cloud: 3<br>
-me: 31<br>
+me: 32<br>
 buzz: 200<br>
 uno: 18<br>
 cyou: 16<br>
@@ -316,7 +316,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 25<br>
-click: 11<br>
+click: 13<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -435,8 +435,8 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## iam-py-test's anti-PUP list
-com: 24<br>
+com: 25<br>
 org: 3<br>
 co: 2<br>
 workers.dev: 1<br>
-net: 1<br>
+net: 2<br>
