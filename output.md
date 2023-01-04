@@ -1,5 +1,5 @@
 ## All lists
-com: 3338<br>
+com: 3339<br>
 xyz: 544<br>
 duckdns.org: 20<br>
 site: 282<br>
@@ -15,12 +15,12 @@ info: 121<br>
 pl: 4<br>
 tk: 13<br>
 us: 36<br>
-top: 404<br>
+top: 410<br>
 win: 3<br>
 trade: 1<br>
 org: 180<br>
 blogspot.com: 15<br>
-pw: 16<br>
+pw: 17<br>
 nf: 1<br>
 space: 201<br>
 biz: 29<br>
@@ -74,7 +74,7 @@ org.nz: 1<br>
 be: 1<br>
 fr: 1<br>
 cl: 2<br>
-eu: 21<br>
+eu: 22<br>
 cam: 7<br>
 com.au: 1<br>
 monster: 5<br>
@@ -139,7 +139,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 13<br>
+cfd: 14<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -153,7 +153,7 @@ us-west-1.compute.amazonaws.com: 2<br>
 ec2-44-192-106-88.compute-1.amazonaws.com: 1<br>
 azurewebsites.net: 2<br>
 workers.dev: 3<br>
-com.cn: 1<br>
+com.cn: 2<br>
 lol: 2<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
@@ -186,7 +186,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 4<br>
+dedyn.io: 5<br>
 myphotos.cc: 1<br>
 news: 1<br>
 za.com: 2<br>
@@ -217,7 +217,7 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3313<br>
+com: 3314<br>
 xyz: 544<br>
 duckdns.org: 20<br>
 site: 282<br>
@@ -233,12 +233,12 @@ info: 121<br>
 pl: 4<br>
 tk: 13<br>
 us: 36<br>
-top: 404<br>
+top: 410<br>
 win: 3<br>
 trade: 1<br>
 org: 177<br>
 blogspot.com: 15<br>
-pw: 16<br>
+pw: 17<br>
 nf: 1<br>
 space: 201<br>
 biz: 29<br>
@@ -357,7 +357,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 13<br>
+cfd: 14<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -404,7 +404,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 4<br>
+dedyn.io: 5<br>
 myphotos.cc: 1<br>
 news: 1<br>
 za.com: 2<br>
@@ -440,3 +440,5 @@ org: 3<br>
 co: 2<br>
 workers.dev: 1<br>
 net: 2<br>
+eu: 1<br>
+com.cn: 1<br>
