@@ -1,5 +1,5 @@
 ## All lists
-com: 3331<br>
+com: 3337<br>
 xyz: 544<br>
 site: 290<br>
 net: 265<br>
@@ -27,7 +27,7 @@ org.uk: 2<br>
 pro: 41<br>
 vip: 15<br>
 website: 4<br>
-ddns.net: 21<br>
+ddns.net: 22<br>
 gotdns.ch: 2<br>
 hopto.org: 5<br>
 la: 6<br>
@@ -67,7 +67,7 @@ glitch.me: 15<br>
 one: 5<br>
 sytes.net: 4<br>
 su: 15<br>
-com.br: 7<br>
+com.br: 8<br>
 org.nz: 1<br>
 be: 1<br>
 fr: 1<br>
@@ -217,7 +217,7 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3306<br>
+com: 3312<br>
 xyz: 544<br>
 site: 290<br>
 net: 263<br>
@@ -245,7 +245,7 @@ org.uk: 2<br>
 pro: 41<br>
 vip: 15<br>
 website: 4<br>
-ddns.net: 21<br>
+ddns.net: 22<br>
 gotdns.ch: 2<br>
 hopto.org: 5<br>
 la: 6<br>
@@ -285,7 +285,7 @@ glitch.me: 15<br>
 one: 5<br>
 sytes.net: 4<br>
 su: 15<br>
-com.br: 7<br>
+com.br: 8<br>
 org.nz: 1<br>
 be: 1<br>
 fr: 1<br>
