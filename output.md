@@ -1,5 +1,5 @@
 ## All lists
-com: 3337<br>
+com: 3338<br>
 xyz: 544<br>
 site: 290<br>
 net: 265<br>
@@ -217,7 +217,7 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3312<br>
+com: 3313<br>
 xyz: 544<br>
 site: 290<br>
 net: 263<br>
