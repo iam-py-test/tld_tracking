@@ -1,13 +1,13 @@
 ## All lists
-com: 3338<br>
+com: 3341<br>
 xyz: 544<br>
 site: 290<br>
-net: 265<br>
+net: 266<br>
 live: 52<br>
 cc: 17<br>
 in: 18<br>
 de: 72<br>
-cn: 24<br>
+cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
@@ -90,7 +90,7 @@ help: 1<br>
 ru.com: 10<br>
 ms: 4<br>
 ir: 1<br>
-gg: 1<br>
+gg: 2<br>
 dev: 2<br>
 org.ru: 8<br>
 gifts: 2<br>
@@ -217,15 +217,15 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3313<br>
+com: 3316<br>
 xyz: 544<br>
 site: 290<br>
-net: 263<br>
+net: 264<br>
 live: 52<br>
 cc: 17<br>
 in: 18<br>
 de: 72<br>
-cn: 24<br>
+cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
@@ -308,7 +308,7 @@ help: 1<br>
 ru.com: 10<br>
 ms: 4<br>
 ir: 1<br>
-gg: 1<br>
+gg: 2<br>
 dev: 2<br>
 org.ru: 8<br>
 gifts: 2<br>
