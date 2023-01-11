@@ -3,7 +3,7 @@ com: 3341<br>
 xyz: 544<br>
 site: 290<br>
 net: 266<br>
-live: 52<br>
+live: 110<br>
 cc: 17<br>
 in: 18<br>
 de: 72<br>
@@ -11,7 +11,7 @@ cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
-top: 416<br>
+top: 546<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -29,7 +29,7 @@ vip: 15<br>
 website: 4<br>
 ddns.net: 22<br>
 gotdns.ch: 2<br>
-hopto.org: 5<br>
+hopto.org: 4<br>
 la: 6<br>
 tech: 11<br>
 pp.ru: 2<br>
@@ -39,14 +39,14 @@ ml: 17<br>
 gq: 12<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
-fun: 17<br>
+fun: 16<br>
 club: 93<br>
 xn--p1ai: 6<br>
 shop: 20<br>
 online: 48<br>
 cloud: 3<br>
 me: 32<br>
-buzz: 200<br>
+buzz: 303<br>
 uno: 18<br>
 cyou: 15<br>
 icu: 43<br>
@@ -54,7 +54,7 @@ store: 21<br>
 download: 3<br>
 digital: 2<br>
 best: 4<br>
-cf: 7<br>
+cf: 6<br>
 ls: 1<br>
 co.uk: 52<br>
 ngrok.io: 1<br>
@@ -80,7 +80,7 @@ no-ip.org: 1<br>
 at: 11<br>
 duckdns.org: 19<br>
 se: 5<br>
-link: 13<br>
+link: 17<br>
 gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
@@ -210,6 +210,8 @@ ondigitalocean.app: 1<br>
 bio: 1<br>
 tv: 1<br>
 mobi: 1<br>
+fi: 2<br>
+skin: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 com.tr: 1<br>
@@ -221,7 +223,7 @@ com: 3316<br>
 xyz: 544<br>
 site: 290<br>
 net: 264<br>
-live: 52<br>
+live: 110<br>
 cc: 17<br>
 in: 18<br>
 de: 72<br>
@@ -229,7 +231,7 @@ cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
-top: 416<br>
+top: 546<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -247,7 +249,7 @@ vip: 15<br>
 website: 4<br>
 ddns.net: 22<br>
 gotdns.ch: 2<br>
-hopto.org: 5<br>
+hopto.org: 4<br>
 la: 6<br>
 tech: 11<br>
 pp.ru: 2<br>
@@ -257,14 +259,14 @@ ml: 17<br>
 gq: 12<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
-fun: 17<br>
+fun: 16<br>
 club: 93<br>
 xn--p1ai: 6<br>
 shop: 20<br>
 online: 48<br>
 cloud: 3<br>
 me: 32<br>
-buzz: 200<br>
+buzz: 303<br>
 uno: 18<br>
 cyou: 15<br>
 icu: 43<br>
@@ -272,7 +274,7 @@ store: 21<br>
 download: 3<br>
 digital: 2<br>
 best: 4<br>
-cf: 7<br>
+cf: 6<br>
 ls: 1<br>
 co.uk: 52<br>
 ngrok.io: 1<br>
@@ -298,7 +300,7 @@ no-ip.org: 1<br>
 at: 11<br>
 duckdns.org: 19<br>
 se: 5<br>
-link: 13<br>
+link: 17<br>
 gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
@@ -428,6 +430,8 @@ ondigitalocean.app: 1<br>
 bio: 1<br>
 tv: 1<br>
 mobi: 1<br>
+fi: 2<br>
+skin: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 com.tr: 1<br>
