@@ -1,5 +1,5 @@
 ## All lists
-com: 3341<br>
+com: 3342<br>
 xyz: 544<br>
 site: 290<br>
 net: 266<br>
@@ -11,7 +11,7 @@ cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
-top: 546<br>
+top: 550<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -24,7 +24,7 @@ biz: 29<br>
 cz: 1<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 41<br>
+pro: 43<br>
 vip: 15<br>
 website: 4<br>
 ddns.net: 22<br>
@@ -46,7 +46,7 @@ shop: 20<br>
 online: 48<br>
 cloud: 3<br>
 me: 32<br>
-buzz: 303<br>
+buzz: 302<br>
 uno: 18<br>
 cyou: 15<br>
 icu: 43<br>
@@ -193,6 +193,7 @@ za.com: 2<br>
 vu: 1<br>
 us-east-1.linodeobjects.com: 2<br>
 games: 2<br>
+sa.com: 1<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -219,7 +220,7 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3316<br>
+com: 3317<br>
 xyz: 544<br>
 site: 290<br>
 net: 264<br>
@@ -231,7 +232,7 @@ cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
-top: 546<br>
+top: 550<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -244,7 +245,7 @@ biz: 29<br>
 cz: 1<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 41<br>
+pro: 43<br>
 vip: 15<br>
 website: 4<br>
 ddns.net: 22<br>
@@ -266,7 +267,7 @@ shop: 20<br>
 online: 48<br>
 cloud: 3<br>
 me: 32<br>
-buzz: 303<br>
+buzz: 302<br>
 uno: 18<br>
 cyou: 15<br>
 icu: 43<br>
@@ -413,6 +414,7 @@ za.com: 2<br>
 vu: 1<br>
 us-east-1.linodeobjects.com: 2<br>
 games: 2<br>
+sa.com: 1<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
