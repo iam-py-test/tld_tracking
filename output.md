@@ -1,17 +1,17 @@
 ## All lists
-com: 3342<br>
+com: 3340<br>
 xyz: 544<br>
 site: 290<br>
 net: 266<br>
 live: 110<br>
-cc: 17<br>
+cc: 16<br>
 in: 18<br>
 de: 72<br>
 cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
-top: 550<br>
+top: 485<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -19,7 +19,7 @@ org: 180<br>
 blogspot.com: 15<br>
 pw: 17<br>
 nf: 1<br>
-space: 201<br>
+space: 200<br>
 biz: 29<br>
 cz: 1<br>
 center: 1<br>
@@ -46,7 +46,7 @@ shop: 20<br>
 online: 48<br>
 cloud: 3<br>
 me: 32<br>
-buzz: 302<br>
+buzz: 282<br>
 uno: 18<br>
 cyou: 15<br>
 icu: 43<br>
@@ -97,7 +97,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 26<br>
-click: 14<br>
+click: 15<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -138,7 +138,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 14<br>
+cfd: 15<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -178,7 +178,6 @@ translate.goog: 1<br>
 nl: 4<br>
 to: 1<br>
 pr46m.vps.myjino.ru: 1<br>
-market: 1<br>
 pics: 1<br>
 hair: 1<br>
 cm: 22<br>
@@ -186,7 +185,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 5<br>
+dedyn.io: 6<br>
 myphotos.cc: 1<br>
 news: 2<br>
 za.com: 2<br>
@@ -220,19 +219,19 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3317<br>
+com: 3315<br>
 xyz: 544<br>
 site: 290<br>
 net: 264<br>
 live: 110<br>
-cc: 17<br>
+cc: 16<br>
 in: 18<br>
 de: 72<br>
 cn: 25<br>
 info: 115<br>
 pl: 4<br>
 us: 36<br>
-top: 550<br>
+top: 485<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -240,7 +239,7 @@ org: 177<br>
 blogspot.com: 15<br>
 pw: 17<br>
 nf: 1<br>
-space: 201<br>
+space: 200<br>
 biz: 29<br>
 cz: 1<br>
 center: 1<br>
@@ -267,7 +266,7 @@ shop: 20<br>
 online: 48<br>
 cloud: 3<br>
 me: 32<br>
-buzz: 302<br>
+buzz: 282<br>
 uno: 18<br>
 cyou: 15<br>
 icu: 43<br>
@@ -318,7 +317,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 26<br>
-click: 14<br>
+click: 15<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -359,7 +358,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 14<br>
+cfd: 15<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -399,7 +398,6 @@ translate.goog: 1<br>
 nl: 4<br>
 to: 1<br>
 pr46m.vps.myjino.ru: 1<br>
-market: 1<br>
 pics: 1<br>
 hair: 1<br>
 cm: 22<br>
@@ -407,7 +405,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 16<br>
 com.vn: 1<br>
-dedyn.io: 5<br>
+dedyn.io: 6<br>
 myphotos.cc: 1<br>
 news: 2<br>
 za.com: 2<br>
