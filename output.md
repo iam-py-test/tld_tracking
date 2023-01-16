@@ -1,9 +1,9 @@
 ## All lists
-com: 3968<br>
+com: 3969<br>
 xyz: 548<br>
 site: 291<br>
 net: 285<br>
-live: 110<br>
+live: 149<br>
 cc: 16<br>
 in: 18<br>
 de: 73<br>
@@ -225,11 +225,11 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 3943<br>
+com: 3944<br>
 xyz: 548<br>
 site: 291<br>
 net: 283<br>
-live: 110<br>
+live: 149<br>
 cc: 16<br>
 in: 18<br>
 de: 73<br>
