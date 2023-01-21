@@ -1,9 +1,9 @@
 ## All lists
-com: 4778<br>
-xyz: 552<br>
+com: 4781<br>
+xyz: 553<br>
 site: 291<br>
 net: 292<br>
-live: 152<br>
+live: 156<br>
 cc: 17<br>
 in: 18<br>
 de: 91<br>
@@ -11,7 +11,7 @@ cn: 25<br>
 info: 115<br>
 pl: 10<br>
 us: 47<br>
-top: 507<br>
+top: 510<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -48,7 +48,7 @@ cloud: 3<br>
 me: 34<br>
 buzz: 282<br>
 uno: 18<br>
-cyou: 15<br>
+cyou: 18<br>
 icu: 43<br>
 store: 348<br>
 download: 3<br>
@@ -96,7 +96,7 @@ org.ru: 8<br>
 gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
-life: 69<br>
+life: 70<br>
 click: 15<br>
 loan: 1<br>
 pp.ua: 2<br>
@@ -175,7 +175,7 @@ media: 2<br>
 wixsite.com: 1<br>
 yolasite.com: 1<br>
 translate.goog: 1<br>
-nl: 4<br>
+nl: 6<br>
 to: 1<br>
 pr46m.vps.myjino.ru: 1<br>
 pics: 1<br>
@@ -213,6 +213,7 @@ tv: 1<br>
 mobi: 1<br>
 fi: 2<br>
 skin: 1<br>
+yachts: 2<br>
 sk: 26<br>
 sale: 13<br>
 cheap: 1<br>
@@ -237,11 +238,11 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 4753<br>
-xyz: 552<br>
+com: 4756<br>
+xyz: 553<br>
 site: 291<br>
 net: 290<br>
-live: 152<br>
+live: 156<br>
 cc: 17<br>
 in: 18<br>
 de: 91<br>
@@ -249,7 +250,7 @@ cn: 25<br>
 info: 115<br>
 pl: 10<br>
 us: 47<br>
-top: 507<br>
+top: 510<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -286,7 +287,7 @@ cloud: 3<br>
 me: 34<br>
 buzz: 282<br>
 uno: 18<br>
-cyou: 15<br>
+cyou: 18<br>
 icu: 43<br>
 store: 348<br>
 download: 3<br>
@@ -334,7 +335,7 @@ org.ru: 8<br>
 gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
-life: 69<br>
+life: 70<br>
 click: 15<br>
 loan: 1<br>
 pp.ua: 2<br>
@@ -413,7 +414,7 @@ media: 2<br>
 wixsite.com: 1<br>
 yolasite.com: 1<br>
 translate.goog: 1<br>
-nl: 4<br>
+nl: 6<br>
 to: 1<br>
 pr46m.vps.myjino.ru: 1<br>
 pics: 1<br>
@@ -451,6 +452,7 @@ tv: 1<br>
 mobi: 1<br>
 fi: 2<br>
 skin: 1<br>
+yachts: 2<br>
 sk: 26<br>
 sale: 13<br>
 cheap: 1<br>
