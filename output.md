@@ -1,6 +1,6 @@
 ## All lists
-com: 4781<br>
-xyz: 553<br>
+com: 4793<br>
+xyz: 557<br>
 site: 291<br>
 net: 292<br>
 live: 156<br>
@@ -11,7 +11,7 @@ cn: 25<br>
 info: 115<br>
 pl: 10<br>
 us: 47<br>
-top: 510<br>
+top: 511<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -42,7 +42,7 @@ ey.r.appspot.com: 1<br>
 fun: 16<br>
 club: 93<br>
 xn--p1ai: 6<br>
-shop: 58<br>
+shop: 59<br>
 online: 60<br>
 cloud: 3<br>
 me: 34<br>
@@ -97,7 +97,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 70<br>
-click: 15<br>
+click: 16<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -238,8 +238,8 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 4756<br>
-xyz: 553<br>
+com: 4768<br>
+xyz: 557<br>
 site: 291<br>
 net: 290<br>
 live: 156<br>
@@ -250,7 +250,7 @@ cn: 25<br>
 info: 115<br>
 pl: 10<br>
 us: 47<br>
-top: 510<br>
+top: 511<br>
 win: 3<br>
 trade: 1<br>
 ru: 403<br>
@@ -281,7 +281,7 @@ ey.r.appspot.com: 1<br>
 fun: 16<br>
 club: 93<br>
 xn--p1ai: 6<br>
-shop: 58<br>
+shop: 59<br>
 online: 60<br>
 cloud: 3<br>
 me: 34<br>
@@ -336,7 +336,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 70<br>
-click: 15<br>
+click: 16<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
