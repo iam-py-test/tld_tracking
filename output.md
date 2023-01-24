@@ -8,7 +8,7 @@ cc: 17<br>
 in: 18<br>
 de: 91<br>
 cn: 25<br>
-info: 115<br>
+info: 116<br>
 pl: 10<br>
 us: 47<br>
 top: 511<br>
@@ -247,7 +247,7 @@ cc: 17<br>
 in: 18<br>
 de: 91<br>
 cn: 25<br>
-info: 115<br>
+info: 116<br>
 pl: 10<br>
 us: 47<br>
 top: 511<br>
