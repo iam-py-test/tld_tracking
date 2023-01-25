@@ -24,7 +24,7 @@ biz: 29<br>
 cz: 13<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 59<br>
+pro: 58<br>
 vip: 15<br>
 website: 4<br>
 ddns.net: 22<br>
@@ -263,7 +263,7 @@ biz: 29<br>
 cz: 13<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 59<br>
+pro: 58<br>
 vip: 15<br>
 website: 4<br>
 ddns.net: 22<br>
