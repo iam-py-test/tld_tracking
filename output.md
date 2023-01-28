@@ -1,5 +1,5 @@
 ## All lists
-com: 4794<br>
+com: 4795<br>
 xyz: 557<br>
 site: 291<br>
 net: 292<br>
@@ -40,7 +40,7 @@ gq: 12<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
 fun: 16<br>
-club: 93<br>
+club: 94<br>
 xn--p1ai: 6<br>
 shop: 59<br>
 online: 60<br>
@@ -238,7 +238,7 @@ vn: 1<br>
 fo: 1<br>
 sv: 4<br>
 ## The malicious website blocklist
-com: 4769<br>
+com: 4770<br>
 xyz: 557<br>
 site: 291<br>
 net: 290<br>
@@ -279,7 +279,7 @@ gq: 12<br>
 exposed: 1<br>
 ey.r.appspot.com: 1<br>
 fun: 16<br>
-club: 93<br>
+club: 94<br>
 xn--p1ai: 6<br>
 shop: 59<br>
 online: 60<br>
