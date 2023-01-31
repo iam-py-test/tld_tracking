@@ -1,8 +1,8 @@
 ## All lists
-com: 4796<br>
+com: 4803<br>
 xyz: 556<br>
 site: 291<br>
-net: 294<br>
+net: 296<br>
 live: 160<br>
 cc: 17<br>
 in: 18<br>
@@ -11,11 +11,11 @@ cn: 25<br>
 info: 117<br>
 pl: 10<br>
 us: 48<br>
-top: 515<br>
+top: 520<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
-org: 190<br>
+org: 189<br>
 blogspot.com: 15<br>
 pw: 17<br>
 nf: 1<br>
@@ -26,7 +26,7 @@ center: 1<br>
 org.uk: 2<br>
 pro: 59<br>
 vip: 15<br>
-website: 4<br>
+website: 5<br>
 ddns.net: 22<br>
 gotdns.ch: 2<br>
 hopto.org: 4<br>
@@ -46,7 +46,7 @@ shop: 59<br>
 online: 60<br>
 cloud: 3<br>
 me: 35<br>
-buzz: 282<br>
+buzz: 283<br>
 uno: 18<br>
 cyou: 18<br>
 icu: 43<br>
@@ -114,7 +114,7 @@ guru: 2<br>
 serveftp.com: 16<br>
 hu: 2<br>
 github.io: 2<br>
-sbs: 3<br>
+sbs: 4<br>
 date: 4<br>
 world: 3<br>
 rest: 4<br>
@@ -138,7 +138,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 15<br>
+cfd: 16<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -170,7 +170,7 @@ co.in: 5<br>
 com.ht: 1<br>
 work: 4<br>
 web.app: 2<br>
-app: 4<br>
+app: 7<br>
 media: 2<br>
 wixsite.com: 1<br>
 yolasite.com: 1<br>
@@ -193,6 +193,7 @@ vu: 1<br>
 us-east-1.linodeobjects.com: 2<br>
 games: 2<br>
 com.ua: 2<br>
+yachts: 9<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -212,7 +213,6 @@ tv: 1<br>
 mobi: 1<br>
 fi: 2<br>
 skin: 1<br>
-yachts: 2<br>
 sk: 26<br>
 sale: 13<br>
 cheap: 1<br>
@@ -236,11 +236,12 @@ us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
 fo: 1<br>
 sv: 4<br>
+ws: 1<br>
 ## The malicious website blocklist
-com: 4771<br>
+com: 4777<br>
 xyz: 556<br>
 site: 291<br>
-net: 292<br>
+net: 294<br>
 live: 160<br>
 cc: 17<br>
 in: 18<br>
@@ -249,7 +250,7 @@ cn: 25<br>
 info: 117<br>
 pl: 10<br>
 us: 48<br>
-top: 515<br>
+top: 520<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
@@ -264,7 +265,7 @@ center: 1<br>
 org.uk: 2<br>
 pro: 59<br>
 vip: 15<br>
-website: 4<br>
+website: 5<br>
 ddns.net: 22<br>
 gotdns.ch: 2<br>
 hopto.org: 4<br>
@@ -284,7 +285,7 @@ shop: 59<br>
 online: 60<br>
 cloud: 3<br>
 me: 35<br>
-buzz: 282<br>
+buzz: 283<br>
 uno: 18<br>
 cyou: 18<br>
 icu: 43<br>
@@ -352,7 +353,7 @@ guru: 2<br>
 serveftp.com: 16<br>
 hu: 2<br>
 github.io: 2<br>
-sbs: 3<br>
+sbs: 4<br>
 date: 4<br>
 world: 3<br>
 rest: 4<br>
@@ -376,7 +377,7 @@ agency: 1<br>
 ruhr: 1<br>
 page: 2<br>
 fit: 1<br>
-cfd: 15<br>
+cfd: 16<br>
 asia: 1<br>
 today: 7<br>
 wtf: 1<br>
@@ -408,7 +409,7 @@ co.in: 5<br>
 com.ht: 1<br>
 work: 4<br>
 web.app: 2<br>
-app: 4<br>
+app: 7<br>
 media: 2<br>
 wixsite.com: 1<br>
 yolasite.com: 1<br>
@@ -431,6 +432,7 @@ vu: 1<br>
 us-east-1.linodeobjects.com: 2<br>
 games: 2<br>
 com.ua: 2<br>
+yachts: 9<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -450,7 +452,6 @@ tv: 1<br>
 mobi: 1<br>
 fi: 2<br>
 skin: 1<br>
-yachts: 2<br>
 sk: 26<br>
 sale: 13<br>
 cheap: 1<br>
@@ -474,9 +475,10 @@ us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
 fo: 1<br>
 sv: 4<br>
+ws: 1<br>
 ## iam-py-test's anti-PUP list
-com: 25<br>
-org: 3<br>
+com: 26<br>
+org: 2<br>
 co: 2<br>
 workers.dev: 1<br>
 net: 2<br>
