@@ -11,7 +11,7 @@ cn: 25<br>
 info: 117<br>
 pl: 10<br>
 us: 48<br>
-top: 520<br>
+top: 521<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
@@ -250,7 +250,7 @@ cn: 25<br>
 info: 117<br>
 pl: 10<br>
 us: 48<br>
-top: 520<br>
+top: 521<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
