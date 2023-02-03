@@ -1,6 +1,6 @@
 ## All lists
-com: 4803<br>
-xyz: 556<br>
+com: 4805<br>
+xyz: 558<br>
 site: 291<br>
 net: 296<br>
 live: 160<br>
@@ -21,7 +21,7 @@ pw: 17<br>
 nf: 1<br>
 space: 200<br>
 biz: 29<br>
-cz: 13<br>
+cz: 15<br>
 center: 1<br>
 org.uk: 2<br>
 pro: 59<br>
@@ -187,7 +187,7 @@ ca: 27<br>
 com.vn: 1<br>
 dedyn.io: 4<br>
 myphotos.cc: 1<br>
-news: 2<br>
+news: 4<br>
 za.com: 2<br>
 vu: 1<br>
 us-east-1.linodeobjects.com: 2<br>
@@ -238,8 +238,8 @@ fo: 1<br>
 sv: 4<br>
 ws: 1<br>
 ## The malicious website blocklist
-com: 4777<br>
-xyz: 556<br>
+com: 4779<br>
+xyz: 558<br>
 site: 291<br>
 net: 294<br>
 live: 160<br>
@@ -260,7 +260,7 @@ pw: 17<br>
 nf: 1<br>
 space: 200<br>
 biz: 29<br>
-cz: 13<br>
+cz: 15<br>
 center: 1<br>
 org.uk: 2<br>
 pro: 59<br>
@@ -426,7 +426,7 @@ ca: 27<br>
 com.vn: 1<br>
 dedyn.io: 4<br>
 myphotos.cc: 1<br>
-news: 2<br>
+news: 4<br>
 za.com: 2<br>
 vu: 1<br>
 us-east-1.linodeobjects.com: 2<br>
