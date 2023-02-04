@@ -1,10 +1,10 @@
 ## All lists
-com: 4805<br>
+com: 4806<br>
 xyz: 558<br>
 site: 291<br>
 net: 296<br>
 live: 160<br>
-cc: 17<br>
+cc: 18<br>
 in: 18<br>
 de: 91<br>
 cn: 25<br>
@@ -194,6 +194,7 @@ us-east-1.linodeobjects.com: 2<br>
 games: 2<br>
 com.ua: 2<br>
 yachts: 9<br>
+ondigitalocean.app: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -207,7 +208,6 @@ rip: 1<br>
 ai: 1<br>
 rocks: 2<br>
 netlify.app: 2<br>
-ondigitalocean.app: 1<br>
 bio: 1<br>
 tv: 1<br>
 mobi: 1<br>
@@ -238,12 +238,12 @@ fo: 1<br>
 sv: 4<br>
 ws: 1<br>
 ## The malicious website blocklist
-com: 4779<br>
+com: 4780<br>
 xyz: 558<br>
 site: 291<br>
 net: 294<br>
 live: 160<br>
-cc: 17<br>
+cc: 18<br>
 in: 18<br>
 de: 91<br>
 cn: 25<br>
@@ -433,6 +433,7 @@ us-east-1.linodeobjects.com: 2<br>
 games: 2<br>
 com.ua: 2<br>
 yachts: 9<br>
+ondigitalocean.app: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -446,7 +447,6 @@ rip: 1<br>
 ai: 1<br>
 rocks: 2<br>
 netlify.app: 2<br>
-ondigitalocean.app: 1<br>
 bio: 1<br>
 tv: 1<br>
 mobi: 1<br>
