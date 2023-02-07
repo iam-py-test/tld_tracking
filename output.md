@@ -1,17 +1,17 @@
 ## All lists
-com: 4815<br>
-xyz: 558<br>
+com: 4818<br>
+xyz: 560<br>
 site: 293<br>
-net: 297<br>
-live: 162<br>
+net: 298<br>
+live: 163<br>
 cc: 18<br>
 in: 18<br>
 de: 116<br>
 cn: 25<br>
-info: 117<br>
+info: 121<br>
 pl: 11<br>
 us: 48<br>
-top: 522<br>
+top: 539<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
@@ -85,7 +85,7 @@ gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 119<br>
+co: 120<br>
 help: 1<br>
 ru.com: 10<br>
 ms: 4<br>
@@ -239,19 +239,19 @@ fo: 1<br>
 sv: 4<br>
 ws: 1<br>
 ## The malicious website blocklist
-com: 4789<br>
-xyz: 558<br>
+com: 4792<br>
+xyz: 560<br>
 site: 293<br>
-net: 295<br>
-live: 162<br>
+net: 296<br>
+live: 163<br>
 cc: 18<br>
 in: 18<br>
 de: 116<br>
 cn: 25<br>
-info: 117<br>
+info: 121<br>
 pl: 11<br>
 us: 48<br>
-top: 522<br>
+top: 539<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
@@ -325,7 +325,7 @@ gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 117<br>
+co: 118<br>
 help: 1<br>
 ru.com: 10<br>
 ms: 4<br>
