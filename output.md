@@ -1,7 +1,7 @@
 ## All lists
-com: 4818<br>
+com: 4820<br>
 xyz: 560<br>
-site: 293<br>
+site: 294<br>
 net: 298<br>
 live: 163<br>
 cc: 18<br>
@@ -11,11 +11,11 @@ cn: 25<br>
 info: 121<br>
 pl: 11<br>
 us: 48<br>
-top: 539<br>
+top: 540<br>
 win: 3<br>
 trade: 1<br>
-ru: 405<br>
-org: 189<br>
+ru: 407<br>
+org: 190<br>
 blogspot.com: 15<br>
 pw: 17<br>
 nf: 1<br>
@@ -239,9 +239,9 @@ fo: 1<br>
 sv: 4<br>
 ws: 1<br>
 ## The malicious website blocklist
-com: 4792<br>
+com: 4794<br>
 xyz: 560<br>
-site: 293<br>
+site: 294<br>
 net: 296<br>
 live: 163<br>
 cc: 18<br>
@@ -251,11 +251,11 @@ cn: 25<br>
 info: 121<br>
 pl: 11<br>
 us: 48<br>
-top: 539<br>
+top: 540<br>
 win: 3<br>
 trade: 1<br>
-ru: 405<br>
-org: 187<br>
+ru: 407<br>
+org: 188<br>
 blogspot.com: 15<br>
 pw: 17<br>
 nf: 1<br>
