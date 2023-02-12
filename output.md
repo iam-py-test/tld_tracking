@@ -1,5 +1,5 @@
 ## All lists
-com: 4826<br>
+com: 4822<br>
 xyz: 560<br>
 site: 294<br>
 net: 298<br>
@@ -14,9 +14,9 @@ us: 48<br>
 top: 540<br>
 win: 3<br>
 trade: 1<br>
-ru: 409<br>
+ru: 405<br>
 org: 193<br>
-blogspot.com: 15<br>
+blogspot.com: 14<br>
 pw: 17<br>
 nf: 1<br>
 space: 200<br>
@@ -27,9 +27,6 @@ org.uk: 2<br>
 pro: 59<br>
 vip: 15<br>
 website: 5<br>
-ddns.net: 22<br>
-gotdns.ch: 2<br>
-hopto.org: 4<br>
 la: 6<br>
 tech: 11<br>
 pp.ru: 2<br>
@@ -56,6 +53,7 @@ digital: 2<br>
 best: 4<br>
 cf: 6<br>
 ls: 1<br>
+ddns.net: 18<br>
 co.uk: 52<br>
 ngrok.io: 1<br>
 com.ar: 4<br>
@@ -71,6 +69,7 @@ com.br: 8<br>
 org.nz: 1<br>
 be: 1<br>
 fr: 11<br>
+hopto.org: 3<br>
 cl: 2<br>
 eu: 22<br>
 cam: 7<br>
@@ -80,7 +79,7 @@ no-ip.org: 1<br>
 at: 17<br>
 duckdns.org: 19<br>
 se: 6<br>
-link: 17<br>
+link: 18<br>
 gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
@@ -168,6 +167,7 @@ systems: 1<br>
 solutions: 1<br>
 co.in: 5<br>
 com.ht: 1<br>
+gotdns.ch: 1<br>
 work: 4<br>
 web.app: 2<br>
 app: 7<br>
@@ -239,7 +239,7 @@ fo: 1<br>
 sv: 4<br>
 ws: 1<br>
 ## The malicious website blocklist
-com: 4800<br>
+com: 4796<br>
 xyz: 560<br>
 site: 294<br>
 net: 296<br>
@@ -254,9 +254,9 @@ us: 48<br>
 top: 540<br>
 win: 3<br>
 trade: 1<br>
-ru: 409<br>
+ru: 405<br>
 org: 191<br>
-blogspot.com: 15<br>
+blogspot.com: 14<br>
 pw: 17<br>
 nf: 1<br>
 space: 200<br>
@@ -267,9 +267,6 @@ org.uk: 2<br>
 pro: 59<br>
 vip: 15<br>
 website: 5<br>
-ddns.net: 22<br>
-gotdns.ch: 2<br>
-hopto.org: 4<br>
 la: 6<br>
 tech: 11<br>
 pp.ru: 2<br>
@@ -296,6 +293,7 @@ digital: 2<br>
 best: 4<br>
 cf: 6<br>
 ls: 1<br>
+ddns.net: 18<br>
 co.uk: 52<br>
 ngrok.io: 1<br>
 com.ar: 4<br>
@@ -311,6 +309,7 @@ com.br: 8<br>
 org.nz: 1<br>
 be: 1<br>
 fr: 11<br>
+hopto.org: 3<br>
 cl: 2<br>
 eu: 21<br>
 cam: 7<br>
@@ -320,7 +319,7 @@ no-ip.org: 1<br>
 at: 17<br>
 duckdns.org: 19<br>
 se: 6<br>
-link: 17<br>
+link: 18<br>
 gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
@@ -408,6 +407,7 @@ systems: 1<br>
 solutions: 1<br>
 co.in: 5<br>
 com.ht: 1<br>
+gotdns.ch: 1<br>
 work: 4<br>
 web.app: 2<br>
 app: 7<br>
