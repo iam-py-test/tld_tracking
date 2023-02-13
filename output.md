@@ -1,9 +1,9 @@
 ## All lists
-com: 4822<br>
+com: 4829<br>
 xyz: 560<br>
 site: 294<br>
 net: 298<br>
-live: 163<br>
+live: 164<br>
 cc: 18<br>
 in: 18<br>
 de: 116<br>
@@ -11,7 +11,7 @@ cn: 25<br>
 info: 121<br>
 pl: 11<br>
 us: 48<br>
-top: 540<br>
+top: 550<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
@@ -24,7 +24,7 @@ biz: 29<br>
 cz: 15<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 59<br>
+pro: 68<br>
 vip: 15<br>
 website: 5<br>
 la: 6<br>
@@ -96,7 +96,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 71<br>
-click: 19<br>
+click: 20<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -239,11 +239,11 @@ fo: 1<br>
 sv: 4<br>
 ws: 1<br>
 ## The malicious website blocklist
-com: 4796<br>
+com: 4803<br>
 xyz: 560<br>
 site: 294<br>
 net: 296<br>
-live: 163<br>
+live: 164<br>
 cc: 18<br>
 in: 18<br>
 de: 116<br>
@@ -251,7 +251,7 @@ cn: 25<br>
 info: 121<br>
 pl: 11<br>
 us: 48<br>
-top: 540<br>
+top: 550<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
@@ -264,7 +264,7 @@ biz: 29<br>
 cz: 15<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 59<br>
+pro: 68<br>
 vip: 15<br>
 website: 5<br>
 la: 6<br>
@@ -336,7 +336,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 71<br>
-click: 19<br>
+click: 20<br>
 loan: 1<br>
 pp.ua: 2<br>
 foundation: 1<br>
