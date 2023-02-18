@@ -1,9 +1,9 @@
 ## All lists
-com: 4841<br>
+com: 4856<br>
 xyz: 562<br>
 site: 295<br>
 net: 302<br>
-live: 164<br>
+live: 165<br>
 cc: 19<br>
 in: 18<br>
 de: 116<br>
@@ -14,7 +14,7 @@ us: 48<br>
 top: 586<br>
 win: 3<br>
 trade: 1<br>
-ru: 409<br>
+ru: 410<br>
 org: 196<br>
 blogspot.com: 14<br>
 pw: 21<br>
@@ -24,18 +24,18 @@ biz: 29<br>
 cz: 16<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 68<br>
-vip: 16<br>
+pro: 71<br>
+vip: 17<br>
 website: 5<br>
 la: 7<br>
 tech: 11<br>
 pp.ru: 2<br>
 net.ru: 4<br>
 ga: 12<br>
-ml: 17<br>
+ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
-fun: 16<br>
+fun: 17<br>
 club: 95<br>
 xn--p1ai: 6<br>
 online: 60<br>
@@ -62,7 +62,7 @@ tk: 14<br>
 glitch.me: 15<br>
 one: 5<br>
 sytes.net: 4<br>
-su: 16<br>
+su: 17<br>
 com.br: 8<br>
 org.nz: 1<br>
 be: 1<br>
@@ -95,7 +95,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 71<br>
-click: 31<br>
+click: 33<br>
 loan: 2<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -229,6 +229,7 @@ ws: 2<br>
 ac: 1<br>
 ci: 1<br>
 st: 1<br>
+studio: 1<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
@@ -271,11 +272,11 @@ sv: 4<br>
 vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
-com: 4815<br>
+com: 4830<br>
 xyz: 562<br>
 site: 295<br>
 net: 300<br>
-live: 164<br>
+live: 165<br>
 cc: 19<br>
 in: 18<br>
 de: 116<br>
@@ -286,7 +287,7 @@ us: 48<br>
 top: 586<br>
 win: 3<br>
 trade: 1<br>
-ru: 409<br>
+ru: 410<br>
 org: 194<br>
 blogspot.com: 14<br>
 pw: 21<br>
@@ -296,18 +297,18 @@ biz: 29<br>
 cz: 16<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 68<br>
-vip: 16<br>
+pro: 71<br>
+vip: 17<br>
 website: 5<br>
 la: 7<br>
 tech: 11<br>
 pp.ru: 2<br>
 net.ru: 4<br>
 ga: 12<br>
-ml: 17<br>
+ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
-fun: 16<br>
+fun: 17<br>
 club: 95<br>
 xn--p1ai: 6<br>
 online: 60<br>
@@ -334,7 +335,7 @@ tk: 14<br>
 glitch.me: 15<br>
 one: 5<br>
 sytes.net: 4<br>
-su: 16<br>
+su: 17<br>
 com.br: 8<br>
 org.nz: 1<br>
 be: 1<br>
@@ -367,7 +368,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 71<br>
-click: 31<br>
+click: 33<br>
 loan: 2<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -501,6 +502,7 @@ ws: 2<br>
 ac: 1<br>
 ci: 1<br>
 st: 1<br>
+studio: 1<br>
 cloudfront.net: 7<br>
 wang: 1<br>
 rw: 1<br>
