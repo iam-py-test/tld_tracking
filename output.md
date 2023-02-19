@@ -1,6 +1,6 @@
 ## All lists
 com: 4856<br>
-xyz: 562<br>
+xyz: 563<br>
 site: 295<br>
 net: 302<br>
 live: 165<br>
@@ -36,7 +36,7 @@ ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
 fun: 17<br>
-club: 95<br>
+club: 96<br>
 xn--p1ai: 6<br>
 online: 60<br>
 cloud: 4<br>
@@ -60,7 +60,7 @@ casa: 149<br>
 bar: 14<br>
 tk: 14<br>
 glitch.me: 15<br>
-one: 5<br>
+one: 6<br>
 sytes.net: 4<br>
 su: 17<br>
 com.br: 8<br>
@@ -273,7 +273,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
 com: 4830<br>
-xyz: 562<br>
+xyz: 563<br>
 site: 295<br>
 net: 300<br>
 live: 165<br>
@@ -309,7 +309,7 @@ ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
 fun: 17<br>
-club: 95<br>
+club: 96<br>
 xn--p1ai: 6<br>
 online: 60<br>
 cloud: 4<br>
@@ -333,7 +333,7 @@ casa: 149<br>
 bar: 14<br>
 tk: 14<br>
 glitch.me: 15<br>
-one: 5<br>
+one: 6<br>
 sytes.net: 4<br>
 su: 17<br>
 com.br: 8<br>
