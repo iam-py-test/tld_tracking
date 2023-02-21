@@ -1,12 +1,12 @@
 ## All lists
-com: 4857<br>
-xyz: 563<br>
+com: 4879<br>
+xyz: 588<br>
 site: 295<br>
-net: 302<br>
+net: 304<br>
 live: 165<br>
 cc: 19<br>
 in: 18<br>
-de: 124<br>
+de: 125<br>
 cn: 25<br>
 info: 127<br>
 pl: 33<br>
@@ -16,7 +16,6 @@ win: 3<br>
 trade: 1<br>
 ru: 410<br>
 org: 196<br>
-blogspot.com: 14<br>
 pw: 21<br>
 nf: 1<br>
 space: 199<br>
@@ -38,9 +37,10 @@ ey.r.appspot.com: 1<br>
 fun: 17<br>
 club: 96<br>
 xn--p1ai: 6<br>
-online: 60<br>
+online: 61<br>
 cloud: 4<br>
 me: 38<br>
+blogspot.com: 10<br>
 buzz: 283<br>
 uno: 17<br>
 cyou: 21<br>
@@ -95,7 +95,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 71<br>
-click: 33<br>
+click: 37<br>
 loan: 2<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -173,7 +173,6 @@ app: 7<br>
 media: 2<br>
 wixsite.com: 1<br>
 yolasite.com: 1<br>
-translate.goog: 1<br>
 nl: 8<br>
 to: 3<br>
 pr46m.vps.myjino.ru: 1<br>
@@ -272,14 +271,14 @@ sv: 4<br>
 vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
-com: 4831<br>
-xyz: 563<br>
+com: 4853<br>
+xyz: 588<br>
 site: 295<br>
-net: 300<br>
+net: 302<br>
 live: 165<br>
 cc: 19<br>
 in: 18<br>
-de: 124<br>
+de: 125<br>
 cn: 25<br>
 info: 127<br>
 pl: 33<br>
@@ -289,7 +288,6 @@ win: 3<br>
 trade: 1<br>
 ru: 410<br>
 org: 194<br>
-blogspot.com: 14<br>
 pw: 21<br>
 nf: 1<br>
 space: 199<br>
@@ -311,9 +309,10 @@ ey.r.appspot.com: 1<br>
 fun: 17<br>
 club: 96<br>
 xn--p1ai: 6<br>
-online: 60<br>
+online: 61<br>
 cloud: 4<br>
 me: 38<br>
+blogspot.com: 10<br>
 buzz: 283<br>
 uno: 17<br>
 cyou: 21<br>
@@ -368,7 +367,7 @@ gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
 life: 71<br>
-click: 33<br>
+click: 37<br>
 loan: 2<br>
 pp.ua: 2<br>
 foundation: 1<br>
@@ -446,7 +445,6 @@ app: 7<br>
 media: 2<br>
 wixsite.com: 1<br>
 yolasite.com: 1<br>
-translate.goog: 1<br>
 nl: 8<br>
 to: 3<br>
 pr46m.vps.myjino.ru: 1<br>
