@@ -1,6 +1,6 @@
 ## All lists
-com: 4879<br>
-xyz: 588<br>
+com: 4885<br>
+xyz: 589<br>
 site: 295<br>
 net: 304<br>
 live: 165<br>
@@ -8,7 +8,7 @@ cc: 19<br>
 in: 18<br>
 de: 125<br>
 cn: 25<br>
-info: 127<br>
+info: 129<br>
 pl: 33<br>
 us: 48<br>
 top: 596<br>
@@ -35,10 +35,10 @@ ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
 fun: 17<br>
-club: 96<br>
+club: 98<br>
 xn--p1ai: 6<br>
 online: 61<br>
-cloud: 4<br>
+cloud: 6<br>
 me: 38<br>
 blogspot.com: 10<br>
 buzz: 283<br>
@@ -271,8 +271,8 @@ sv: 4<br>
 vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
-com: 4853<br>
-xyz: 588<br>
+com: 4859<br>
+xyz: 589<br>
 site: 295<br>
 net: 302<br>
 live: 165<br>
@@ -280,7 +280,7 @@ cc: 19<br>
 in: 18<br>
 de: 125<br>
 cn: 25<br>
-info: 127<br>
+info: 129<br>
 pl: 33<br>
 us: 48<br>
 top: 596<br>
@@ -307,10 +307,10 @@ ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
 fun: 17<br>
-club: 96<br>
+club: 98<br>
 xn--p1ai: 6<br>
 online: 61<br>
-cloud: 4<br>
+cloud: 6<br>
 me: 38<br>
 blogspot.com: 10<br>
 buzz: 283<br>
