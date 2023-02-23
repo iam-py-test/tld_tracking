@@ -78,7 +78,7 @@ no-ip.org: 1<br>
 at: 17<br>
 duckdns.org: 19<br>
 se: 6<br>
-link: 19<br>
+link: 22<br>
 gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
@@ -350,7 +350,7 @@ no-ip.org: 1<br>
 at: 17<br>
 duckdns.org: 19<br>
 se: 6<br>
-link: 19<br>
+link: 22<br>
 gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
