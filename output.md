@@ -1,17 +1,17 @@
 ## All lists
-com: 4862<br>
+com: 4864<br>
 xyz: 563<br>
 site: 287<br>
 net: 304<br>
-live: 164<br>
-cc: 19<br>
+live: 168<br>
+cc: 18<br>
 in: 18<br>
 de: 125<br>
 cn: 25<br>
 info: 124<br>
 pl: 33<br>
 us: 47<br>
-top: 590<br>
+top: 592<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
@@ -270,19 +270,19 @@ sv: 4<br>
 vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
-com: 4836<br>
+com: 4838<br>
 xyz: 563<br>
 site: 287<br>
 net: 302<br>
-live: 164<br>
-cc: 19<br>
+live: 168<br>
+cc: 18<br>
 in: 18<br>
 de: 125<br>
 cn: 25<br>
 info: 124<br>
 pl: 33<br>
 us: 47<br>
-top: 590<br>
+top: 592<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
