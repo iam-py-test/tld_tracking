@@ -1,8 +1,8 @@
 ## All lists
-com: 4863<br>
+com: 4869<br>
 xyz: 563<br>
 site: 287<br>
-net: 304<br>
+net: 305<br>
 live: 164<br>
 cc: 18<br>
 in: 18<br>
@@ -118,7 +118,7 @@ codes: 2<br>
 ug: 2<br>
 ac.ug: 1<br>
 pk: 1<br>
-name: 6<br>
+name: 8<br>
 contact: 1<br>
 social: 3<br>
 quest: 1<br>
@@ -270,10 +270,10 @@ sv: 4<br>
 vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
-com: 4837<br>
+com: 4843<br>
 xyz: 563<br>
 site: 287<br>
-net: 302<br>
+net: 303<br>
 live: 164<br>
 cc: 18<br>
 in: 18<br>
@@ -389,7 +389,7 @@ codes: 2<br>
 ug: 2<br>
 ac.ug: 1<br>
 pk: 1<br>
-name: 6<br>
+name: 8<br>
 contact: 1<br>
 social: 3<br>
 quest: 1<br>
