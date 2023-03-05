@@ -1,5 +1,5 @@
 ## All lists
-com: 4869<br>
+com: 4876<br>
 xyz: 563<br>
 site: 287<br>
 net: 305<br>
@@ -11,11 +11,11 @@ cn: 25<br>
 info: 124<br>
 pl: 33<br>
 us: 47<br>
-top: 591<br>
+top: 590<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
-org: 196<br>
+org: 200<br>
 pw: 21<br>
 nf: 1<br>
 space: 199<br>
@@ -24,7 +24,7 @@ cz: 16<br>
 center: 1<br>
 org.uk: 2<br>
 pro: 72<br>
-vip: 17<br>
+vip: 18<br>
 website: 5<br>
 la: 7<br>
 tech: 11<br>
@@ -80,7 +80,7 @@ gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 124<br>
+co: 123<br>
 help: 1<br>
 ru.com: 10<br>
 ms: 5<br>
@@ -91,7 +91,7 @@ org.ru: 8<br>
 gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
-life: 71<br>
+life: 126<br>
 click: 37<br>
 loan: 2<br>
 pp.ua: 2<br>
@@ -149,7 +149,6 @@ ec2-44-192-106-88.compute-1.amazonaws.com: 1<br>
 azurewebsites.net: 2<br>
 workers.dev: 3<br>
 com.cn: 2<br>
-lol: 3<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
@@ -162,7 +161,7 @@ onion: 1<br>
 appspot.com: 1<br>
 systems: 2<br>
 solutions: 1<br>
-co.in: 5<br>
+co.in: 6<br>
 com.ht: 1<br>
 gotdns.ch: 1<br>
 work: 4<br>
@@ -210,6 +209,7 @@ cx: 1<br>
 lc: 1<br>
 sx: 1<br>
 je: 1<br>
+lol: 2<br>
 bz: 3<br>
 mn: 1<br>
 vc: 1<br>
@@ -270,7 +270,7 @@ sv: 4<br>
 vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
-com: 4843<br>
+com: 4850<br>
 xyz: 563<br>
 site: 287<br>
 net: 303<br>
@@ -282,11 +282,11 @@ cn: 25<br>
 info: 124<br>
 pl: 33<br>
 us: 47<br>
-top: 591<br>
+top: 590<br>
 win: 3<br>
 trade: 1<br>
 ru: 405<br>
-org: 194<br>
+org: 198<br>
 pw: 21<br>
 nf: 1<br>
 space: 199<br>
@@ -295,7 +295,7 @@ cz: 16<br>
 center: 1<br>
 org.uk: 2<br>
 pro: 72<br>
-vip: 17<br>
+vip: 18<br>
 website: 5<br>
 la: 7<br>
 tech: 11<br>
@@ -351,7 +351,7 @@ gratis: 1<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 122<br>
+co: 121<br>
 help: 1<br>
 ru.com: 10<br>
 ms: 5<br>
@@ -362,7 +362,7 @@ org.ru: 8<br>
 gifts: 2<br>
 gift: 6<br>
 com.ru: 2<br>
-life: 71<br>
+life: 126<br>
 click: 37<br>
 loan: 2<br>
 pp.ua: 2<br>
@@ -420,7 +420,6 @@ ec2-44-192-106-88.compute-1.amazonaws.com: 1<br>
 azurewebsites.net: 2<br>
 workers.dev: 2<br>
 com.cn: 1<br>
-lol: 3<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
@@ -433,7 +432,7 @@ onion: 1<br>
 appspot.com: 1<br>
 systems: 2<br>
 solutions: 1<br>
-co.in: 5<br>
+co.in: 6<br>
 com.ht: 1<br>
 gotdns.ch: 1<br>
 work: 4<br>
@@ -481,6 +480,7 @@ cx: 1<br>
 lc: 1<br>
 sx: 1<br>
 je: 1<br>
+lol: 2<br>
 bz: 3<br>
 mn: 1<br>
 vc: 1<br>
