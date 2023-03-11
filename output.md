@@ -1,8 +1,8 @@
 ## All lists
-com: 4855<br>
+com: 4850<br>
 xyz: 557<br>
 site: 287<br>
-net: 302<br>
+net: 303<br>
 live: 162<br>
 cc: 17<br>
 in: 18<br>
@@ -30,13 +30,13 @@ ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
 fun: 16<br>
-club: 85<br>
 online: 60<br>
 cloud: 6<br>
 me: 38<br>
 blogspot.com: 10<br>
 uno: 13<br>
 store: 340<br>
+club: 84<br>
 download: 3<br>
 digital: 2<br>
 best: 5<br>
@@ -268,10 +268,10 @@ sv: 4<br>
 vn.ua: 1<br>
 vinnica.ua: 1<br>
 ## The malicious website blocklist
-com: 4829<br>
+com: 4824<br>
 xyz: 557<br>
 site: 287<br>
-net: 300<br>
+net: 301<br>
 live: 162<br>
 cc: 17<br>
 in: 18<br>
@@ -299,13 +299,13 @@ ml: 18<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
 fun: 16<br>
-club: 85<br>
 online: 60<br>
 cloud: 6<br>
 me: 38<br>
 blogspot.com: 10<br>
 uno: 13<br>
 store: 340<br>
+club: 84<br>
 download: 3<br>
 digital: 2<br>
 best: 5<br>
