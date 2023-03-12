@@ -1,9 +1,9 @@
 ## All lists
 com: 4850<br>
 xyz: 557<br>
-site: 287<br>
+site: 286<br>
 net: 303<br>
-live: 162<br>
+live: 163<br>
 cc: 17<br>
 in: 18<br>
 de: 125<br>
@@ -21,8 +21,8 @@ biz: 29<br>
 cz: 16<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 72<br>
-vip: 18<br>
+pro: 74<br>
+vip: 17<br>
 website: 5<br>
 la: 5<br>
 ga: 12<br>
@@ -270,9 +270,9 @@ vinnica.ua: 1<br>
 ## The malicious website blocklist
 com: 4824<br>
 xyz: 557<br>
-site: 287<br>
+site: 286<br>
 net: 301<br>
-live: 162<br>
+live: 163<br>
 cc: 17<br>
 in: 18<br>
 de: 125<br>
@@ -290,8 +290,8 @@ biz: 29<br>
 cz: 16<br>
 center: 1<br>
 org.uk: 2<br>
-pro: 72<br>
-vip: 18<br>
+pro: 74<br>
+vip: 17<br>
 website: 5<br>
 la: 5<br>
 ga: 12<br>
