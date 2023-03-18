@@ -1,6 +1,6 @@
 ## All lists
-com: 4776<br>
-xyz: 455<br>
+com: 4780<br>
+xyz: 456<br>
 site: 146<br>
 net: 292<br>
 live: 158<br>
@@ -81,7 +81,7 @@ foundation: 1<br>
 life: 116<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 14<br>
+io: 15<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -246,8 +246,8 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4750<br>
-xyz: 455<br>
+com: 4754<br>
+xyz: 456<br>
 site: 146<br>
 net: 290<br>
 live: 158<br>
@@ -328,7 +328,7 @@ foundation: 1<br>
 life: 116<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 14<br>
+io: 15<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
