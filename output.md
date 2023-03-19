@@ -1,8 +1,8 @@
 ## All lists
-com: 4780<br>
+com: 4797<br>
 xyz: 456<br>
 site: 146<br>
-net: 292<br>
+net: 296<br>
 live: 158<br>
 cc: 16<br>
 in: 18<br>
@@ -11,10 +11,10 @@ cn: 23<br>
 info: 118<br>
 pl: 32<br>
 us: 46<br>
-top: 570<br>
+top: 574<br>
 win: 3<br>
 trade: 1<br>
-org: 192<br>
+org: 195<br>
 nf: 1<br>
 cz: 16<br>
 la: 5<br>
@@ -45,7 +45,7 @@ bar: 12<br>
 icu: 30<br>
 tk: 14<br>
 vip: 9<br>
-ru: 98<br>
+ru: 99<br>
 glitch.me: 15<br>
 one: 4<br>
 sytes.net: 2<br>
@@ -58,7 +58,7 @@ org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
 cl: 2<br>
-shop: 63<br>
+shop: 64<br>
 eu: 21<br>
 cam: 4<br>
 no-ip.org: 1<br>
@@ -68,7 +68,7 @@ se: 6<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 117<br>
+co: 118<br>
 link: 14<br>
 ru.com: 2<br>
 ms: 5<br>
@@ -78,10 +78,10 @@ dev: 3<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 116<br>
+life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 15<br>
+io: 16<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -103,7 +103,7 @@ contact: 1<br>
 agency: 1<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 74<br>
+pro: 77<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -116,7 +116,7 @@ ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 39<br>
+click: 41<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 4<br>
@@ -128,7 +128,7 @@ solutions: 1<br>
 social: 1<br>
 co.in: 6<br>
 com.ht: 1<br>
-cfd: 16<br>
+cfd: 20<br>
 page: 1<br>
 gotdns.ch: 1<br>
 web.app: 3<br>
@@ -246,10 +246,10 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4754<br>
+com: 4771<br>
 xyz: 456<br>
 site: 146<br>
-net: 290<br>
+net: 294<br>
 live: 158<br>
 cc: 16<br>
 in: 18<br>
@@ -258,10 +258,10 @@ cn: 23<br>
 info: 118<br>
 pl: 32<br>
 us: 46<br>
-top: 570<br>
+top: 574<br>
 win: 3<br>
 trade: 1<br>
-org: 190<br>
+org: 193<br>
 nf: 1<br>
 cz: 16<br>
 la: 5<br>
@@ -292,7 +292,7 @@ bar: 12<br>
 icu: 30<br>
 tk: 14<br>
 vip: 9<br>
-ru: 98<br>
+ru: 99<br>
 glitch.me: 15<br>
 one: 4<br>
 sytes.net: 2<br>
@@ -305,7 +305,7 @@ org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
 cl: 2<br>
-shop: 63<br>
+shop: 64<br>
 eu: 20<br>
 cam: 4<br>
 no-ip.org: 1<br>
@@ -315,7 +315,7 @@ se: 6<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 115<br>
+co: 116<br>
 link: 14<br>
 ru.com: 2<br>
 ms: 5<br>
@@ -325,10 +325,10 @@ dev: 3<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 116<br>
+life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 15<br>
+io: 16<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -350,7 +350,7 @@ contact: 1<br>
 agency: 1<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 74<br>
+pro: 77<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -363,7 +363,7 @@ ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 39<br>
+click: 41<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 4<br>
@@ -375,7 +375,7 @@ solutions: 1<br>
 social: 1<br>
 co.in: 6<br>
 com.ht: 1<br>
-cfd: 16<br>
+cfd: 20<br>
 page: 1<br>
 gotdns.ch: 1<br>
 web.app: 3<br>
