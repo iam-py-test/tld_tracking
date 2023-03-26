@@ -3,7 +3,7 @@ com: 4797<br>
 xyz: 456<br>
 site: 146<br>
 net: 296<br>
-live: 158<br>
+live: 159<br>
 cc: 16<br>
 in: 18<br>
 de: 124<br>
@@ -91,7 +91,7 @@ guru: 2<br>
 cloud: 5<br>
 serveftp.com: 1<br>
 hu: 2<br>
-github.io: 2<br>
+github.io: 3<br>
 sbs: 6<br>
 codes: 2<br>
 ug: 2<br>
@@ -246,11 +246,11 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4771<br>
+com: 4779<br>
 xyz: 456<br>
 site: 146<br>
-net: 294<br>
-live: 158<br>
+net: 295<br>
+live: 159<br>
 cc: 16<br>
 in: 18<br>
 de: 124<br>
@@ -306,7 +306,7 @@ fr: 11<br>
 hopto.org: 3<br>
 cl: 2<br>
 shop: 64<br>
-eu: 20<br>
+eu: 21<br>
 cam: 4<br>
 no-ip.org: 1<br>
 at: 17<br>
@@ -315,7 +315,7 @@ se: 6<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 116<br>
+co: 118<br>
 link: 14<br>
 ru.com: 2<br>
 ms: 5<br>
@@ -358,7 +358,7 @@ us-west-1.compute.amazonaws.com: 2<br>
 ec2-44-192-106-88.compute-1.amazonaws.com: 1<br>
 azurewebsites.net: 2<br>
 workers.dev: 2<br>
-com.cn: 1<br>
+com.cn: 2<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
@@ -493,10 +493,8 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 26<br>
+com: 18<br>
 org: 2<br>
-co: 2<br>
 workers.dev: 1<br>
-net: 2<br>
-eu: 1<br>
-com.cn: 1<br>
+net: 1<br>
+github.io: 1<br>
