@@ -1,6 +1,6 @@
 ## All lists
-com: 4535<br>
-xyz: 453<br>
+com: 4538<br>
+xyz: 454<br>
 site: 146<br>
 net: 293<br>
 live: 158<br>
@@ -46,7 +46,7 @@ tk: 14<br>
 vip: 9<br>
 ru: 99<br>
 glitch.me: 15<br>
-one: 3<br>
+one: 4<br>
 sytes.net: 2<br>
 com.br: 8<br>
 pw: 18<br>
@@ -115,7 +115,7 @@ ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 42<br>
+click: 48<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 4<br>
@@ -127,7 +127,7 @@ solutions: 1<br>
 social: 1<br>
 co.in: 6<br>
 com.ht: 1<br>
-cfd: 20<br>
+cfd: 23<br>
 page: 1<br>
 gotdns.ch: 1<br>
 web.app: 3<br>
@@ -245,8 +245,8 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4517<br>
-xyz: 453<br>
+com: 4520<br>
+xyz: 454<br>
 site: 146<br>
 net: 292<br>
 live: 158<br>
@@ -292,7 +292,7 @@ tk: 14<br>
 vip: 9<br>
 ru: 99<br>
 glitch.me: 15<br>
-one: 3<br>
+one: 4<br>
 sytes.net: 2<br>
 com.br: 8<br>
 pw: 18<br>
@@ -361,7 +361,7 @@ ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 42<br>
+click: 48<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 4<br>
@@ -373,7 +373,7 @@ solutions: 1<br>
 social: 1<br>
 co.in: 6<br>
 com.ht: 1<br>
-cfd: 20<br>
+cfd: 23<br>
 page: 1<br>
 gotdns.ch: 1<br>
 web.app: 3<br>
