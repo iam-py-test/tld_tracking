@@ -1,8 +1,8 @@
 ## All lists
-com: 4539<br>
-xyz: 454<br>
+com: 4551<br>
+xyz: 455<br>
 site: 146<br>
-net: 296<br>
+net: 299<br>
 live: 158<br>
 cc: 15<br>
 in: 18<br>
@@ -50,7 +50,7 @@ one: 4<br>
 sytes.net: 2<br>
 com.br: 8<br>
 pw: 18<br>
-cyou: 10<br>
+cyou: 11<br>
 online: 36<br>
 su: 10<br>
 org.nz: 1<br>
@@ -115,7 +115,7 @@ ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 48<br>
+click: 51<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 4<br>
@@ -127,7 +127,7 @@ solutions: 1<br>
 social: 1<br>
 co.in: 6<br>
 com.ht: 1<br>
-cfd: 23<br>
+cfd: 25<br>
 page: 1<br>
 gotdns.ch: 1<br>
 web.app: 3<br>
@@ -245,10 +245,10 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4521<br>
-xyz: 454<br>
+com: 4533<br>
+xyz: 455<br>
 site: 146<br>
-net: 295<br>
+net: 298<br>
 live: 158<br>
 cc: 15<br>
 in: 18<br>
@@ -296,7 +296,7 @@ one: 4<br>
 sytes.net: 2<br>
 com.br: 8<br>
 pw: 18<br>
-cyou: 10<br>
+cyou: 11<br>
 online: 36<br>
 su: 10<br>
 org.nz: 1<br>
@@ -361,7 +361,7 @@ ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 48<br>
+click: 51<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 4<br>
@@ -373,7 +373,7 @@ solutions: 1<br>
 social: 1<br>
 co.in: 6<br>
 com.ht: 1<br>
-cfd: 23<br>
+cfd: 25<br>
 page: 1<br>
 gotdns.ch: 1<br>
 web.app: 3<br>
