@@ -1,8 +1,8 @@
 ## All lists
-com: 4551<br>
+com: 4548<br>
 xyz: 455<br>
 site: 146<br>
-net: 299<br>
+net: 298<br>
 live: 158<br>
 cc: 15<br>
 in: 18<br>
@@ -22,7 +22,7 @@ ga: 10<br>
 ml: 16<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
-fun: 10<br>
+fun: 11<br>
 download: 3<br>
 me: 30<br>
 digital: 2<br>
@@ -52,7 +52,7 @@ com.br: 8<br>
 pw: 18<br>
 cyou: 11<br>
 online: 36<br>
-su: 10<br>
+su: 9<br>
 org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
@@ -212,7 +212,7 @@ bet: 2<br>
 cash: 2<br>
 rip: 1<br>
 ai: 1<br>
-rocks: 2<br>
+rocks: 1<br>
 netlify.app: 2<br>
 bio: 1<br>
 tv: 1<br>
@@ -245,7 +245,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4533<br>
+com: 4539<br>
 xyz: 455<br>
 site: 146<br>
 net: 298<br>
@@ -268,7 +268,7 @@ ga: 10<br>
 ml: 16<br>
 gq: 12<br>
 ey.r.appspot.com: 1<br>
-fun: 10<br>
+fun: 11<br>
 download: 3<br>
 me: 30<br>
 digital: 2<br>
@@ -298,7 +298,7 @@ com.br: 8<br>
 pw: 18<br>
 cyou: 11<br>
 online: 36<br>
-su: 10<br>
+su: 9<br>
 org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
@@ -458,7 +458,7 @@ bet: 2<br>
 cash: 2<br>
 rip: 1<br>
 ai: 1<br>
-rocks: 2<br>
+rocks: 1<br>
 netlify.app: 2<br>
 bio: 1<br>
 tv: 1<br>
@@ -491,8 +491,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 18<br>
+com: 9<br>
 org: 2<br>
 workers.dev: 1<br>
-net: 1<br>
 github.io: 1<br>
