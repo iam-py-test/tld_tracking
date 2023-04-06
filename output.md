@@ -2,7 +2,7 @@
 com: 4551<br>
 xyz: 452<br>
 site: 146<br>
-net: 297<br>
+net: 296<br>
 live: 163<br>
 cc: 15<br>
 in: 18<br>
@@ -57,7 +57,7 @@ org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
 cl: 2<br>
-shop: 64<br>
+shop: 65<br>
 eu: 21<br>
 cam: 4<br>
 no-ip.org: 1<br>
@@ -247,7 +247,7 @@ onl: 1<br>
 com: 4542<br>
 xyz: 452<br>
 site: 146<br>
-net: 297<br>
+net: 296<br>
 live: 163<br>
 cc: 15<br>
 in: 18<br>
@@ -302,7 +302,7 @@ org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
 cl: 2<br>
-shop: 64<br>
+shop: 65<br>
 eu: 21<br>
 cam: 4<br>
 no-ip.org: 1<br>
