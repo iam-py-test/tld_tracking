@@ -1,5 +1,5 @@
 ## All lists
-com: 4551<br>
+com: 4566<br>
 xyz: 452<br>
 site: 146<br>
 net: 296<br>
@@ -11,7 +11,7 @@ cn: 23<br>
 info: 117<br>
 pl: 30<br>
 us: 42<br>
-top: 572<br>
+top: 573<br>
 win: 3<br>
 trade: 1<br>
 org: 192<br>
@@ -42,7 +42,7 @@ bar: 11<br>
 icu: 30<br>
 uno: 6<br>
 store: 334<br>
-tk: 13<br>
+tk: 14<br>
 vip: 10<br>
 ru: 99<br>
 glitch.me: 15<br>
@@ -57,7 +57,7 @@ org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
 cl: 2<br>
-shop: 65<br>
+shop: 66<br>
 eu: 21<br>
 cam: 4<br>
 no-ip.org: 1<br>
@@ -244,7 +244,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4542<br>
+com: 4557<br>
 xyz: 452<br>
 site: 146<br>
 net: 296<br>
@@ -256,7 +256,7 @@ cn: 23<br>
 info: 117<br>
 pl: 30<br>
 us: 42<br>
-top: 572<br>
+top: 573<br>
 win: 3<br>
 trade: 1<br>
 org: 190<br>
@@ -287,7 +287,7 @@ bar: 11<br>
 icu: 30<br>
 uno: 6<br>
 store: 334<br>
-tk: 13<br>
+tk: 14<br>
 vip: 10<br>
 ru: 99<br>
 glitch.me: 15<br>
@@ -302,7 +302,7 @@ org.nz: 1<br>
 fr: 11<br>
 hopto.org: 3<br>
 cl: 2<br>
-shop: 65<br>
+shop: 66<br>
 eu: 21<br>
 cam: 4<br>
 no-ip.org: 1<br>
