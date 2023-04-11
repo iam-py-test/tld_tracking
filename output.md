@@ -1,9 +1,9 @@
 ## All lists
-com: 4457<br>
-xyz: 410<br>
-site: 41<br>
+com: 4465<br>
+xyz: 1231<br>
+site: 42<br>
 net: 288<br>
-live: 161<br>
+live: 1689<br>
 cc: 15<br>
 in: 17<br>
 de: 123<br>
@@ -11,10 +11,10 @@ cn: 23<br>
 info: 95<br>
 pl: 30<br>
 us: 42<br>
-top: 557<br>
+top: 561<br>
 win: 3<br>
 trade: 1<br>
-org: 185<br>
+org: 186<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -38,7 +38,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 92<br>
+ru: 106<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
@@ -52,7 +52,7 @@ no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
 co: 118<br>
-online: 33<br>
+online: 35<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -64,7 +64,7 @@ bar: 9<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 116<br>
+life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
 io: 17<br>
@@ -93,7 +93,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 79<br>
+pro: 82<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -244,11 +244,11 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4448<br>
-xyz: 410<br>
-site: 41<br>
+com: 4454<br>
+xyz: 1231<br>
+site: 42<br>
 net: 288<br>
-live: 161<br>
+live: 1689<br>
 cc: 15<br>
 in: 17<br>
 de: 123<br>
@@ -256,10 +256,10 @@ cn: 23<br>
 info: 95<br>
 pl: 30<br>
 us: 42<br>
-top: 557<br>
+top: 561<br>
 win: 3<br>
 trade: 1<br>
-org: 183<br>
+org: 184<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -283,7 +283,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 92<br>
+ru: 106<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
@@ -297,7 +297,7 @@ no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
 co: 118<br>
-online: 33<br>
+online: 35<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -309,7 +309,7 @@ bar: 9<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 116<br>
+life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
 io: 17<br>
@@ -338,7 +338,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 79<br>
+pro: 82<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -489,7 +489,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 9<br>
+com: 11<br>
 org: 2<br>
 workers.dev: 1<br>
 github.io: 1<br>
