@@ -1,12 +1,12 @@
 ## All lists
-com: 4467<br>
-xyz: 1233<br>
+com: 4465<br>
+xyz: 1232<br>
 site: 42<br>
 net: 290<br>
-live: 1689<br>
+live: 1688<br>
 cc: 15<br>
 in: 17<br>
-de: 123<br>
+de: 121<br>
 cn: 23<br>
 info: 95<br>
 pl: 30<br>
@@ -32,8 +32,7 @@ tech: 10<br>
 cf: 5<br>
 ls: 1<br>
 ddns.net: 11<br>
-co.uk: 51<br>
-biz: 20<br>
+co.uk: 50<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
@@ -45,6 +44,7 @@ cl: 2<br>
 shop: 66<br>
 eu: 21<br>
 cam: 4<br>
+biz: 19<br>
 no-ip.org: 1<br>
 duckdns.org: 19<br>
 se: 6<br>
@@ -235,6 +235,7 @@ com.gr: 3<br>
 gr: 1<br>
 co.nz: 1<br>
 xn--80asehdb: 1<br>
+land: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
@@ -244,14 +245,14 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4456<br>
-xyz: 1233<br>
+com: 4454<br>
+xyz: 1232<br>
 site: 42<br>
 net: 290<br>
-live: 1689<br>
+live: 1688<br>
 cc: 15<br>
 in: 17<br>
-de: 123<br>
+de: 121<br>
 cn: 23<br>
 info: 95<br>
 pl: 30<br>
@@ -277,8 +278,7 @@ tech: 10<br>
 cf: 5<br>
 ls: 1<br>
 ddns.net: 11<br>
-co.uk: 51<br>
-biz: 20<br>
+co.uk: 50<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
@@ -290,6 +290,7 @@ cl: 2<br>
 shop: 66<br>
 eu: 21<br>
 cam: 4<br>
+biz: 19<br>
 no-ip.org: 1<br>
 duckdns.org: 19<br>
 se: 6<br>
@@ -480,6 +481,7 @@ com.gr: 3<br>
 gr: 1<br>
 co.nz: 1<br>
 xn--80asehdb: 1<br>
+land: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
