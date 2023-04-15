@@ -1,9 +1,9 @@
 ## All lists
-com: 4465<br>
+com: 4468<br>
 xyz: 1232<br>
 site: 42<br>
 net: 290<br>
-live: 1688<br>
+live: 1689<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
@@ -245,11 +245,11 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4454<br>
+com: 4457<br>
 xyz: 1232<br>
 site: 42<br>
 net: 290<br>
-live: 1688<br>
+live: 1689<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
