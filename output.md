@@ -1,20 +1,20 @@
 ## All lists
-com: 4468<br>
-xyz: 1232<br>
+com: 4483<br>
+xyz: 1237<br>
 site: 42<br>
-net: 290<br>
+net: 289<br>
 live: 1689<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
 cn: 23<br>
-info: 95<br>
+info: 96<br>
 pl: 30<br>
 us: 42<br>
-top: 561<br>
+top: 563<br>
 win: 3<br>
 trade: 1<br>
-org: 186<br>
+org: 187<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -42,7 +42,7 @@ org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
 shop: 66<br>
-eu: 21<br>
+eu: 20<br>
 cam: 4<br>
 biz: 19<br>
 no-ip.org: 1<br>
@@ -52,7 +52,7 @@ no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
 co: 118<br>
-online: 35<br>
+online: 36<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -85,7 +85,7 @@ ug: 2<br>
 ac.ug: 1<br>
 pk: 1<br>
 name: 8<br>
-store: 332<br>
+store: 333<br>
 at: 14<br>
 gift: 4<br>
 contact: 1<br>
@@ -101,7 +101,7 @@ us-west-1.compute.amazonaws.com: 2<br>
 ec2-44-192-106-88.compute-1.amazonaws.com: 1<br>
 azurewebsites.net: 2<br>
 workers.dev: 3<br>
-com.cn: 2<br>
+com.cn: 1<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
@@ -236,6 +236,7 @@ gr: 1<br>
 co.nz: 1<br>
 xn--80asehdb: 1<br>
 land: 1<br>
+faith: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
@@ -245,19 +246,19 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4457<br>
-xyz: 1232<br>
+com: 4472<br>
+xyz: 1237<br>
 site: 42<br>
-net: 290<br>
+net: 289<br>
 live: 1689<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
 cn: 23<br>
-info: 95<br>
+info: 96<br>
 pl: 30<br>
 us: 42<br>
-top: 561<br>
+top: 563<br>
 win: 3<br>
 trade: 1<br>
 org: 184<br>
@@ -288,7 +289,7 @@ org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
 shop: 66<br>
-eu: 21<br>
+eu: 20<br>
 cam: 4<br>
 biz: 19<br>
 no-ip.org: 1<br>
@@ -298,7 +299,7 @@ no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
 co: 118<br>
-online: 35<br>
+online: 36<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -331,7 +332,7 @@ ug: 2<br>
 ac.ug: 1<br>
 pk: 1<br>
 name: 8<br>
-store: 332<br>
+store: 333<br>
 at: 14<br>
 gift: 4<br>
 contact: 1<br>
@@ -347,7 +348,7 @@ us-west-1.compute.amazonaws.com: 2<br>
 ec2-44-192-106-88.compute-1.amazonaws.com: 1<br>
 azurewebsites.net: 2<br>
 workers.dev: 2<br>
-com.cn: 2<br>
+com.cn: 1<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
@@ -482,6 +483,7 @@ gr: 1<br>
 co.nz: 1<br>
 xn--80asehdb: 1<br>
 land: 1<br>
+faith: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
@@ -492,6 +494,6 @@ vinnica.ua: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
 com: 11<br>
-org: 2<br>
+org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
