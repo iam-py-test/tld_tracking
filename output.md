@@ -1,8 +1,8 @@
 ## All lists
-com: 4483<br>
+com: 4486<br>
 xyz: 1237<br>
 site: 42<br>
-net: 289<br>
+net: 291<br>
 live: 1689<br>
 cc: 15<br>
 in: 17<br>
@@ -93,7 +93,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 82<br>
+pro: 83<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -246,10 +246,10 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4472<br>
+com: 4475<br>
 xyz: 1237<br>
 site: 42<br>
-net: 289<br>
+net: 291<br>
 live: 1689<br>
 cc: 15<br>
 in: 17<br>
@@ -340,7 +340,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 82<br>
+pro: 83<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
