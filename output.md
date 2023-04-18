@@ -1,8 +1,8 @@
 ## All lists
-com: 4486<br>
-xyz: 1237<br>
+com: 4689<br>
+xyz: 1238<br>
 site: 42<br>
-net: 291<br>
+net: 297<br>
 live: 1689<br>
 cc: 15<br>
 in: 17<br>
@@ -11,10 +11,10 @@ cn: 23<br>
 info: 96<br>
 pl: 30<br>
 us: 42<br>
-top: 563<br>
+top: 564<br>
 win: 3<br>
 trade: 1<br>
-org: 187<br>
+org: 188<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -42,7 +42,7 @@ org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
 shop: 66<br>
-eu: 20<br>
+eu: 21<br>
 cam: 4<br>
 biz: 19<br>
 no-ip.org: 1<br>
@@ -52,7 +52,7 @@ no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
 co: 118<br>
-online: 36<br>
+online: 37<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -67,7 +67,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 17<br>
+io: 18<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -101,7 +101,7 @@ us-west-1.compute.amazonaws.com: 2<br>
 ec2-44-192-106-88.compute-1.amazonaws.com: 1<br>
 azurewebsites.net: 2<br>
 workers.dev: 3<br>
-com.cn: 1<br>
+com.cn: 2<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
@@ -121,7 +121,7 @@ com.ht: 1<br>
 cfd: 25<br>
 page: 1<br>
 gotdns.ch: 1<br>
-space: 14<br>
+space: 15<br>
 casa: 1<br>
 web.app: 3<br>
 app: 7<br>
@@ -246,10 +246,10 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4475<br>
-xyz: 1237<br>
+com: 4677<br>
+xyz: 1238<br>
 site: 42<br>
-net: 291<br>
+net: 296<br>
 live: 1689<br>
 cc: 15<br>
 in: 17<br>
@@ -258,10 +258,10 @@ cn: 23<br>
 info: 96<br>
 pl: 30<br>
 us: 42<br>
-top: 563<br>
+top: 564<br>
 win: 3<br>
 trade: 1<br>
-org: 184<br>
+org: 185<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -299,7 +299,7 @@ no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
 co: 118<br>
-online: 36<br>
+online: 37<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -314,7 +314,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 17<br>
+io: 18<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -368,7 +368,7 @@ com.ht: 1<br>
 cfd: 25<br>
 page: 1<br>
 gotdns.ch: 1<br>
-space: 14<br>
+space: 15<br>
 casa: 1<br>
 web.app: 3<br>
 app: 7<br>
@@ -493,7 +493,10 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 11<br>
+com: 12<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
+net: 1<br>
+eu: 1<br>
+com.cn: 1<br>
