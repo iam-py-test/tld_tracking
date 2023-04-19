@@ -1,5 +1,5 @@
 ## All lists
-com: 4689<br>
+com: 4691<br>
 xyz: 1238<br>
 site: 42<br>
 net: 297<br>
@@ -246,7 +246,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4677<br>
+com: 4679<br>
 xyz: 1238<br>
 site: 42<br>
 net: 296<br>
