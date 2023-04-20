@@ -1,9 +1,9 @@
 ## All lists
-com: 4691<br>
+com: 4693<br>
 xyz: 1238<br>
-site: 42<br>
+site: 43<br>
 net: 297<br>
-live: 1689<br>
+live: 1690<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
@@ -18,7 +18,7 @@ org: 188<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
-ga: 10<br>
+ga: 11<br>
 ml: 15<br>
 gq: 10<br>
 ey.r.appspot.com: 1<br>
@@ -28,7 +28,7 @@ me: 26<br>
 digital: 2<br>
 club: 23<br>
 best: 5<br>
-tech: 10<br>
+tech: 11<br>
 cf: 5<br>
 ls: 1<br>
 ddns.net: 11<br>
@@ -195,6 +195,7 @@ ci: 1<br>
 st: 1<br>
 studio: 1<br>
 one: 3<br>
+com.mx: 6<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -224,7 +225,6 @@ co.no: 7<br>
 fr: 10<br>
 co.za: 6<br>
 es: 8<br>
-com.mx: 5<br>
 com.se: 9<br>
 com.tr: 3<br>
 com.co: 4<br>
@@ -246,11 +246,11 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4679<br>
+com: 4681<br>
 xyz: 1238<br>
-site: 42<br>
+site: 43<br>
 net: 296<br>
-live: 1689<br>
+live: 1690<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
@@ -265,7 +265,7 @@ org: 185<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
-ga: 10<br>
+ga: 11<br>
 ml: 15<br>
 gq: 10<br>
 ey.r.appspot.com: 1<br>
@@ -275,7 +275,7 @@ me: 26<br>
 digital: 2<br>
 club: 23<br>
 best: 5<br>
-tech: 10<br>
+tech: 11<br>
 cf: 5<br>
 ls: 1<br>
 ddns.net: 11<br>
@@ -442,6 +442,7 @@ ci: 1<br>
 st: 1<br>
 studio: 1<br>
 one: 3<br>
+com.mx: 6<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -471,7 +472,6 @@ co.no: 7<br>
 fr: 10<br>
 co.za: 6<br>
 es: 8<br>
-com.mx: 5<br>
 com.se: 9<br>
 com.tr: 3<br>
 com.co: 4<br>
