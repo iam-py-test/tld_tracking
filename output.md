@@ -1,16 +1,16 @@
 ## All lists
 com: 4709<br>
 xyz: 1242<br>
-site: 43<br>
+site: 44<br>
 net: 297<br>
 live: 1691<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
 cn: 23<br>
-info: 99<br>
+info: 98<br>
 pl: 30<br>
-us: 42<br>
+us: 43<br>
 top: 564<br>
 win: 3<br>
 trade: 1<br>
@@ -51,8 +51,8 @@ se: 6<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 118<br>
-online: 39<br>
+co: 114<br>
+online: 41<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -195,7 +195,7 @@ ci: 1<br>
 st: 1<br>
 studio: 1<br>
 one: 3<br>
-com.mx: 6<br>
+com.mx: 7<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -248,16 +248,16 @@ onl: 1<br>
 ## The malicious website blocklist
 com: 4697<br>
 xyz: 1242<br>
-site: 43<br>
+site: 44<br>
 net: 296<br>
 live: 1691<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
 cn: 23<br>
-info: 99<br>
+info: 98<br>
 pl: 30<br>
-us: 42<br>
+us: 43<br>
 top: 564<br>
 win: 3<br>
 trade: 1<br>
@@ -298,8 +298,8 @@ se: 6<br>
 no-ip.biz: 1<br>
 uk: 6<br>
 art: 4<br>
-co: 118<br>
-online: 39<br>
+co: 114<br>
+online: 41<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
@@ -442,7 +442,7 @@ ci: 1<br>
 st: 1<br>
 studio: 1<br>
 one: 3<br>
-com.mx: 6<br>
+com.mx: 7<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
