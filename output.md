@@ -1,5 +1,5 @@
 ## All lists
-com: 4715<br>
+com: 4716<br>
 xyz: 1242<br>
 site: 44<br>
 net: 297<br>
@@ -8,7 +8,7 @@ cc: 15<br>
 in: 17<br>
 de: 121<br>
 cn: 23<br>
-info: 98<br>
+info: 99<br>
 pl: 30<br>
 us: 43<br>
 top: 564<br>
@@ -67,7 +67,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 18<br>
+io: 19<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -93,7 +93,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 83<br>
+pro: 84<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -213,7 +213,7 @@ ai: 1<br>
 ru.com: 1<br>
 rocks: 1<br>
 netlify.app: 2<br>
-bio: 1<br>
+bio: 2<br>
 tv: 1<br>
 world: 1<br>
 fi: 2<br>
@@ -246,7 +246,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4703<br>
+com: 4704<br>
 xyz: 1242<br>
 site: 44<br>
 net: 296<br>
@@ -255,7 +255,7 @@ cc: 15<br>
 in: 17<br>
 de: 121<br>
 cn: 23<br>
-info: 98<br>
+info: 99<br>
 pl: 30<br>
 us: 43<br>
 top: 564<br>
@@ -314,7 +314,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 18<br>
+io: 19<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -340,7 +340,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 83<br>
+pro: 84<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -460,7 +460,7 @@ ai: 1<br>
 ru.com: 1<br>
 rocks: 1<br>
 netlify.app: 2<br>
-bio: 1<br>
+bio: 2<br>
 tv: 1<br>
 world: 1<br>
 fi: 2<br>
