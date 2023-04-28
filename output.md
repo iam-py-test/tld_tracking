@@ -1,6 +1,6 @@
 ## All lists
-com: 4721<br>
-xyz: 1242<br>
+com: 4728<br>
+xyz: 1243<br>
 site: 44<br>
 net: 297<br>
 live: 1691<br>
@@ -37,7 +37,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 106<br>
+ru: 107<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
@@ -93,7 +93,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 84<br>
+pro: 86<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -107,7 +107,7 @@ s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 vip: 9<br>
 tools: 1<br>
-click: 51<br>
+click: 53<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 3<br>
@@ -196,6 +196,7 @@ st: 1<br>
 studio: 1<br>
 one: 3<br>
 com.mx: 7<br>
+id: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -246,8 +247,8 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4709<br>
-xyz: 1242<br>
+com: 4715<br>
+xyz: 1243<br>
 site: 44<br>
 net: 296<br>
 live: 1691<br>
@@ -284,7 +285,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 106<br>
+ru: 107<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
@@ -340,7 +341,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 84<br>
+pro: 86<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -354,7 +355,7 @@ s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
 vip: 9<br>
 tools: 1<br>
-click: 51<br>
+click: 53<br>
 kozow.com: 1<br>
 az: 1<br>
 jp: 3<br>
@@ -443,6 +444,7 @@ st: 1<br>
 studio: 1<br>
 one: 3<br>
 com.mx: 7<br>
+id: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -493,7 +495,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 12<br>
+com: 13<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
