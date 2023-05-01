@@ -1,9 +1,9 @@
 ## All lists
-com: 4728<br>
+com: 4736<br>
 xyz: 1243<br>
-site: 44<br>
+site: 45<br>
 net: 297<br>
-live: 1691<br>
+live: 1693<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
@@ -11,10 +11,10 @@ cn: 23<br>
 info: 99<br>
 pl: 30<br>
 us: 43<br>
-top: 567<br>
+top: 568<br>
 win: 3<br>
 trade: 1<br>
-org: 191<br>
+org: 192<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -28,7 +28,7 @@ me: 26<br>
 digital: 2<br>
 club: 23<br>
 best: 5<br>
-tech: 11<br>
+tech: 12<br>
 cf: 5<br>
 ls: 1<br>
 ddns.net: 11<br>
@@ -177,7 +177,7 @@ lc: 1<br>
 sx: 1<br>
 je: 1<br>
 lol: 2<br>
-bz: 3<br>
+bz: 2<br>
 mn: 1<br>
 vc: 1<br>
 ng: 1<br>
@@ -214,7 +214,7 @@ ai: 1<br>
 ru.com: 1<br>
 rocks: 1<br>
 netlify.app: 2<br>
-bio: 2<br>
+bio: 3<br>
 tv: 1<br>
 world: 1<br>
 fi: 2<br>
@@ -247,11 +247,11 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4715<br>
+com: 4723<br>
 xyz: 1243<br>
-site: 44<br>
+site: 45<br>
 net: 296<br>
-live: 1691<br>
+live: 1693<br>
 cc: 15<br>
 in: 17<br>
 de: 121<br>
@@ -259,10 +259,10 @@ cn: 23<br>
 info: 99<br>
 pl: 30<br>
 us: 43<br>
-top: 567<br>
+top: 568<br>
 win: 3<br>
 trade: 1<br>
-org: 188<br>
+org: 189<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -276,7 +276,7 @@ me: 26<br>
 digital: 2<br>
 club: 23<br>
 best: 5<br>
-tech: 11<br>
+tech: 12<br>
 cf: 5<br>
 ls: 1<br>
 ddns.net: 11<br>
@@ -425,7 +425,7 @@ lc: 1<br>
 sx: 1<br>
 je: 1<br>
 lol: 2<br>
-bz: 3<br>
+bz: 2<br>
 mn: 1<br>
 vc: 1<br>
 ng: 1<br>
@@ -462,7 +462,7 @@ ai: 1<br>
 ru.com: 1<br>
 rocks: 1<br>
 netlify.app: 2<br>
-bio: 2<br>
+bio: 3<br>
 tv: 1<br>
 world: 1<br>
 fi: 2<br>
