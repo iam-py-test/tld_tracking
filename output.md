@@ -1,5 +1,5 @@
 ## All lists
-com: 4738<br>
+com: 4739<br>
 xyz: 1243<br>
 site: 45<br>
 net: 297<br>
@@ -37,7 +37,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 107<br>
+ru: 108<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
@@ -247,7 +247,7 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4725<br>
+com: 4726<br>
 xyz: 1243<br>
 site: 45<br>
 net: 296<br>
@@ -285,7 +285,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 107<br>
+ru: 108<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
