@@ -56,7 +56,7 @@ online: 53<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
-ir: 1<br>
+ir: 3<br>
 hopto.org: 1<br>
 gg: 2<br>
 dev: 3<br>
@@ -304,7 +304,7 @@ online: 53<br>
 link: 14<br>
 ms: 5<br>
 su: 7<br>
-ir: 1<br>
+ir: 3<br>
 hopto.org: 1<br>
 gg: 2<br>
 dev: 3<br>
