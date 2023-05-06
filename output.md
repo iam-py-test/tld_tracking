@@ -1,7 +1,7 @@
 ## All lists
-com: 4739<br>
+com: 4738<br>
 xyz: 1243<br>
-site: 45<br>
+site: 44<br>
 net: 297<br>
 live: 1693<br>
 cc: 15<br>
@@ -22,7 +22,7 @@ ga: 11<br>
 ml: 15<br>
 gq: 10<br>
 ey.r.appspot.com: 1<br>
-fun: 11<br>
+fun: 10<br>
 download: 3<br>
 me: 26<br>
 digital: 2<br>
@@ -67,7 +67,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 19<br>
+io: 20<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -93,7 +93,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 86<br>
+pro: 85<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -105,7 +105,7 @@ com.cn: 2<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
-vip: 9<br>
+vip: 10<br>
 tools: 1<br>
 click: 53<br>
 kozow.com: 1<br>
@@ -247,9 +247,9 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4726<br>
+com: 4725<br>
 xyz: 1243<br>
-site: 45<br>
+site: 44<br>
 net: 296<br>
 live: 1693<br>
 cc: 15<br>
@@ -270,7 +270,7 @@ ga: 11<br>
 ml: 15<br>
 gq: 10<br>
 ey.r.appspot.com: 1<br>
-fun: 11<br>
+fun: 10<br>
 download: 3<br>
 me: 26<br>
 digital: 2<br>
@@ -315,7 +315,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 19<br>
+io: 20<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -341,7 +341,7 @@ agency: 1<br>
 com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 86<br>
+pro: 85<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -353,7 +353,7 @@ com.cn: 1<br>
 ph: 1<br>
 s3.amazonaws.com: 2<br>
 us-east-1.amazonaws.com: 1<br>
-vip: 9<br>
+vip: 10<br>
 tools: 1<br>
 click: 53<br>
 kozow.com: 1<br>
