@@ -1,7 +1,7 @@
 ## All lists
-com: 4799<br>
+com: 4805<br>
 xyz: 1244<br>
-site: 45<br>
+site: 47<br>
 net: 300<br>
 live: 1695<br>
 cc: 15<br>
@@ -37,7 +37,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 108<br>
+ru: 124<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
@@ -124,7 +124,7 @@ gotdns.ch: 1<br>
 space: 15<br>
 casa: 1<br>
 web.app: 3<br>
-app: 7<br>
+app: 5<br>
 media: 2<br>
 wixsite.com: 1<br>
 rest: 3<br>
@@ -197,6 +197,7 @@ studio: 1<br>
 one: 3<br>
 com.mx: 7<br>
 id: 1<br>
+tv: 2<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -206,7 +207,7 @@ uno: 4<br>
 finance: 1<br>
 ba: 1<br>
 services: 1<br>
-blogspot.com: 5<br>
+blogspot.com: 6<br>
 bet: 2<br>
 cash: 2<br>
 rip: 1<br>
@@ -215,7 +216,6 @@ ru.com: 1<br>
 rocks: 1<br>
 netlify.app: 2<br>
 bio: 3<br>
-tv: 1<br>
 world: 1<br>
 fi: 2<br>
 skin: 2<br>
@@ -252,9 +252,9 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4786<br>
+com: 4792<br>
 xyz: 1244<br>
-site: 45<br>
+site: 47<br>
 net: 299<br>
 live: 1695<br>
 cc: 15<br>
@@ -290,7 +290,7 @@ com.ar: 3<br>
 ma: 1<br>
 tk: 8<br>
 glitch.me: 15<br>
-ru: 108<br>
+ru: 124<br>
 org.nz: 1<br>
 pw: 13<br>
 cl: 2<br>
@@ -377,7 +377,7 @@ gotdns.ch: 1<br>
 space: 15<br>
 casa: 1<br>
 web.app: 3<br>
-app: 7<br>
+app: 5<br>
 media: 2<br>
 wixsite.com: 1<br>
 rest: 3<br>
@@ -450,6 +450,7 @@ studio: 1<br>
 one: 3<br>
 com.mx: 7<br>
 id: 1<br>
+tv: 2<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -459,7 +460,7 @@ uno: 4<br>
 finance: 1<br>
 ba: 1<br>
 services: 1<br>
-blogspot.com: 5<br>
+blogspot.com: 6<br>
 bet: 2<br>
 cash: 2<br>
 rip: 1<br>
@@ -468,7 +469,6 @@ ru.com: 1<br>
 rocks: 1<br>
 netlify.app: 2<br>
 bio: 3<br>
-tv: 1<br>
 world: 1<br>
 fi: 2<br>
 skin: 2<br>
