@@ -1,6 +1,6 @@
 ## All lists
-com: 4805<br>
-xyz: 1244<br>
+com: 4801<br>
+xyz: 1241<br>
 site: 47<br>
 net: 300<br>
 live: 1695<br>
@@ -11,10 +11,10 @@ cn: 23<br>
 info: 99<br>
 pl: 30<br>
 us: 43<br>
-top: 570<br>
+top: 569<br>
 win: 3<br>
 trade: 1<br>
-org: 196<br>
+org: 195<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -67,7 +67,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 21<br>
+io: 22<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -93,7 +93,7 @@ agency: 1<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 99<br>
+pro: 101<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -198,6 +198,7 @@ one: 3<br>
 com.mx: 7<br>
 id: 1<br>
 tv: 2<br>
+ltd: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -252,8 +253,8 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4792<br>
-xyz: 1244<br>
+com: 4788<br>
+xyz: 1241<br>
 site: 47<br>
 net: 299<br>
 live: 1695<br>
@@ -264,10 +265,10 @@ cn: 23<br>
 info: 99<br>
 pl: 30<br>
 us: 43<br>
-top: 570<br>
+top: 569<br>
 win: 3<br>
 trade: 1<br>
-org: 193<br>
+org: 192<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -320,7 +321,7 @@ foundation: 1<br>
 life: 117<br>
 myiphost.com: 1<br>
 org.cn: 3<br>
-io: 21<br>
+io: 22<br>
 si: 1<br>
 run: 1<br>
 dk: 5<br>
@@ -346,7 +347,7 @@ agency: 1<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 99<br>
+pro: 101<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -451,6 +452,7 @@ one: 3<br>
 com.mx: 7<br>
 id: 1<br>
 tv: 2<br>
+ltd: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
