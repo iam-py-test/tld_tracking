@@ -1,5 +1,5 @@
 ## All lists
-com: 3870<br>
+com: 3872<br>
 site: 29<br>
 net: 237<br>
 cc: 9<br>
@@ -72,7 +72,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 88<br>
+pro: 89<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -227,7 +227,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3857<br>
+com: 3859<br>
 site: 29<br>
 net: 236<br>
 cc: 9<br>
@@ -300,7 +300,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 88<br>
+pro: 89<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
