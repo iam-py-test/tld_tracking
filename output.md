@@ -1,11 +1,11 @@
 ## All lists
-com: 3875<br>
+com: 3883<br>
 site: 29<br>
 net: 237<br>
 cc: 9<br>
 in: 13<br>
 de: 121<br>
-info: 59<br>
+info: 60<br>
 pl: 29<br>
 us: 30<br>
 win: 1<br>
@@ -25,7 +25,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 162<br>
+top: 164<br>
 glitch.me: 15<br>
 ru: 78<br>
 club: 16<br>
@@ -72,7 +72,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 89<br>
+pro: 90<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -227,13 +227,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3862<br>
+com: 3870<br>
 site: 29<br>
 net: 236<br>
 cc: 9<br>
 in: 13<br>
 de: 121<br>
-info: 59<br>
+info: 60<br>
 pl: 29<br>
 us: 30<br>
 win: 1<br>
@@ -253,7 +253,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 162<br>
+top: 164<br>
 glitch.me: 15<br>
 ru: 78<br>
 club: 16<br>
@@ -300,7 +300,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 89<br>
+pro: 90<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
