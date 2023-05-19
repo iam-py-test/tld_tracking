@@ -1,5 +1,5 @@
 ## All lists
-com: 3883<br>
+com: 3884<br>
 site: 29<br>
 net: 237<br>
 cc: 9<br>
@@ -53,7 +53,7 @@ gg: 2<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 77<br>
+life: 78<br>
 myiphost.com: 1<br>
 si: 1<br>
 me: 17<br>
@@ -227,7 +227,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3870<br>
+com: 3871<br>
 site: 29<br>
 net: 236<br>
 cc: 9<br>
@@ -281,7 +281,7 @@ gg: 2<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 77<br>
+life: 78<br>
 myiphost.com: 1<br>
 si: 1<br>
 me: 17<br>
