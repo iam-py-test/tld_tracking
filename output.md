@@ -1,11 +1,11 @@
 ## All lists
-com: 3884<br>
+com: 3892<br>
 site: 29<br>
 net: 237<br>
 cc: 9<br>
 in: 13<br>
 de: 121<br>
-info: 60<br>
+info: 62<br>
 pl: 29<br>
 us: 30<br>
 win: 1<br>
@@ -17,7 +17,7 @@ la: 5<br>
 ml: 2<br>
 ey.r.appspot.com: 1<br>
 fun: 8<br>
-xyz: 982<br>
+xyz: 984<br>
 live: 1582<br>
 best: 2<br>
 ls: 1<br>
@@ -173,6 +173,7 @@ com.mx: 7<br>
 id: 1<br>
 ir: 2<br>
 ltd: 1<br>
+blogspot.com: 8<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -183,7 +184,6 @@ ba: 1<br>
 services: 1<br>
 za.com: 1<br>
 website: 1<br>
-blogspot.com: 6<br>
 bet: 2<br>
 rip: 1<br>
 codes: 1<br>
@@ -227,13 +227,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3871<br>
+com: 3878<br>
 site: 29<br>
 net: 236<br>
 cc: 9<br>
 in: 13<br>
 de: 121<br>
-info: 60<br>
+info: 62<br>
 pl: 29<br>
 us: 30<br>
 win: 1<br>
@@ -245,7 +245,7 @@ la: 5<br>
 ml: 2<br>
 ey.r.appspot.com: 1<br>
 fun: 8<br>
-xyz: 982<br>
+xyz: 984<br>
 live: 1582<br>
 best: 2<br>
 ls: 1<br>
@@ -401,6 +401,7 @@ com.mx: 7<br>
 id: 1<br>
 ir: 2<br>
 ltd: 1<br>
+blogspot.com: 8<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -411,7 +412,6 @@ ba: 1<br>
 services: 1<br>
 za.com: 1<br>
 website: 1<br>
-blogspot.com: 6<br>
 bet: 2<br>
 rip: 1<br>
 codes: 1<br>
@@ -455,7 +455,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 13<br>
+com: 14<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
