@@ -1,12 +1,12 @@
 ## All lists
-com: 3892<br>
+com: 3893<br>
 site: 29<br>
-net: 237<br>
+net: 240<br>
 cc: 9<br>
 in: 13<br>
 de: 121<br>
 info: 62<br>
-pl: 29<br>
+pl: 30<br>
 us: 30<br>
 win: 1<br>
 trade: 1<br>
@@ -28,7 +28,7 @@ tk: 4<br>
 top: 164<br>
 glitch.me: 15<br>
 ru: 78<br>
-club: 16<br>
+club: 17<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
@@ -216,6 +216,7 @@ pk: 1<br>
 com.do: 1<br>
 com.sg: 1<br>
 mx: 1<br>
+azurewebsites.net: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
@@ -227,14 +228,14 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3878<br>
+com: 3879<br>
 site: 29<br>
-net: 236<br>
+net: 239<br>
 cc: 9<br>
 in: 13<br>
 de: 121<br>
 info: 62<br>
-pl: 29<br>
+pl: 30<br>
 us: 30<br>
 win: 1<br>
 trade: 1<br>
@@ -256,7 +257,7 @@ tk: 4<br>
 top: 164<br>
 glitch.me: 15<br>
 ru: 78<br>
-club: 16<br>
+club: 17<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
@@ -444,6 +445,7 @@ pk: 1<br>
 com.do: 1<br>
 com.sg: 1<br>
 mx: 1<br>
+azurewebsites.net: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
