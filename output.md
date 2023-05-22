@@ -1,6 +1,6 @@
 ## All lists
-com: 3893<br>
-site: 29<br>
+com: 3894<br>
+site: 30<br>
 net: 240<br>
 cc: 9<br>
 in: 13<br>
@@ -17,7 +17,7 @@ la: 5<br>
 ml: 2<br>
 ey.r.appspot.com: 1<br>
 fun: 8<br>
-xyz: 984<br>
+xyz: 985<br>
 live: 1582<br>
 best: 2<br>
 ls: 1<br>
@@ -228,8 +228,8 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3879<br>
-site: 29<br>
+com: 3880<br>
+site: 30<br>
 net: 239<br>
 cc: 9<br>
 in: 13<br>
@@ -246,7 +246,7 @@ la: 5<br>
 ml: 2<br>
 ey.r.appspot.com: 1<br>
 fun: 8<br>
-xyz: 984<br>
+xyz: 985<br>
 live: 1582<br>
 best: 2<br>
 ls: 1<br>
