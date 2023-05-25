@@ -1,11 +1,11 @@
 ## All lists
-com: 3902<br>
+com: 3909<br>
 site: 30<br>
 net: 240<br>
 cc: 10<br>
 in: 13<br>
 de: 121<br>
-info: 62<br>
+info: 63<br>
 pl: 30<br>
 us: 30<br>
 win: 1<br>
@@ -72,7 +72,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 90<br>
+pro: 91<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -217,9 +217,13 @@ com.do: 1<br>
 com.sg: 1<br>
 mx: 1<br>
 azurewebsites.net: 1<br>
+help: 1<br>
+firebaseapp.com: 1<br>
+be: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
+download: 1<br>
 fo: 1<br>
 sv: 4<br>
 yachts: 14<br>
@@ -228,13 +232,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3888<br>
+com: 3895<br>
 site: 30<br>
 net: 239<br>
 cc: 10<br>
 in: 13<br>
 de: 121<br>
-info: 62<br>
+info: 63<br>
 pl: 30<br>
 us: 30<br>
 win: 1<br>
@@ -301,7 +305,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 90<br>
+pro: 91<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -446,9 +450,13 @@ com.do: 1<br>
 com.sg: 1<br>
 mx: 1<br>
 azurewebsites.net: 1<br>
+help: 1<br>
+firebaseapp.com: 1<br>
+be: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
+download: 1<br>
 fo: 1<br>
 sv: 4<br>
 yachts: 14<br>
