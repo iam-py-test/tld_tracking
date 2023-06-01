@@ -1,6 +1,6 @@
 ## All lists
-com: 3918<br>
-site: 30<br>
+com: 3922<br>
+site: 32<br>
 net: 240<br>
 cc: 10<br>
 in: 13<br>
@@ -27,7 +27,7 @@ ma: 1<br>
 tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
-ru: 78<br>
+ru: 83<br>
 club: 17<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -84,7 +84,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 54<br>
+click: 55<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -116,7 +116,7 @@ ca: 24<br>
 org.uk: 1<br>
 com.vn: 1<br>
 at: 6<br>
-io: 17<br>
+io: 18<br>
 myphotos.cc: 1<br>
 today: 1<br>
 news: 5<br>
@@ -174,6 +174,7 @@ id: 1<br>
 ir: 2<br>
 ltd: 1<br>
 blogspot.com: 8<br>
+plesk.page: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -232,8 +233,8 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3904<br>
-site: 30<br>
+com: 3908<br>
+site: 32<br>
 net: 239<br>
 cc: 10<br>
 in: 13<br>
@@ -260,7 +261,7 @@ ma: 1<br>
 tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
-ru: 78<br>
+ru: 83<br>
 club: 17<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -317,7 +318,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 54<br>
+click: 55<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -349,7 +350,7 @@ ca: 24<br>
 org.uk: 1<br>
 com.vn: 1<br>
 at: 6<br>
-io: 17<br>
+io: 18<br>
 myphotos.cc: 1<br>
 today: 1<br>
 news: 5<br>
@@ -407,6 +408,7 @@ id: 1<br>
 ir: 2<br>
 ltd: 1<br>
 blogspot.com: 8<br>
+plesk.page: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
