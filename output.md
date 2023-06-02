@@ -1,8 +1,8 @@
 ## All lists
-com: 3922<br>
+com: 3917<br>
 site: 32<br>
 net: 240<br>
-cc: 10<br>
+cc: 11<br>
 in: 13<br>
 de: 121<br>
 info: 64<br>
@@ -28,7 +28,7 @@ tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
 ru: 83<br>
-club: 17<br>
+club: 18<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
@@ -233,10 +233,10 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3908<br>
+com: 3903<br>
 site: 32<br>
 net: 239<br>
-cc: 10<br>
+cc: 11<br>
 in: 13<br>
 de: 121<br>
 info: 64<br>
@@ -262,7 +262,7 @@ tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
 ru: 83<br>
-club: 17<br>
+club: 18<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
