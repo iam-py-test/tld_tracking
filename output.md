@@ -1,7 +1,7 @@
 ## All lists
-com: 3924<br>
+com: 3912<br>
 site: 32<br>
-net: 241<br>
+net: 239<br>
 cc: 11<br>
 in: 13<br>
 de: 121<br>
@@ -10,7 +10,7 @@ pl: 30<br>
 us: 30<br>
 win: 1<br>
 trade: 1<br>
-org: 142<br>
+org: 143<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -20,7 +20,6 @@ fun: 8<br>
 xyz: 989<br>
 live: 1582<br>
 best: 4<br>
-ls: 1<br>
 ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
@@ -28,7 +27,7 @@ tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
 ru: 84<br>
-club: 19<br>
+club: 18<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
@@ -56,7 +55,7 @@ foundation: 1<br>
 life: 78<br>
 myiphost.com: 1<br>
 si: 1<br>
-me: 17<br>
+me: 18<br>
 dk: 2<br>
 it: 18<br>
 sh: 2<br>
@@ -84,15 +83,15 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 55<br>
+click: 56<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
 solutions: 1<br>
 co.in: 4<br>
-cfd: 16<br>
 page: 1<br>
 gotdns.ch: 1<br>
+cfd: 15<br>
 space: 13<br>
 casa: 1<br>
 web.app: 3<br>
@@ -192,7 +191,7 @@ ai: 1<br>
 netlify.app: 2<br>
 bio: 2<br>
 tv: 1<br>
-world: 1<br>
+world: 2<br>
 fi: 2<br>
 sale: 11<br>
 cheap: 1<br>
@@ -233,9 +232,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3910<br>
+com: 3898<br>
 site: 32<br>
-net: 240<br>
+net: 238<br>
 cc: 11<br>
 in: 13<br>
 de: 121<br>
@@ -244,7 +243,7 @@ pl: 30<br>
 us: 30<br>
 win: 1<br>
 trade: 1<br>
-org: 139<br>
+org: 140<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -254,7 +253,6 @@ fun: 8<br>
 xyz: 989<br>
 live: 1582<br>
 best: 4<br>
-ls: 1<br>
 ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
@@ -262,7 +260,7 @@ tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
 ru: 84<br>
-club: 19<br>
+club: 18<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
@@ -290,7 +288,7 @@ foundation: 1<br>
 life: 78<br>
 myiphost.com: 1<br>
 si: 1<br>
-me: 17<br>
+me: 18<br>
 dk: 2<br>
 it: 18<br>
 sh: 2<br>
@@ -318,15 +316,15 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 55<br>
+click: 56<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
 solutions: 1<br>
 co.in: 4<br>
-cfd: 16<br>
 page: 1<br>
 gotdns.ch: 1<br>
+cfd: 15<br>
 space: 13<br>
 casa: 1<br>
 web.app: 3<br>
@@ -426,7 +424,7 @@ ai: 1<br>
 netlify.app: 2<br>
 bio: 2<br>
 tv: 1<br>
-world: 1<br>
+world: 2<br>
 fi: 2<br>
 sale: 11<br>
 cheap: 1<br>
