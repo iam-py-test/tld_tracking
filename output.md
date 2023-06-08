@@ -1,7 +1,7 @@
 ## All lists
-com: 3915<br>
+com: 3928<br>
 site: 32<br>
-net: 239<br>
+net: 240<br>
 cc: 11<br>
 in: 13<br>
 de: 121<br>
@@ -27,13 +27,13 @@ tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
 ru: 84<br>
-club: 18<br>
+club: 23<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
 shop: 69<br>
 eu: 16<br>
-biz: 9<br>
+biz: 12<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
 se: 7<br>
@@ -83,7 +83,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 56<br>
+click: 57<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -232,9 +232,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3901<br>
+com: 3914<br>
 site: 32<br>
-net: 238<br>
+net: 239<br>
 cc: 11<br>
 in: 13<br>
 de: 121<br>
@@ -260,13 +260,13 @@ tk: 4<br>
 top: 168<br>
 glitch.me: 15<br>
 ru: 84<br>
-club: 18<br>
+club: 23<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
 shop: 69<br>
 eu: 15<br>
-biz: 9<br>
+biz: 12<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
 se: 7<br>
@@ -316,7 +316,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 56<br>
+click: 57<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
