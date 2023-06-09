@@ -168,7 +168,7 @@ ci: 1<br>
 st: 1<br>
 studio: 1<br>
 one: 3<br>
-com.mx: 7<br>
+com.mx: 8<br>
 id: 1<br>
 ir: 2<br>
 ltd: 1<br>
@@ -401,7 +401,7 @@ ci: 1<br>
 st: 1<br>
 studio: 1<br>
 one: 3<br>
-com.mx: 7<br>
+com.mx: 8<br>
 id: 1<br>
 ir: 2<br>
 ltd: 1<br>
