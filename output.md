@@ -1,5 +1,5 @@
 ## All lists
-com: 3928<br>
+com: 3930<br>
 site: 32<br>
 net: 240<br>
 cc: 11<br>
@@ -14,7 +14,7 @@ org: 144<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
-ml: 2<br>
+ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 8<br>
 xyz: 989<br>
@@ -24,7 +24,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 168<br>
+top: 170<br>
 glitch.me: 15<br>
 ru: 84<br>
 club: 23<br>
@@ -232,7 +232,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3914<br>
+com: 3916<br>
 site: 32<br>
 net: 239<br>
 cc: 11<br>
@@ -247,7 +247,7 @@ org: 141<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
-ml: 2<br>
+ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 8<br>
 xyz: 989<br>
@@ -257,7 +257,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 168<br>
+top: 170<br>
 glitch.me: 15<br>
 ru: 84<br>
 club: 23<br>
