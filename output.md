@@ -1,6 +1,6 @@
 ## All lists
-com: 3936<br>
-site: 32<br>
+com: 3938<br>
+site: 33<br>
 net: 241<br>
 cc: 11<br>
 in: 13<br>
@@ -83,7 +83,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 57<br>
+click: 58<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -233,8 +233,8 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3922<br>
-site: 32<br>
+com: 3924<br>
+site: 33<br>
 net: 240<br>
 cc: 11<br>
 in: 13<br>
@@ -317,7 +317,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 57<br>
+click: 58<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
