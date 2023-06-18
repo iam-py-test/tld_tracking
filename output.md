@@ -1,5 +1,5 @@
 ## All lists
-com: 3940<br>
+com: 3945<br>
 site: 33<br>
 net: 241<br>
 cc: 11<br>
@@ -16,7 +16,7 @@ cz: 13<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
-fun: 8<br>
+fun: 9<br>
 xyz: 989<br>
 live: 1582<br>
 best: 4<br>
@@ -24,7 +24,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 170<br>
+top: 171<br>
 glitch.me: 15<br>
 ru: 84<br>
 club: 23<br>
@@ -217,7 +217,7 @@ pk: 1<br>
 com.do: 1<br>
 com.sg: 1<br>
 mx: 1<br>
-azurewebsites.net: 1<br>
+azurewebsites.net: 2<br>
 help: 1<br>
 firebaseapp.com: 1<br>
 be: 1<br>
@@ -233,7 +233,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3926<br>
+com: 3931<br>
 site: 33<br>
 net: 240<br>
 cc: 11<br>
@@ -250,7 +250,7 @@ cz: 13<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
-fun: 8<br>
+fun: 9<br>
 xyz: 989<br>
 live: 1582<br>
 best: 4<br>
@@ -258,7 +258,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 170<br>
+top: 171<br>
 glitch.me: 15<br>
 ru: 84<br>
 club: 23<br>
@@ -451,7 +451,7 @@ pk: 1<br>
 com.do: 1<br>
 com.sg: 1<br>
 mx: 1<br>
-azurewebsites.net: 1<br>
+azurewebsites.net: 2<br>
 help: 1<br>
 firebaseapp.com: 1<br>
 be: 1<br>
