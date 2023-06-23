@@ -1,9 +1,9 @@
 ## All lists
-com: 3945<br>
+com: 3932<br>
 site: 33<br>
 net: 241<br>
 cc: 11<br>
-in: 13<br>
+in: 14<br>
 de: 121<br>
 info: 65<br>
 pl: 30<br>
@@ -17,7 +17,7 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 9<br>
-xyz: 989<br>
+xyz: 988<br>
 live: 1582<br>
 best: 4<br>
 ddns.net: 4<br>
@@ -99,7 +99,7 @@ wixsite.com: 1<br>
 rest: 1<br>
 buzz: 164<br>
 yolasite.com: 1<br>
-nl: 10<br>
+nl: 9<br>
 to: 3<br>
 pr46m.vps.myjino.ru: 1<br>
 su: 2<br>
@@ -233,11 +233,11 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3931<br>
+com: 3917<br>
 site: 33<br>
 net: 240<br>
 cc: 11<br>
-in: 13<br>
+in: 14<br>
 de: 121<br>
 info: 65<br>
 pl: 30<br>
@@ -251,7 +251,7 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 9<br>
-xyz: 989<br>
+xyz: 988<br>
 live: 1582<br>
 best: 4<br>
 ddns.net: 4<br>
@@ -333,7 +333,7 @@ wixsite.com: 1<br>
 rest: 1<br>
 buzz: 164<br>
 yolasite.com: 1<br>
-nl: 10<br>
+nl: 9<br>
 to: 3<br>
 pr46m.vps.myjino.ru: 1<br>
 su: 2<br>
@@ -467,7 +467,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 14<br>
+com: 15<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
