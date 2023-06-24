@@ -1,11 +1,11 @@
 ## All lists
-com: 3932<br>
+com: 3940<br>
 site: 33<br>
-net: 241<br>
+net: 242<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
-info: 65<br>
+info: 66<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -18,7 +18,7 @@ ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 9<br>
 xyz: 988<br>
-live: 1582<br>
+live: 1584<br>
 best: 4<br>
 ddns.net: 4<br>
 com.ar: 3<br>
@@ -41,7 +41,7 @@ cam: 1<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 50<br>
-online: 28<br>
+online: 31<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -175,6 +175,7 @@ ltd: 1<br>
 blogspot.com: 8<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
+com.pk: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -233,13 +234,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3917<br>
+com: 3925<br>
 site: 33<br>
-net: 240<br>
+net: 241<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
-info: 65<br>
+info: 66<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -252,7 +253,7 @@ ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 9<br>
 xyz: 988<br>
-live: 1582<br>
+live: 1584<br>
 best: 4<br>
 ddns.net: 4<br>
 com.ar: 3<br>
@@ -275,7 +276,7 @@ cam: 1<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 50<br>
-online: 28<br>
+online: 31<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -409,6 +410,7 @@ ltd: 1<br>
 blogspot.com: 8<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
+com.pk: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
