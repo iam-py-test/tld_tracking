@@ -1,5 +1,5 @@
 ## All lists
-com: 3970<br>
+com: 3975<br>
 site: 34<br>
 net: 244<br>
 cc: 11<br>
@@ -16,7 +16,7 @@ cz: 13<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
-fun: 10<br>
+fun: 11<br>
 xyz: 995<br>
 live: 1584<br>
 best: 5<br>
@@ -24,7 +24,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 183<br>
+top: 182<br>
 glitch.me: 15<br>
 ru: 84<br>
 club: 24<br>
@@ -33,7 +33,7 @@ pw: 5<br>
 cl: 2<br>
 shop: 69<br>
 eu: 16<br>
-biz: 12<br>
+biz: 13<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
 se: 7<br>
@@ -41,7 +41,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 58<br>
-online: 32<br>
+online: 33<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -71,7 +71,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 94<br>
+pro: 93<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -176,6 +176,7 @@ blogspot.com: 8<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
+pages.dev: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -236,7 +237,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3954<br>
+com: 3959<br>
 site: 34<br>
 net: 243<br>
 cc: 11<br>
@@ -253,7 +254,7 @@ cz: 13<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
-fun: 10<br>
+fun: 11<br>
 xyz: 995<br>
 live: 1584<br>
 best: 5<br>
@@ -261,7 +262,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 183<br>
+top: 182<br>
 glitch.me: 15<br>
 ru: 84<br>
 club: 24<br>
@@ -270,7 +271,7 @@ pw: 5<br>
 cl: 2<br>
 shop: 69<br>
 eu: 15<br>
-biz: 12<br>
+biz: 13<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
 se: 7<br>
@@ -278,7 +279,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 58<br>
-online: 32<br>
+online: 33<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -308,7 +309,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 94<br>
+pro: 93<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -413,6 +414,7 @@ blogspot.com: 8<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
+pages.dev: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
