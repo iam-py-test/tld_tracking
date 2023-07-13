@@ -1,5 +1,5 @@
 ## All lists
-com: 3979<br>
+com: 3978<br>
 site: 34<br>
 net: 244<br>
 cc: 11<br>
@@ -197,7 +197,6 @@ tv: 1<br>
 world: 2<br>
 fi: 2<br>
 sale: 11<br>
-cheap: 1<br>
 fans: 1<br>
 co.no: 7<br>
 fr: 9<br>
@@ -237,7 +236,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3963<br>
+com: 3962<br>
 site: 34<br>
 net: 243<br>
 cc: 11<br>
@@ -435,7 +434,6 @@ tv: 1<br>
 world: 2<br>
 fi: 2<br>
 sale: 11<br>
-cheap: 1<br>
 fans: 1<br>
 co.no: 7<br>
 fr: 9<br>
