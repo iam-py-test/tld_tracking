@@ -1,11 +1,11 @@
 ## All lists
-com: 3978<br>
+com: 3979<br>
 site: 34<br>
 net: 244<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
-info: 72<br>
+info: 73<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -236,13 +236,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3962<br>
+com: 3963<br>
 site: 34<br>
 net: 243<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
-info: 72<br>
+info: 73<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
