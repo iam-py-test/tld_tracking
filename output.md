@@ -1,11 +1,11 @@
 ## All lists
-com: 3979<br>
+com: 4285<br>
 site: 34<br>
 net: 244<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
-info: 73<br>
+info: 74<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -26,7 +26,7 @@ ma: 1<br>
 tk: 4<br>
 top: 182<br>
 glitch.me: 15<br>
-ru: 84<br>
+ru: 185<br>
 club: 24<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -94,7 +94,7 @@ gotdns.ch: 1<br>
 cfd: 15<br>
 space: 15<br>
 casa: 1<br>
-web.app: 3<br>
+web.app: 2<br>
 wixsite.com: 1<br>
 rest: 1<br>
 buzz: 164<br>
@@ -102,7 +102,6 @@ yolasite.com: 1<br>
 nl: 9<br>
 to: 3<br>
 pr46m.vps.myjino.ru: 1<br>
-su: 2<br>
 monster: 2<br>
 pics: 1<br>
 hair: 2<br>
@@ -154,6 +153,7 @@ vc: 1<br>
 ng: 1<br>
 nz: 1<br>
 coffee: 1<br>
+su: 1<br>
 sk: 24<br>
 sb: 1<br>
 systems: 1<br>
@@ -236,13 +236,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 3963<br>
+com: 4269<br>
 site: 34<br>
 net: 243<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
-info: 73<br>
+info: 74<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -263,7 +263,7 @@ ma: 1<br>
 tk: 4<br>
 top: 182<br>
 glitch.me: 15<br>
-ru: 84<br>
+ru: 185<br>
 club: 24<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -331,7 +331,7 @@ gotdns.ch: 1<br>
 cfd: 15<br>
 space: 15<br>
 casa: 1<br>
-web.app: 3<br>
+web.app: 2<br>
 wixsite.com: 1<br>
 rest: 1<br>
 buzz: 164<br>
@@ -339,7 +339,6 @@ yolasite.com: 1<br>
 nl: 9<br>
 to: 3<br>
 pr46m.vps.myjino.ru: 1<br>
-su: 2<br>
 monster: 2<br>
 pics: 1<br>
 hair: 2<br>
@@ -391,6 +390,7 @@ vc: 1<br>
 ng: 1<br>
 nz: 1<br>
 coffee: 1<br>
+su: 1<br>
 sk: 24<br>
 sb: 1<br>
 systems: 1<br>
