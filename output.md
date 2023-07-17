@@ -1,5 +1,5 @@
 ## All lists
-com: 4285<br>
+com: 4287<br>
 site: 34<br>
 net: 244<br>
 cc: 11<br>
@@ -83,7 +83,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 59<br>
+click: 60<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -159,7 +159,7 @@ sb: 1<br>
 systems: 1<br>
 mu: 1<br>
 luxe: 1<br>
-vip: 3<br>
+vip: 4<br>
 vg: 1<br>
 tw: 1<br>
 ws: 2<br>
@@ -224,6 +224,7 @@ firebaseapp.com: 1<br>
 be: 1<br>
 group: 1<br>
 claims: 1<br>
+game: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
@@ -236,7 +237,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4269<br>
+com: 4271<br>
 site: 34<br>
 net: 243<br>
 cc: 11<br>
@@ -320,7 +321,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 59<br>
+click: 60<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -396,7 +397,7 @@ sb: 1<br>
 systems: 1<br>
 mu: 1<br>
 luxe: 1<br>
-vip: 3<br>
+vip: 4<br>
 vg: 1<br>
 tw: 1<br>
 ws: 2<br>
@@ -461,6 +462,7 @@ firebaseapp.com: 1<br>
 be: 1<br>
 group: 1<br>
 claims: 1<br>
+game: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
