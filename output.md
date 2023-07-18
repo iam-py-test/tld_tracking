@@ -1,7 +1,7 @@
 ## All lists
-com: 4287<br>
+com: 4291<br>
 site: 34<br>
-net: 244<br>
+net: 245<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
@@ -177,6 +177,7 @@ plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
 pages.dev: 1<br>
+website: 2<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -186,7 +187,6 @@ uno: 1<br>
 ba: 1<br>
 services: 1<br>
 za.com: 1<br>
-website: 1<br>
 bet: 2<br>
 rip: 1<br>
 codes: 1<br>
@@ -237,9 +237,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4271<br>
+com: 4275<br>
 site: 34<br>
-net: 243<br>
+net: 244<br>
 cc: 11<br>
 in: 14<br>
 de: 121<br>
@@ -415,6 +415,7 @@ plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
 pages.dev: 1<br>
+website: 2<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -424,7 +425,6 @@ uno: 1<br>
 ba: 1<br>
 services: 1<br>
 za.com: 1<br>
-website: 1<br>
 bet: 2<br>
 rip: 1<br>
 codes: 1<br>
