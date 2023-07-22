@@ -1,8 +1,8 @@
 ## All lists
 com: 4324<br>
-site: 34<br>
+site: 35<br>
 net: 245<br>
-cc: 11<br>
+cc: 12<br>
 in: 14<br>
 de: 121<br>
 info: 75<br>
@@ -24,7 +24,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 183<br>
+top: 187<br>
 glitch.me: 15<br>
 ru: 185<br>
 club: 24<br>
@@ -83,7 +83,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 60<br>
+click: 64<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -114,7 +114,7 @@ ca: 24<br>
 org.uk: 1<br>
 com.vn: 1<br>
 at: 6<br>
-io: 22<br>
+io: 23<br>
 myphotos.cc: 1<br>
 today: 1<br>
 news: 5<br>
@@ -240,9 +240,9 @@ skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
 com: 4308<br>
-site: 34<br>
+site: 35<br>
 net: 244<br>
-cc: 11<br>
+cc: 12<br>
 in: 14<br>
 de: 121<br>
 info: 75<br>
@@ -264,7 +264,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 183<br>
+top: 187<br>
 glitch.me: 15<br>
 ru: 185<br>
 club: 24<br>
@@ -323,7 +323,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 60<br>
+click: 64<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -354,7 +354,7 @@ ca: 24<br>
 org.uk: 1<br>
 com.vn: 1<br>
 at: 6<br>
-io: 22<br>
+io: 23<br>
 myphotos.cc: 1<br>
 today: 1<br>
 news: 5<br>
