@@ -1,7 +1,7 @@
 ## All lists
-com: 4324<br>
-site: 35<br>
-net: 245<br>
+com: 4330<br>
+site: 36<br>
+net: 246<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
@@ -239,9 +239,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4308<br>
-site: 35<br>
-net: 244<br>
+com: 4314<br>
+site: 36<br>
+net: 245<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
