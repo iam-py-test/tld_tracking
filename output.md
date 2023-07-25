@@ -1,6 +1,6 @@
 ## All lists
-com: 4330<br>
-site: 36<br>
+com: 4334<br>
+site: 37<br>
 net: 246<br>
 cc: 12<br>
 in: 14<br>
@@ -24,10 +24,10 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 187<br>
+top: 185<br>
 glitch.me: 15<br>
 ru: 185<br>
-club: 24<br>
+club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
@@ -41,7 +41,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 58<br>
-online: 34<br>
+online: 35<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -180,6 +180,7 @@ pages.dev: 1<br>
 website: 2<br>
 hk: 1<br>
 ipfs.dweb.link: 1<br>
+autos: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -239,8 +240,8 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4314<br>
-site: 36<br>
+com: 4318<br>
+site: 37<br>
 net: 245<br>
 cc: 12<br>
 in: 14<br>
@@ -264,10 +265,10 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 187<br>
+top: 185<br>
 glitch.me: 15<br>
 ru: 185<br>
-club: 24<br>
+club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
 cl: 2<br>
@@ -281,7 +282,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 58<br>
-online: 34<br>
+online: 35<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -420,6 +421,7 @@ pages.dev: 1<br>
 website: 2<br>
 hk: 1<br>
 ipfs.dweb.link: 1<br>
+autos: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
