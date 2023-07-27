@@ -1,11 +1,11 @@
 ## All lists
-com: 4334<br>
-site: 37<br>
-net: 246<br>
+com: 4338<br>
+site: 38<br>
+net: 247<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
-info: 75<br>
+info: 77<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -17,8 +17,8 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 11<br>
-xyz: 995<br>
-live: 1584<br>
+xyz: 997<br>
+live: 1585<br>
 best: 5<br>
 ddns.net: 4<br>
 com.ar: 3<br>
@@ -41,7 +41,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 58<br>
-online: 35<br>
+online: 37<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -52,7 +52,7 @@ gg: 2<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 79<br>
+life: 80<br>
 myiphost.com: 1<br>
 si: 1<br>
 me: 18<br>
@@ -64,7 +64,7 @@ sytes.net: 1<br>
 github.io: 3<br>
 sbs: 3<br>
 name: 6<br>
-store: 270<br>
+store: 271<br>
 contact: 1<br>
 agency: 1<br>
 uk: 3<br>
@@ -88,7 +88,7 @@ kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
 solutions: 1<br>
-co.in: 4<br>
+co.in: 5<br>
 page: 1<br>
 gotdns.ch: 1<br>
 cfd: 15<br>
@@ -240,13 +240,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4318<br>
-site: 37<br>
-net: 245<br>
+com: 4322<br>
+site: 38<br>
+net: 246<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
-info: 75<br>
+info: 77<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -258,8 +258,8 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 11<br>
-xyz: 995<br>
-live: 1584<br>
+xyz: 997<br>
+live: 1585<br>
 best: 5<br>
 ddns.net: 4<br>
 com.ar: 3<br>
@@ -282,7 +282,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 58<br>
-online: 35<br>
+online: 37<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -293,7 +293,7 @@ gg: 2<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 79<br>
+life: 80<br>
 myiphost.com: 1<br>
 si: 1<br>
 me: 18<br>
@@ -305,7 +305,7 @@ sytes.net: 1<br>
 github.io: 2<br>
 sbs: 3<br>
 name: 6<br>
-store: 270<br>
+store: 271<br>
 contact: 1<br>
 agency: 1<br>
 uk: 3<br>
@@ -329,7 +329,7 @@ kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
 solutions: 1<br>
-co.in: 4<br>
+co.in: 5<br>
 page: 1<br>
 gotdns.ch: 1<br>
 cfd: 15<br>
