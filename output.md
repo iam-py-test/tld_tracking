@@ -1,5 +1,5 @@
 ## All lists
-com: 4338<br>
+com: 4341<br>
 site: 38<br>
 net: 247<br>
 cc: 12<br>
@@ -17,7 +17,7 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 11<br>
-xyz: 997<br>
+xyz: 998<br>
 live: 1585<br>
 best: 5<br>
 ddns.net: 4<br>
@@ -26,7 +26,7 @@ ma: 1<br>
 tk: 4<br>
 top: 188<br>
 glitch.me: 15<br>
-ru: 186<br>
+ru: 187<br>
 club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -57,7 +57,7 @@ myiphost.com: 1<br>
 si: 1<br>
 me: 18<br>
 dk: 2<br>
-it: 18<br>
+it: 19<br>
 sh: 2<br>
 hu: 2<br>
 sytes.net: 1<br>
@@ -181,6 +181,7 @@ website: 2<br>
 hk: 1<br>
 ipfs.dweb.link: 1<br>
 autos: 1<br>
+br.com: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -204,7 +205,7 @@ fans: 1<br>
 co.no: 7<br>
 fr: 9<br>
 co.za: 7<br>
-es: 8<br>
+es: 10<br>
 com.tr: 3<br>
 com.se: 6<br>
 pt: 3<br>
@@ -240,7 +241,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4322<br>
+com: 4325<br>
 site: 38<br>
 net: 246<br>
 cc: 12<br>
@@ -258,7 +259,7 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 11<br>
-xyz: 997<br>
+xyz: 998<br>
 live: 1585<br>
 best: 5<br>
 ddns.net: 4<br>
@@ -267,7 +268,7 @@ ma: 1<br>
 tk: 4<br>
 top: 188<br>
 glitch.me: 15<br>
-ru: 186<br>
+ru: 187<br>
 club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -298,7 +299,7 @@ myiphost.com: 1<br>
 si: 1<br>
 me: 18<br>
 dk: 2<br>
-it: 18<br>
+it: 19<br>
 sh: 2<br>
 hu: 2<br>
 sytes.net: 1<br>
@@ -422,6 +423,7 @@ website: 2<br>
 hk: 1<br>
 ipfs.dweb.link: 1<br>
 autos: 1<br>
+br.com: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -445,7 +447,7 @@ fans: 1<br>
 co.no: 7<br>
 fr: 9<br>
 co.za: 7<br>
-es: 8<br>
+es: 10<br>
 com.tr: 3<br>
 com.se: 6<br>
 pt: 3<br>
