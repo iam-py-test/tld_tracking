@@ -1,7 +1,7 @@
 ## All lists
 com: 4344<br>
 site: 38<br>
-net: 247<br>
+net: 248<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
@@ -24,9 +24,9 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 193<br>
+top: 204<br>
 glitch.me: 15<br>
-ru: 188<br>
+ru: 189<br>
 club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -204,7 +204,7 @@ fi: 2<br>
 sale: 11<br>
 fans: 1<br>
 co.no: 7<br>
-fr: 10<br>
+fr: 11<br>
 es: 10<br>
 com.tr: 3<br>
 com.se: 6<br>
@@ -243,7 +243,7 @@ onl: 1<br>
 ## The malicious website blocklist
 com: 4328<br>
 site: 38<br>
-net: 246<br>
+net: 247<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
@@ -266,9 +266,9 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 193<br>
+top: 204<br>
 glitch.me: 15<br>
-ru: 188<br>
+ru: 189<br>
 club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -446,7 +446,7 @@ fi: 2<br>
 sale: 11<br>
 fans: 1<br>
 co.no: 7<br>
-fr: 10<br>
+fr: 11<br>
 es: 10<br>
 com.tr: 3<br>
 com.se: 6<br>
