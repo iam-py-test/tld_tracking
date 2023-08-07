@@ -1,5 +1,5 @@
 ## All lists
-com: 4363<br>
+com: 4372<br>
 site: 38<br>
 net: 250<br>
 cc: 12<br>
@@ -183,6 +183,7 @@ ipfs.dweb.link: 1<br>
 autos: 1<br>
 br.com: 1<br>
 co.za: 8<br>
+fr: 16<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -204,7 +205,6 @@ fi: 2<br>
 sale: 11<br>
 fans: 1<br>
 co.no: 7<br>
-fr: 12<br>
 es: 10<br>
 com.tr: 3<br>
 com.se: 6<br>
@@ -229,6 +229,7 @@ be: 1<br>
 group: 1<br>
 claims: 1<br>
 game: 1<br>
+ninja: 3<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
@@ -241,7 +242,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4347<br>
+com: 4356<br>
 site: 38<br>
 net: 249<br>
 cc: 12<br>
@@ -425,6 +426,7 @@ ipfs.dweb.link: 1<br>
 autos: 1<br>
 br.com: 1<br>
 co.za: 8<br>
+fr: 16<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -446,7 +448,6 @@ fi: 2<br>
 sale: 11<br>
 fans: 1<br>
 co.no: 7<br>
-fr: 12<br>
 es: 10<br>
 com.tr: 3<br>
 com.se: 6<br>
@@ -471,6 +472,7 @@ be: 1<br>
 group: 1<br>
 claims: 1<br>
 game: 1<br>
+ninja: 3<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
