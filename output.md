@@ -1,11 +1,11 @@
 ## All lists
-com: 4372<br>
+com: 4376<br>
 site: 38<br>
-net: 250<br>
+net: 254<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
-info: 85<br>
+info: 89<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -177,7 +177,7 @@ plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
 pages.dev: 1<br>
-website: 3<br>
+website: 5<br>
 hk: 1<br>
 ipfs.dweb.link: 1<br>
 autos: 1<br>
@@ -242,13 +242,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4356<br>
+com: 4360<br>
 site: 38<br>
-net: 249<br>
+net: 253<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
-info: 85<br>
+info: 89<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -420,7 +420,7 @@ plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
 pages.dev: 1<br>
-website: 3<br>
+website: 5<br>
 hk: 1<br>
 ipfs.dweb.link: 1<br>
 autos: 1<br>
