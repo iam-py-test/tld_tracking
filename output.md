@@ -1,5 +1,5 @@
 ## All lists
-com: 4381<br>
+com: 4382<br>
 site: 38<br>
 net: 254<br>
 cc: 12<br>
@@ -10,7 +10,7 @@ pl: 30<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 151<br>
+org: 152<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -244,7 +244,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4362<br>
+com: 4363<br>
 site: 38<br>
 net: 253<br>
 cc: 12<br>
@@ -255,7 +255,7 @@ pl: 30<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 148<br>
+org: 149<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
