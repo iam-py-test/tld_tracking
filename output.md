@@ -1,11 +1,11 @@
 ## All lists
-com: 4382<br>
+com: 4384<br>
 site: 38<br>
 net: 254<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
-info: 89<br>
+info: 90<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -71,7 +71,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 93<br>
+pro: 94<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -244,13 +244,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4363<br>
+com: 4364<br>
 site: 38<br>
 net: 253<br>
 cc: 12<br>
 in: 14<br>
 de: 121<br>
-info: 89<br>
+info: 90<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -316,7 +316,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 93<br>
+pro: 94<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -489,7 +489,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 19<br>
+com: 20<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
