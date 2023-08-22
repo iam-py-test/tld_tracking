@@ -1,5 +1,5 @@
 ## All lists
-com: 4417<br>
+com: 4419<br>
 site: 38<br>
 net: 254<br>
 cc: 12<br>
@@ -106,7 +106,7 @@ monster: 2<br>
 pics: 1<br>
 hair: 2<br>
 cm: 22<br>
-app: 5<br>
+app: 6<br>
 guru: 1<br>
 co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
@@ -172,7 +172,7 @@ com.mx: 8<br>
 id: 2<br>
 ir: 2<br>
 ltd: 1<br>
-blogspot.com: 8<br>
+blogspot.com: 9<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
@@ -184,6 +184,7 @@ autos: 1<br>
 br.com: 1<br>
 co.za: 8<br>
 fr: 16<br>
+tempurl.host: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -244,7 +245,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4397<br>
+com: 4399<br>
 site: 38<br>
 net: 253<br>
 cc: 12<br>
@@ -351,7 +352,7 @@ monster: 2<br>
 pics: 1<br>
 hair: 2<br>
 cm: 22<br>
-app: 5<br>
+app: 6<br>
 guru: 1<br>
 co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
@@ -417,7 +418,7 @@ com.mx: 8<br>
 id: 2<br>
 ir: 2<br>
 ltd: 1<br>
-blogspot.com: 8<br>
+blogspot.com: 9<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
@@ -429,6 +430,7 @@ autos: 1<br>
 br.com: 1<br>
 co.za: 8<br>
 fr: 16<br>
+tempurl.host: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
