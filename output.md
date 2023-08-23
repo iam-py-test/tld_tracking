@@ -1,5 +1,5 @@
 ## All lists
-com: 4419<br>
+com: 4576<br>
 site: 38<br>
 net: 254<br>
 cc: 12<br>
@@ -24,7 +24,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 212<br>
+top: 604<br>
 glitch.me: 15<br>
 ru: 189<br>
 club: 29<br>
@@ -245,7 +245,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4399<br>
+com: 4555<br>
 site: 38<br>
 net: 253<br>
 cc: 12<br>
@@ -270,7 +270,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 212<br>
+top: 604<br>
 glitch.me: 15<br>
 ru: 189<br>
 club: 29<br>
@@ -491,7 +491,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 20<br>
+com: 21<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
