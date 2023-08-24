@@ -1,11 +1,11 @@
 ## All lists
-com: 4576<br>
+com: 4578<br>
 site: 38<br>
 net: 254<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 90<br>
+info: 91<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -251,7 +251,7 @@ net: 253<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 90<br>
+info: 91<br>
 pl: 30<br>
 us: 31<br>
 win: 1<br>
@@ -491,7 +491,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 21<br>
+com: 23<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
