@@ -1,5 +1,5 @@
 ## All lists
-com: 4581<br>
+com: 4582<br>
 site: 38<br>
 net: 255<br>
 cc: 12<br>
@@ -46,7 +46,7 @@ tech: 4<br>
 link: 3<br>
 ms: 2<br>
 cn: 15<br>
-co.uk: 40<br>
+co.uk: 41<br>
 hopto.org: 1<br>
 gg: 2<br>
 com.ru: 2<br>
@@ -292,7 +292,7 @@ tech: 4<br>
 link: 3<br>
 ms: 2<br>
 cn: 15<br>
-co.uk: 40<br>
+co.uk: 41<br>
 hopto.org: 1<br>
 gg: 2<br>
 com.ru: 2<br>
@@ -491,7 +491,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 23<br>
+com: 24<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
