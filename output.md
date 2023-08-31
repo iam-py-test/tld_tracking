@@ -1,7 +1,7 @@
 ## All lists
-com: 4587<br>
-site: 38<br>
-net: 255<br>
+com: 4599<br>
+site: 39<br>
+net: 256<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -245,9 +245,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4563<br>
-site: 38<br>
-net: 254<br>
+com: 4571<br>
+site: 39<br>
+net: 255<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -491,7 +491,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 24<br>
+com: 28<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
