@@ -1,5 +1,5 @@
 ## All lists
-com: 4631<br>
+com: 4634<br>
 site: 39<br>
 net: 258<br>
 cc: 12<br>
@@ -10,14 +10,14 @@ pl: 30<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 154<br>
+org: 158<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 1001<br>
+xyz: 1002<br>
 live: 1588<br>
 best: 6<br>
 ddns.net: 4<br>
@@ -88,7 +88,7 @@ kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
 solutions: 1<br>
-co.in: 9<br>
+co.in: 107<br>
 page: 1<br>
 gotdns.ch: 1<br>
 cfd: 15<br>
@@ -246,7 +246,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4603<br>
+com: 4605<br>
 site: 39<br>
 net: 257<br>
 cc: 12<br>
@@ -257,14 +257,14 @@ pl: 30<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 151<br>
+org: 155<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 1001<br>
+xyz: 1002<br>
 live: 1588<br>
 best: 6<br>
 ddns.net: 4<br>
@@ -335,7 +335,7 @@ kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
 solutions: 1<br>
-co.in: 9<br>
+co.in: 107<br>
 page: 1<br>
 gotdns.ch: 1<br>
 cfd: 15<br>
@@ -493,7 +493,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 28<br>
+com: 29<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
