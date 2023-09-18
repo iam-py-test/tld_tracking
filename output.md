@@ -1,5 +1,5 @@
 ## All lists
-com: 4640<br>
+com: 4644<br>
 site: 39<br>
 net: 258<br>
 cc: 12<br>
@@ -106,7 +106,7 @@ monster: 4<br>
 pics: 1<br>
 hair: 2<br>
 cm: 22<br>
-app: 8<br>
+app: 9<br>
 guru: 1<br>
 co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
@@ -172,7 +172,7 @@ com.mx: 8<br>
 id: 2<br>
 ir: 2<br>
 ltd: 1<br>
-blogspot.com: 9<br>
+blogspot.com: 10<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
@@ -246,7 +246,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4611<br>
+com: 4615<br>
 site: 39<br>
 net: 257<br>
 cc: 12<br>
@@ -353,7 +353,7 @@ monster: 4<br>
 pics: 1<br>
 hair: 2<br>
 cm: 22<br>
-app: 8<br>
+app: 9<br>
 guru: 1<br>
 co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
@@ -419,7 +419,7 @@ com.mx: 8<br>
 id: 2<br>
 ir: 2<br>
 ltd: 1<br>
-blogspot.com: 9<br>
+blogspot.com: 10<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
