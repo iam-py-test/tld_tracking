@@ -36,7 +36,7 @@ eu: 16<br>
 biz: 13<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
-se: 7<br>
+se: 8<br>
 cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
@@ -283,7 +283,7 @@ eu: 15<br>
 biz: 13<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
-se: 7<br>
+se: 8<br>
 cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
