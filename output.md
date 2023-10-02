@@ -1,11 +1,11 @@
 ## All lists
-com: 4656<br>
+com: 4671<br>
 site: 39<br>
 net: 258<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 92<br>
+info: 93<br>
 pl: 31<br>
 us: 31<br>
 win: 1<br>
@@ -26,7 +26,7 @@ ma: 1<br>
 tk: 4<br>
 top: 608<br>
 glitch.me: 15<br>
-ru: 189<br>
+ru: 190<br>
 club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -83,7 +83,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 68<br>
+click: 69<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -246,13 +246,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4627<br>
+com: 4641<br>
 site: 39<br>
 net: 257<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 92<br>
+info: 93<br>
 pl: 31<br>
 us: 31<br>
 win: 1<br>
@@ -273,7 +273,7 @@ ma: 1<br>
 tk: 4<br>
 top: 608<br>
 glitch.me: 15<br>
-ru: 189<br>
+ru: 190<br>
 club: 29<br>
 org.nz: 1<br>
 pw: 5<br>
@@ -330,7 +330,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 68<br>
+click: 69<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -493,7 +493,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 29<br>
+com: 30<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
