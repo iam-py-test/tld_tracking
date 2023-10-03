@@ -1,5 +1,5 @@
 ## All lists
-com: 4671<br>
+com: 4687<br>
 site: 39<br>
 net: 258<br>
 cc: 12<br>
@@ -24,7 +24,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 608<br>
+top: 609<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 29<br>
@@ -68,7 +68,7 @@ store: 271<br>
 contact: 1<br>
 agency: 1<br>
 uk: 3<br>
-com.br: 6<br>
+com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
 pro: 95<br>
@@ -172,7 +172,7 @@ com.mx: 8<br>
 id: 2<br>
 ir: 2<br>
 ltd: 1<br>
-blogspot.com: 10<br>
+blogspot.com: 11<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
@@ -246,7 +246,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4641<br>
+com: 4657<br>
 site: 39<br>
 net: 257<br>
 cc: 12<br>
@@ -271,7 +271,7 @@ ddns.net: 4<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 608<br>
+top: 609<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 29<br>
@@ -315,7 +315,7 @@ store: 271<br>
 contact: 1<br>
 agency: 1<br>
 uk: 3<br>
-com.br: 6<br>
+com.br: 5<br>
 ro: 7<br>
 edu.krd: 1<br>
 pro: 95<br>
@@ -419,7 +419,7 @@ com.mx: 8<br>
 id: 2<br>
 ir: 2<br>
 ltd: 1<br>
-blogspot.com: 10<br>
+blogspot.com: 11<br>
 plesk.page: 1<br>
 ddnsfree.com: 1<br>
 com.pk: 1<br>
