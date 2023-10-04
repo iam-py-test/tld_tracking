@@ -1,5 +1,5 @@
 ## All lists
-com: 4687<br>
+com: 4689<br>
 site: 39<br>
 net: 258<br>
 cc: 12<br>
@@ -10,7 +10,7 @@ pl: 31<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 159<br>
+org: 158<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -20,7 +20,7 @@ fun: 12<br>
 xyz: 1002<br>
 live: 1588<br>
 best: 6<br>
-ddns.net: 4<br>
+ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
@@ -68,7 +68,7 @@ store: 271<br>
 contact: 1<br>
 agency: 1<br>
 uk: 3<br>
-com.br: 5<br>
+com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
 pro: 95<br>
@@ -100,7 +100,7 @@ rest: 1<br>
 buzz: 165<br>
 yolasite.com: 1<br>
 nl: 9<br>
-to: 3<br>
+to: 6<br>
 pr46m.vps.myjino.ru: 1<br>
 monster: 4<br>
 pics: 1<br>
@@ -114,7 +114,7 @@ ca: 24<br>
 org.uk: 1<br>
 com.vn: 1<br>
 at: 7<br>
-io: 24<br>
+io: 25<br>
 myphotos.cc: 1<br>
 today: 1<br>
 news: 8<br>
@@ -130,7 +130,7 @@ bond: 2<br>
 am: 1<br>
 ge: 1<br>
 by: 1<br>
-is: 4<br>
+is: 7<br>
 mobi: 5<br>
 email: 1<br>
 gold: 1<br>
@@ -186,6 +186,7 @@ co.za: 8<br>
 fr: 16<br>
 tempurl.host: 1<br>
 gr: 2<br>
+co.tz: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -246,7 +247,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4657<br>
+com: 4658<br>
 site: 39<br>
 net: 257<br>
 cc: 12<br>
@@ -257,7 +258,7 @@ pl: 31<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 156<br>
+org: 155<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -267,7 +268,7 @@ fun: 12<br>
 xyz: 1002<br>
 live: 1588<br>
 best: 6<br>
-ddns.net: 4<br>
+ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
@@ -315,7 +316,7 @@ store: 271<br>
 contact: 1<br>
 agency: 1<br>
 uk: 3<br>
-com.br: 5<br>
+com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
 pro: 95<br>
@@ -347,7 +348,7 @@ rest: 1<br>
 buzz: 165<br>
 yolasite.com: 1<br>
 nl: 9<br>
-to: 3<br>
+to: 6<br>
 pr46m.vps.myjino.ru: 1<br>
 monster: 4<br>
 pics: 1<br>
@@ -361,7 +362,7 @@ ca: 24<br>
 org.uk: 1<br>
 com.vn: 1<br>
 at: 7<br>
-io: 24<br>
+io: 25<br>
 myphotos.cc: 1<br>
 today: 1<br>
 news: 8<br>
@@ -377,7 +378,7 @@ bond: 2<br>
 am: 1<br>
 ge: 1<br>
 by: 1<br>
-is: 4<br>
+is: 7<br>
 mobi: 5<br>
 email: 1<br>
 gold: 1<br>
@@ -433,6 +434,7 @@ co.za: 8<br>
 fr: 16<br>
 tempurl.host: 1<br>
 gr: 2<br>
+co.tz: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -493,7 +495,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 30<br>
+com: 31<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
