@@ -1,7 +1,7 @@
 ## All lists
-com: 4696<br>
+com: 4694<br>
 site: 39<br>
-net: 258<br>
+net: 259<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -24,7 +24,7 @@ ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 609<br>
+top: 606<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 29<br>
@@ -248,9 +248,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4665<br>
+com: 4663<br>
 site: 39<br>
-net: 257<br>
+net: 258<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -273,7 +273,7 @@ ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 609<br>
+top: 606<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 29<br>
