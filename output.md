@@ -1,5 +1,5 @@
 ## All lists
-com: 4694<br>
+com: 4697<br>
 site: 39<br>
 net: 259<br>
 cc: 12<br>
@@ -17,14 +17,14 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 1002<br>
-live: 1588<br>
+xyz: 996<br>
+live: 1587<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 606<br>
+top: 570<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 29<br>
@@ -33,15 +33,15 @@ pw: 5<br>
 cl: 2<br>
 shop: 70<br>
 eu: 16<br>
-biz: 13<br>
+biz: 15<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
 se: 8<br>
 cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
-co: 59<br>
-online: 41<br>
+co: 60<br>
+online: 39<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -52,7 +52,7 @@ gg: 2<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 82<br>
+life: 81<br>
 myiphost.com: 1<br>
 si: 1<br>
 me: 18<br>
@@ -97,9 +97,9 @@ casa: 1<br>
 web.app: 2<br>
 wixsite.com: 1<br>
 rest: 1<br>
-buzz: 165<br>
+buzz: 164<br>
 yolasite.com: 1<br>
-nl: 9<br>
+nl: 7<br>
 to: 6<br>
 pr46m.vps.myjino.ru: 1<br>
 monster: 4<br>
@@ -188,6 +188,7 @@ tempurl.host: 1<br>
 gr: 2<br>
 co.tz: 1<br>
 works: 1<br>
+ink: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -266,14 +267,14 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 1002<br>
-live: 1588<br>
+xyz: 996<br>
+live: 1587<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 606<br>
+top: 570<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 29<br>
@@ -282,15 +283,15 @@ pw: 5<br>
 cl: 2<br>
 shop: 70<br>
 eu: 15<br>
-biz: 13<br>
+biz: 15<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
 se: 8<br>
 cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
-co: 59<br>
-online: 41<br>
+co: 60<br>
+online: 39<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -301,7 +302,7 @@ gg: 2<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
-life: 82<br>
+life: 81<br>
 myiphost.com: 1<br>
 si: 1<br>
 me: 18<br>
@@ -346,9 +347,9 @@ casa: 1<br>
 web.app: 2<br>
 wixsite.com: 1<br>
 rest: 1<br>
-buzz: 165<br>
+buzz: 164<br>
 yolasite.com: 1<br>
-nl: 9<br>
+nl: 7<br>
 to: 6<br>
 pr46m.vps.myjino.ru: 1<br>
 monster: 4<br>
@@ -437,6 +438,7 @@ tempurl.host: 1<br>
 gr: 2<br>
 co.tz: 1<br>
 works: 1<br>
+ink: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -497,7 +499,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## iam-py-test's anti-PUP list
-com: 31<br>
+com: 34<br>
 org: 3<br>
 workers.dev: 1<br>
 github.io: 1<br>
