@@ -1,7 +1,7 @@
 ## All lists
-com: 4700<br>
-site: 39<br>
-net: 259<br>
+com: 4711<br>
+site: 42<br>
+net: 260<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -17,14 +17,14 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 996<br>
+xyz: 999<br>
 live: 1587<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 571<br>
+top: 453<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
@@ -41,7 +41,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 60<br>
-online: 39<br>
+online: 40<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -71,7 +71,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 95<br>
+pro: 96<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -83,7 +83,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 69<br>
+click: 71<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -190,6 +190,9 @@ co.tz: 1<br>
 works: 1<br>
 ink: 1<br>
 media: 1<br>
+house: 1<br>
+ru.com: 1<br>
+uk.eu.org: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -250,9 +253,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4666<br>
-site: 39<br>
-net: 258<br>
+com: 4677<br>
+site: 42<br>
+net: 259<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -268,14 +271,14 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 996<br>
+xyz: 999<br>
 live: 1587<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 571<br>
+top: 453<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
@@ -292,7 +295,7 @@ cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
 co: 60<br>
-online: 39<br>
+online: 40<br>
 tech: 4<br>
 link: 3<br>
 ms: 2<br>
@@ -322,7 +325,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 95<br>
+pro: 96<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -334,7 +337,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 69<br>
+click: 71<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -441,6 +444,9 @@ co.tz: 1<br>
 works: 1<br>
 ink: 1<br>
 media: 1<br>
+house: 1<br>
+ru.com: 1<br>
+uk.eu.org: 1<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
