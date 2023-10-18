@@ -1,5 +1,5 @@
 ## All lists
-com: 4711<br>
+com: 4708<br>
 site: 42<br>
 net: 260<br>
 cc: 12<br>
@@ -10,7 +10,7 @@ pl: 31<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 158<br>
+org: 157<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -18,7 +18,7 @@ ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
 xyz: 999<br>
-live: 1587<br>
+live: 1586<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
@@ -29,7 +29,6 @@ glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
 org.nz: 1<br>
-pw: 5<br>
 cl: 2<br>
 shop: 70<br>
 eu: 16<br>
@@ -49,6 +48,7 @@ cn: 16<br>
 co.uk: 41<br>
 hopto.org: 1<br>
 gg: 2<br>
+pw: 4<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
@@ -62,7 +62,6 @@ sh: 2<br>
 hu: 2<br>
 sytes.net: 1<br>
 github.io: 3<br>
-sbs: 3<br>
 name: 6<br>
 store: 271<br>
 contact: 1<br>
@@ -166,6 +165,7 @@ ws: 2<br>
 ac: 1<br>
 ci: 1<br>
 st: 1<br>
+sbs: 2<br>
 studio: 1<br>
 one: 3<br>
 com.mx: 8<br>
@@ -253,7 +253,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4677<br>
+com: 4674<br>
 site: 42<br>
 net: 259<br>
 cc: 12<br>
@@ -264,7 +264,7 @@ pl: 31<br>
 us: 31<br>
 win: 1<br>
 trade: 1<br>
-org: 155<br>
+org: 154<br>
 nf: 1<br>
 cz: 13<br>
 la: 5<br>
@@ -272,7 +272,7 @@ ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
 xyz: 999<br>
-live: 1587<br>
+live: 1586<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
@@ -283,7 +283,6 @@ glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
 org.nz: 1<br>
-pw: 5<br>
 cl: 2<br>
 shop: 70<br>
 eu: 15<br>
@@ -303,6 +302,7 @@ cn: 16<br>
 co.uk: 41<br>
 hopto.org: 1<br>
 gg: 2<br>
+pw: 4<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
@@ -316,7 +316,6 @@ sh: 2<br>
 hu: 2<br>
 sytes.net: 1<br>
 github.io: 2<br>
-sbs: 3<br>
 name: 6<br>
 store: 271<br>
 contact: 1<br>
@@ -420,6 +419,7 @@ ws: 2<br>
 ac: 1<br>
 ci: 1<br>
 st: 1<br>
+sbs: 2<br>
 studio: 1<br>
 one: 3<br>
 com.mx: 8<br>
