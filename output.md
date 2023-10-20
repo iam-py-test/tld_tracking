@@ -5,7 +5,7 @@ net: 260<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 94<br>
+info: 95<br>
 pl: 31<br>
 us: 31<br>
 win: 1<br>
@@ -259,7 +259,7 @@ net: 259<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 94<br>
+info: 95<br>
 pl: 31<br>
 us: 31<br>
 win: 1<br>
