@@ -1,7 +1,7 @@
 ## All lists
-com: 4708<br>
+com: 4718<br>
 site: 42<br>
-net: 260<br>
+net: 262<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -17,20 +17,20 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 999<br>
+xyz: 1001<br>
 live: 1586<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 453<br>
+top: 454<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
 org.nz: 1<br>
 cl: 2<br>
-shop: 70<br>
+shop: 71<br>
 eu: 16<br>
 biz: 15<br>
 no-ip.org: 1<br>
@@ -82,7 +82,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 71<br>
+click: 74<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -102,7 +102,6 @@ nl: 7<br>
 to: 6<br>
 pr46m.vps.myjino.ru: 1<br>
 monster: 4<br>
-pics: 1<br>
 hair: 2<br>
 cm: 22<br>
 app: 9<br>
@@ -165,7 +164,7 @@ ws: 2<br>
 ac: 1<br>
 ci: 1<br>
 st: 1<br>
-sbs: 2<br>
+sbs: 3<br>
 studio: 1<br>
 one: 3<br>
 com.mx: 8<br>
@@ -209,7 +208,7 @@ ai: 1<br>
 netlify.app: 2<br>
 bio: 2<br>
 tv: 1<br>
-world: 2<br>
+world: 3<br>
 fi: 2<br>
 sale: 11<br>
 fans: 1<br>
@@ -253,9 +252,9 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4674<br>
+com: 4684<br>
 site: 42<br>
-net: 259<br>
+net: 261<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -271,20 +270,20 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 999<br>
+xyz: 1001<br>
 live: 1586<br>
 best: 6<br>
 ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 453<br>
+top: 454<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
 org.nz: 1<br>
 cl: 2<br>
-shop: 70<br>
+shop: 71<br>
 eu: 15<br>
 biz: 15<br>
 no-ip.org: 1<br>
@@ -336,7 +335,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 71<br>
+click: 74<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -356,7 +355,6 @@ nl: 7<br>
 to: 6<br>
 pr46m.vps.myjino.ru: 1<br>
 monster: 4<br>
-pics: 1<br>
 hair: 2<br>
 cm: 22<br>
 app: 9<br>
@@ -419,7 +417,7 @@ ws: 2<br>
 ac: 1<br>
 ci: 1<br>
 st: 1<br>
-sbs: 2<br>
+sbs: 3<br>
 studio: 1<br>
 one: 3<br>
 com.mx: 8<br>
@@ -463,7 +461,7 @@ ai: 1<br>
 netlify.app: 2<br>
 bio: 2<br>
 tv: 1<br>
-world: 2<br>
+world: 3<br>
 fi: 2<br>
 sale: 11<br>
 fans: 1<br>
