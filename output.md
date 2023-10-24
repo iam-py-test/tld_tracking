@@ -1,11 +1,11 @@
 ## All lists
-com: 4718<br>
+com: 4723<br>
 site: 42<br>
-net: 262<br>
+net: 263<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 95<br>
+info: 96<br>
 pl: 31<br>
 us: 31<br>
 win: 1<br>
@@ -32,10 +32,10 @@ org.nz: 1<br>
 cl: 2<br>
 shop: 71<br>
 eu: 16<br>
-biz: 15<br>
+biz: 17<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
-se: 8<br>
+se: 7<br>
 cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
@@ -48,7 +48,7 @@ cn: 16<br>
 co.uk: 41<br>
 hopto.org: 1<br>
 gg: 2<br>
-pw: 4<br>
+pw: 5<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
@@ -82,7 +82,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 74<br>
+click: 72<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -192,6 +192,7 @@ media: 1<br>
 house: 1<br>
 ru.com: 1<br>
 uk.eu.org: 1<br>
+download: 2<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -243,7 +244,6 @@ broker: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
-download: 1<br>
 fo: 1<br>
 sv: 4<br>
 yachts: 14<br>
@@ -252,13 +252,13 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4684<br>
+com: 4689<br>
 site: 42<br>
-net: 261<br>
+net: 262<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
-info: 95<br>
+info: 96<br>
 pl: 31<br>
 us: 31<br>
 win: 1<br>
@@ -285,10 +285,10 @@ org.nz: 1<br>
 cl: 2<br>
 shop: 71<br>
 eu: 15<br>
-biz: 15<br>
+biz: 17<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
-se: 8<br>
+se: 7<br>
 cam: 2<br>
 no-ip.biz: 1<br>
 art: 4<br>
@@ -301,7 +301,7 @@ cn: 16<br>
 co.uk: 41<br>
 hopto.org: 1<br>
 gg: 2<br>
-pw: 4<br>
+pw: 5<br>
 com.ru: 2<br>
 loan: 2<br>
 foundation: 1<br>
@@ -335,7 +335,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 74<br>
+click: 72<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -445,6 +445,7 @@ media: 1<br>
 house: 1<br>
 ru.com: 1<br>
 uk.eu.org: 1<br>
+download: 2<br>
 date: 2<br>
 cloudfront.net: 7<br>
 wang: 1<br>
@@ -496,7 +497,6 @@ broker: 1<br>
 hr: 1<br>
 us-east-1.elb.amazonaws.com: 1<br>
 vn: 1<br>
-download: 1<br>
 fo: 1<br>
 sv: 4<br>
 yachts: 14<br>
