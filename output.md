@@ -1,5 +1,5 @@
 ## All lists
-com: 4723<br>
+com: 4730<br>
 site: 42<br>
 net: 263<br>
 cc: 12<br>
@@ -17,7 +17,7 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 1001<br>
+xyz: 1002<br>
 live: 1586<br>
 best: 6<br>
 ddns.net: 5<br>
@@ -38,7 +38,7 @@ duckdns.org: 18<br>
 se: 7<br>
 cam: 2<br>
 no-ip.biz: 1<br>
-art: 4<br>
+art: 5<br>
 co: 60<br>
 online: 40<br>
 tech: 4<br>
@@ -70,7 +70,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 96<br>
+pro: 97<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -82,7 +82,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 72<br>
+click: 74<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
@@ -252,7 +252,7 @@ vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
 ## The malicious website blocklist
-com: 4689<br>
+com: 4696<br>
 site: 42<br>
 net: 262<br>
 cc: 12<br>
@@ -270,7 +270,7 @@ la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
 fun: 12<br>
-xyz: 1001<br>
+xyz: 1002<br>
 live: 1586<br>
 best: 6<br>
 ddns.net: 5<br>
@@ -291,7 +291,7 @@ duckdns.org: 18<br>
 se: 7<br>
 cam: 2<br>
 no-ip.biz: 1<br>
-art: 4<br>
+art: 5<br>
 co: 60<br>
 online: 40<br>
 tech: 4<br>
@@ -323,7 +323,7 @@ uk: 3<br>
 com.br: 6<br>
 ro: 7<br>
 edu.krd: 1<br>
-pro: 96<br>
+pro: 97<br>
 us-west-2.compute.amazonaws.com: 1<br>
 bid: 1<br>
 ec2-3-238-75-201.compute-1.amazonaws.com: 1<br>
@@ -335,7 +335,7 @@ s3.amazonaws.com: 2<br>
 org.cn: 1<br>
 us-east-1.amazonaws.com: 1<br>
 tools: 1<br>
-click: 72<br>
+click: 74<br>
 kozow.com: 1<br>
 jp: 2<br>
 appspot.com: 1<br>
