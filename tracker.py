@@ -1,6 +1,7 @@
 import os,sys
 import requests
 from publicsuffixlist import PublicSuffixList
+from tranco import Tranco
 
 psl = PublicSuffixList()
 
@@ -11,6 +12,20 @@ lists = {
 }
 lists_data = {}
 tldsg = {}
+
+tranco = Tranco(cache=False)
+trancolist = tranco.list()
+topdomains = trancolist.top()
+
+tldsg["tranco"] = {}
+
+for domain in topdomains:
+  tld = psl.publicsuffix(domain)
+  if tld == None:
+    continue
+  if tld not in tldsg["tranco"]:
+    tldsg["tranco"][tld] = 0
+  tldsg["tranco"][tld] += 1
 
 for l in lists:
   tlds = {}
