@@ -4,7 +4,11 @@ from publicsuffixlist import PublicSuffixList
 
 psl = PublicSuffixList()
 
-lists = {"The malicious website blocklist":"https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt","iam-py-test's anti-PUP list":"https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antipup_domains.txt"}
+lists = {
+  "The malicious website blocklist":"https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt",
+  "iam-py-test's anti-PUP list":"https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antipup_domains.txt",
+  "URLHaus": "https://urlhaus.abuse.ch/downloads/hostfile/"
+}
 lists_data = {}
 tldsg = {}
 
@@ -12,6 +16,10 @@ for l in lists:
   tlds = {}
   domains = requests.get(lists[l]).text.split("\n")
   for domain in domains:
+    if domain.startswith("#"):
+      continue
+    if domain.startswith("127.0.0.1\t"):
+      domain = domain.replace("127.0.0.1\t", "")
     try:
       tld = psl.publicsuffix(domain)
       if tld == None:
