@@ -17,19 +17,19 @@ tranco = Tranco(cache=False)
 trancolist = tranco.list()
 topdomains = trancolist.top()
 
-tldsg["tranco"] = {}
+lists_data["tranco"] = {}
 
 for domain in topdomains:
   tld = psl.publicsuffix(domain)
   if tld == None:
     continue
-  if tld not in tldsg["tranco"]:
-    tldsg["tranco"][tld] = 0
-  tldsg["tranco"][tld] += 1
+  if tld not in lists_data["tranco"]:
+    lists_data["tranco"][tld] = 0
+  lists_data["tranco"][tld] += 1
 
 for l in lists:
   tlds = {}
-  domains = requests.get(lists[l]).text.split("\n")
+  domains = requests.get(lists[l]).text.replace("\r", "").split("\n")
   for domain in domains:
     if domain.startswith("#"):
       continue
