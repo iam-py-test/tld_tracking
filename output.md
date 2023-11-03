@@ -1,7 +1,7 @@
 ## All lists
-com: 5150<br>
+com: 5154<br>
 site: 42<br>
-net: 292<br>
+net: 293<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -16,7 +16,7 @@ cz: 16<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
-fun: 12<br>
+fun: 13<br>
 xyz: 1004<br>
 live: 1586<br>
 best: 6<br>
@@ -24,7 +24,7 @@ ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 453<br>
+top: 454<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
@@ -254,10 +254,87 @@ vn.ua: 1<br>
 vinnica.ua: 1<br>
 skin: 1<br>
 onl: 1<br>
+com: 240<br>
+it: 4<br>
+in: 17<br>
+net: 28<br>
+ua: 1<br>
+br: 30<br>
+za: 20<br>
+org: 22<br>
+pk: 11<br>
+au: 2<br>
+online: 3<br>
+id: 3<br>
+ae: 3<br>
+vn: 8<br>
+mx: 6<br>
+cn: 8<br>
+np: 5<br>
+ao: 1<br>
+xyz: 6<br>
+es: 2<br>
+cl: 4<br>
+ar: 3<br>
+top: 5<br>
+de: 6<br>
+pe: 3<br>
+rw: 1<br>
+media: 2<br>
+hu: 1<br>
+sbs: 1<br>
+site: 2<br>
+tr: 3<br>
+ke: 3<br>
+ca: 1<br>
+ee: 1<br>
+co: 3<br>
+info: 2<br>
+us: 3<br>
+ir: 1<br>
+dev: 1<br>
+ge: 1<br>
+sg: 3<br>
+pro: 1<br>
+ws: 1<br>
+ie: 1<br>
+ng: 2<br>
+boutique: 1<br>
+asia: 1<br>
+gr: 1<br>
+ug: 5<br>
+ru: 5<br>
+bd: 1<br>
+gt: 1<br>
+se: 3<br>
+fr: 2<br>
+uk: 3<br>
+tv: 1<br>
+mk: 1<br>
+club: 1<br>
+space: 1<br>
+ec: 1<br>
+nl: 1<br>
+pt: 1<br>
+nz: 1<br>
+icu: 1<br>
+biz: 1<br>
+ma: 1<br>
+th: 1<br>
+store: 2<br>
+sh: 1<br>
+tz: 1<br>
+run: 1<br>
+live: 1<br>
+so: 1<br>
+by: 1<br>
+ps: 1<br>
+tn: 1<br>
+io: 1<br>
 ## The malicious website blocklist
-com: 5116<br>
+com: 5120<br>
 site: 42<br>
-net: 291<br>
+net: 292<br>
 cc: 12<br>
 in: 14<br>
 de: 126<br>
@@ -272,7 +349,7 @@ cz: 16<br>
 la: 5<br>
 ml: 3<br>
 ey.r.appspot.com: 1<br>
-fun: 12<br>
+fun: 13<br>
 xyz: 1004<br>
 live: 1586<br>
 best: 6<br>
@@ -280,7 +357,7 @@ ddns.net: 5<br>
 com.ar: 3<br>
 ma: 1<br>
 tk: 4<br>
-top: 453<br>
+top: 454<br>
 glitch.me: 15<br>
 ru: 190<br>
 club: 30<br>
@@ -518,3 +595,81 @@ github.io: 1<br>
 net: 1<br>
 eu: 1<br>
 com.cn: 1<br>
+## URLHaus
+com: 240<br>
+it: 4<br>
+in: 17<br>
+net: 28<br>
+ua: 1<br>
+br: 30<br>
+za: 20<br>
+org: 22<br>
+pk: 11<br>
+au: 2<br>
+online: 3<br>
+id: 3<br>
+ae: 3<br>
+vn: 8<br>
+mx: 6<br>
+cn: 8<br>
+np: 5<br>
+ao: 1<br>
+xyz: 6<br>
+es: 2<br>
+cl: 4<br>
+ar: 3<br>
+top: 5<br>
+de: 6<br>
+pe: 3<br>
+rw: 1<br>
+media: 2<br>
+hu: 1<br>
+sbs: 1<br>
+site: 2<br>
+tr: 3<br>
+ke: 3<br>
+ca: 1<br>
+ee: 1<br>
+co: 3<br>
+info: 2<br>
+us: 3<br>
+ir: 1<br>
+dev: 1<br>
+ge: 1<br>
+sg: 3<br>
+pro: 1<br>
+ws: 1<br>
+ie: 1<br>
+ng: 2<br>
+boutique: 1<br>
+asia: 1<br>
+gr: 1<br>
+ug: 5<br>
+ru: 5<br>
+bd: 1<br>
+gt: 1<br>
+se: 3<br>
+fr: 2<br>
+uk: 3<br>
+tv: 1<br>
+mk: 1<br>
+club: 1<br>
+space: 1<br>
+ec: 1<br>
+nl: 1<br>
+pt: 1<br>
+nz: 1<br>
+icu: 1<br>
+biz: 1<br>
+ma: 1<br>
+th: 1<br>
+store: 2<br>
+sh: 1<br>
+tz: 1<br>
+run: 1<br>
+live: 1<br>
+so: 1<br>
+by: 1<br>
+ps: 1<br>
+tn: 1<br>
+io: 1<br>
