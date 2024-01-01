@@ -1,4 +1,4 @@
-import os,sys
+import os,sys,json
 import requests
 from publicsuffixlist import PublicSuffixList
 from tranco import Tranco
@@ -12,6 +12,12 @@ lists = {
 }
 lists_data = {}
 tldsg = {}
+
+tld_stats = {}
+try:
+  tld_stats = json.loads(open("stats.json", encoding="UTF-8").read())
+except:
+  pass
 
 tranco = Tranco(cache=False)
 trancolist = tranco.list()
@@ -53,6 +59,9 @@ for l in lists:
 outlist = open("output.md",'w')
 outlist.write("## All lists\n")
 for tld in tldsg:
+  if tld not in tld_stats:
+    tld_stats[tld] = []
+  tld_stats[tld].append(tldsg[tld])
   outlist.write("{}: {}<br>\n".format(tld,tldsg[tld]))
 
 for ldata in lists_data:
@@ -61,3 +70,10 @@ for ldata in lists_data:
   for tld in ltlds:
     outlist.write("{}: {}<br>\n".format(tld,ltlds[tld]))
 outlist.close()
+
+try:
+  statsf = open("stats.json", 'w')
+  statsf.write(json.dumps(tld_stats))
+  statsf.close()
+except:
+  pass
