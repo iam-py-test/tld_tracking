@@ -1,20 +1,20 @@
 ## All lists
-com: 6408<br>
-site: 77<br>
-net: 482<br>
+com: 6387<br>
+site: 79<br>
+net: 481<br>
 cc: 30<br>
 in: 17<br>
-de: 161<br>
+de: 163<br>
 info: 198<br>
 pl: 73<br>
 us: 33<br>
 win: 2<br>
 trade: 1<br>
-org: 197<br>
+org: 196<br>
 nf: 2<br>
 cz: 36<br>
 fun: 23<br>
-xyz: 1087<br>
+xyz: 1085<br>
 live: 1588<br>
 best: 6<br>
 ddns.net: 5<br>
@@ -24,11 +24,11 @@ tk: 4<br>
 glitch.me: 15<br>
 club: 63<br>
 org.nz: 1<br>
-ru: 263<br>
-cl: 4<br>
-shop: 94<br>
+ru: 262<br>
+cl: 5<br>
+shop: 93<br>
 eu: 20<br>
-biz: 19<br>
+biz: 18<br>
 no-ip.org: 1<br>
 duckdns.org: 18<br>
 se: 9<br>
@@ -52,18 +52,18 @@ myiphost.com: 1<br>
 si: 1<br>
 me: 23<br>
 dk: 2<br>
-it: 35<br>
+it: 36<br>
 sh: 3<br>
-top: 477<br>
+top: 476<br>
 hu: 3<br>
 sytes.net: 1<br>
 github.io: 5<br>
 name: 6<br>
-store: 274<br>
+store: 273<br>
 contact: 1<br>
 agency: 1<br>
 uk: 3<br>
-com.br: 9<br>
+com.br: 12<br>
 ro: 10<br>
 edu.krd: 1<br>
 pro: 111<br>
@@ -91,7 +91,7 @@ wixsite.com: 2<br>
 rest: 1<br>
 buzz: 193<br>
 yolasite.com: 1<br>
-nl: 9<br>
+nl: 10<br>
 to: 9<br>
 pr46m.vps.myjino.ru: 1<br>
 monster: 5<br>
@@ -104,7 +104,7 @@ co.kr: 1<br>
 s3.ap-northeast-2.amazonaws.com: 1<br>
 ca: 30<br>
 org.uk: 2<br>
-com.vn: 2<br>
+com.vn: 3<br>
 at: 18<br>
 webflow.io: 1<br>
 myphotos.cc: 1<br>
@@ -148,7 +148,7 @@ vc: 1<br>
 ng: 1<br>
 nz: 1<br>
 coffee: 1<br>
-su: 5<br>
+su: 3<br>
 sk: 44<br>
 sb: 1<br>
 systems: 1<br>
@@ -166,7 +166,7 @@ sbs: 4<br>
 studio: 1<br>
 one: 4<br>
 com.mx: 11<br>
-id: 3<br>
+id: 4<br>
 ir: 2<br>
 ltd: 1<br>
 blogspot.com: 12<br>
@@ -179,7 +179,7 @@ hk: 1<br>
 ipfs.dweb.link: 1<br>
 autos: 1<br>
 br.com: 1<br>
-co.za: 21<br>
+co.za: 23<br>
 fr: 39<br>
 tempurl.host: 1<br>
 gr: 3<br>
@@ -288,232 +288,236 @@ ac.in: 1<br>
 org.pk: 1<br>
 in.th: 1<br>
 pe: 1<br>
+sg: 1<br>
 kr: 1<br>
 tn: 1<br>
 pe.kr: 1<br>
+xn--p1ai: 1<br>
 ## tranco
 com
-: 413496<br>
+: 413529<br>
 net
-: 50277<br>
+: 50205<br>
 org
-: 34548<br>
+: 34462<br>
 be
-: 2612<br>
+: 2615<br>
 us
-: 3038<br>
+: 3041<br>
 ru
-: 46908<br>
+: 46504<br>
 gl
-: 42<br>
+: 41<br>
 ly
-: 163<br>
+: 162<br>
 eu
-: 4161<br>
+: 4152<br>
 gov
-: 1499<br>
+: 1498<br>
 goog
 : 23<br>
 one
-: 1198<br>
+: 1195<br>
 io
-: 9483<br>
+: 9487<br>
 me
-: 3240<br>
+: 3251<br>
 gle
 : 3<br>
 mil
 : 114<br>
 co
-: 7386<br>
+: 7397<br>
 cn
-: 43483<br>
+: 43840<br>
 google
-: 47<br>
+: 46<br>
 uk
-: 13078<br>
+: 13026<br>
 zone
 : 259<br>
 edu
-: 3102<br>
+: 3099<br>
 tv
-: 3069<br>
+: 3056<br>
 int
 : 85<br>
 dev
-: 862<br>
+: 860<br>
 ee
 : 560<br>
 de
-: 18177<br>
+: 18152<br>
 ms
-: 99<br>
+: 98<br>
 pt
-: 1542<br>
+: 1544<br>
 gg
-: 760<br>
-fi
-: 1833<br>
+: 757<br>
 jp
-: 21934<br>
+: 22037<br>
+fi
+: 1834<br>
 pro
-: 3480<br>
+: 3473<br>
 mobi
-: 795<br>
+: 800<br>
 br
-: 17973<br>
+: 17999<br>
 page
-: 96<br>
+: 97<br>
 to
-: 846<br>
+: 842<br>
 apple
 : 7<br>
-ca
-: 4523<br>
 hk
-: 750<br>
+: 752<br>
+ca
+: 4522<br>
 fr
-: 8278<br>
+: 8286<br>
 es
-: 4627<br>
+: 4634<br>
 info
-: 7557<br>
+: 7543<br>
 it
-: 8800<br>
+: 8795<br>
 in
-: 10260<br>
+: 10267<br>
 nz
-: 1261<br>
+: 1265<br>
 pl
-: 8222<br>
+: 8190<br>
 mx
-: 2919<br>
+: 2926<br>
 tr
 : 2664<br>
 mp
 : 12<br>
 so
-: 163<br>
+: 162<br>
 site
-: 4907<br>
+: 4921<br>
 cloud
-: 2058<br>
+: 2055<br>
 news
-: 532<br>
+: 533<br>
 kz
-: 1442<br>
+: 1444<br>
 au
 : 6260<br>
 solutions
 : 95<br>
 cz
-: 4283<br>
+: 4276<br>
 gt
 : 198<br>
 ar
-: 2671<br>
+: 2680<br>
 id
-: 3810<br>
-ai
-: 1614<br>
+: 3825<br>
 do
 : 244<br>
+ai
+: 1616<br>
 gr
-: 2914<br>
+: 2916<br>
 video
 : 244<br>
 arpa
 : 5<br>
 nl
-: 8605<br>
+: 8592<br>
 no
-: 1621<br>
-watch
-: 66<br>
-il
-: 1645<br>
-xxx
-: 305<br>
+: 1618<br>
 sg
 : 787<br>
+watch
+: 67<br>
+il
+: 1641<br>
+xxx
+: 306<br>
 bg
-: 1101<br>
+: 1103<br>
+fm
+: 346<br>
 desi
 : 23<br>
 ir
-: 3411<br>
+: 3412<br>
 la
-: 209<br>
+: 210<br>
 hr
-: 1003<br>
-fm
-: 348<br>
+: 1006<br>
 app
-: 2530<br>
+: 2534<br>
 se
-: 3028<br>
-su
-: 1245<br>
+: 3023<br>
 im
-: 257<br>
+: 256<br>
+su
+: 1243<br>
 wiki
 : 340<br>
 cc
-: 3022<br>
+: 3015<br>
 ua
-: 5063<br>
+: 5064<br>
 vn
-: 2788<br>
+: 2785<br>
 dk
-: 2098<br>
+: 2078<br>
 ro
-: 3466<br>
+: 3455<br>
 porn
 : 86<br>
 health
-: 64<br>
+: 65<br>
 kr
-: 3933<br>
+: 3929<br>
+rs
+: 1014<br>
+pics
+: 534<br>
+lv
+: 691<br>
+ag
+: 135<br>
 microsoft
 : 8<br>
-rs
-: 1018<br>
-pics
-: 528<br>
-ag
-: 136<br>
 sbi
 : 20<br>
 za
-: 2171<br>
+: 2173<br>
 party
-: 259<br>
+: 258<br>
 link
-: 902<br>
+: 900<br>
 live
-: 2100<br>
+: 2096<br>
 ve
 : 263<br>
 sk
-: 1664<br>
+: 1662<br>
 red
 : 128<br>
 ph
-: 1048<br>
+: 1052<br>
 uz
-: 639<br>
+: 634<br>
 am
-: 340<br>
+: 337<br>
 nu
 : 295<br>
 name
-: 382<br>
-best
-: 375<br>
+: 381<br>
 md
-: 358<br>
+: 357<br>
 cool
-: 97<br>
+: 95<br>
+best
+: 373<br>
 lt
 : 929<br>
 moe
@@ -521,183 +525,181 @@ moe
 club
 : 4245<br>
 luxe
-: 3<br>
+: 4<br>
 xyz
-: 12083<br>
+: 12108<br>
 services
 : 233<br>
 plus
 : 215<br>
 vip
-: 1703<br>
+: 1706<br>
 blog
-: 299<br>
+: 302<br>
 pw
-: 1048<br>
+: 1046<br>
 vet
-: 27<br>
+: 26<br>
 az
-: 515<br>
+: 516<br>
 mov
 : 23<br>
 ch
-: 3023<br>
+: 3072<br>
 tech
-: 1231<br>
+: 1233<br>
 media
-: 435<br>
+: 436<br>
 tw
-: 2465<br>
-lv
-: 693<br>
+: 2468<br>
+hu
+: 2970<br>
 software
 : 62<br>
-hu
-: 2976<br>
 chat
-: 203<br>
-re
-: 138<br>
+: 204<br>
 eg
-: 242<br>
-aws
-: 30<br>
-th
-: 894<br>
-team
-: 200<br>
+: 243<br>
 ma
 : 447<br>
-at
-: 2442<br>
+re
+: 138<br>
+aws
+: 30<br>
+team
+: 201<br>
+th
+: 891<br>
 help
 : 110<br>
 beauty
-: 144<br>
-sa
-: 514<br>
+: 143<br>
 bet
-: 1157<br>
+: 1159<br>
 ngo
 : 11<br>
 sc
-: 61<br>
+: 60<br>
 dad
 : 19<br>
-biz
-: 3240<br>
+at
+: 2454<br>
+sa
+: 514<br>
 life
-: 853<br>
+: 850<br>
 mom
-: 163<br>
+: 165<br>
+biz
+: 3241<br>
 ong
 : 3<br>
 meme
 : 13<br>
 cl
-: 2148<br>
+: 2147<br>
 bond
-: 94<br>
+: 92<br>
 hn
-: 101<br>
-nexus
-: 7<br>
+: 100<br>
 rsvp
 : 12<br>
+nexus
+: 7<br>
 network
-: 547<br>
+: 548<br>
 ac
-: 136<br>
+: 138<br>
 st
 : 145<br>
 pe
-: 1043<br>
-guru
-: 369<br>
-pa
-: 110<br>
-sex
-: 67<br>
+: 1048<br>
 technology
-: 51<br>
-movie
-: 41<br>
-hair
-: 90<br>
-cx
-: 143<br>
+: 50<br>
+guru
+: 367<br>
+pa
+: 109<br>
 gd
 : 30<br>
 online
-: 6896<br>
-ie
-: 1035<br>
-direct
-: 49<br>
+: 6909<br>
+sex
+: 67<br>
 management
 : 8<br>
+ie
+: 1028<br>
+direct
+: 50<br>
+movie
+: 41<br>
+hair
+: 92<br>
+cx
+: 142<br>
 my
-: 1122<br>
+: 1127<br>
 games
-: 334<br>
+: 338<br>
 pk
-: 1047<br>
+: 1045<br>
 ae
-: 537<br>
+: 535<br>
 bd
-: 511<br>
+: 509<br>
+va
+: 29<br>
+icu
+: 934<br>
+by
+: 1378<br>
+fun
+: 3384<br>
+si
+: 635<br>
+market
+: 86<br>
+cr
+: 215<br>
+ec
+: 491<br>
 art
-: 334<br>
+: 333<br>
 pet
 : 35<br>
 top
-: 23246<br>
+: 23294<br>
 fans
-: 74<br>
+: 75<br>
 ist
 : 12<br>
 gs
 : 58<br>
-va
-: 30<br>
-icu
-: 933<br>
-by
-: 1379<br>
-fun
-: 3381<br>
-si
-: 635<br>
-cr
-: 214<br>
-market
-: 87<br>
-ec
-: 494<br>
 ba
-: 290<br>
+: 289<br>
 lk
 : 354<br>
 uy
-: 399<br>
+: 402<br>
 np
-: 235<br>
+: 234<br>
 pr
-: 27<br>
+: 28<br>
 ge
-: 448<br>
+: 446<br>
 jo
 : 123<br>
 ng
-: 519<br>
+: 521<br>
 dz
 : 188<br>
 sv
-: 122<br>
-bo
-: 154<br>
+: 121<br>
 py
 : 217<br>
+bo
+: 155<br>
 cat
 : 338<br>
 ke
@@ -707,17 +709,17 @@ lu
 iq
 : 65<br>
 is
-: 397<br>
+: 396<br>
 mn
-: 169<br>
+: 168<br>
 as
 : 28<br>
 ci
 : 67<br>
 kh
-: 62<br>
+: 64<br>
 cm
-: 93<br>
+: 91<br>
 lb
 : 56<br>
 tn
@@ -725,7 +727,7 @@ tn
 bs
 : 10<br>
 mz
-: 77<br>
+: 78<br>
 ad
 : 37<br>
 cu
@@ -733,15 +735,15 @@ cu
 mt
 : 72<br>
 cf
-: 87<br>
+: 85<br>
 jm
 : 28<br>
 support
 : 71<br>
 om
-: 78<br>
+: 77<br>
 kg
-: 254<br>
+: 253<br>
 ni
 : 76<br>
 mm
@@ -749,7 +751,7 @@ mm
 bi
 : 21<br>
 qa
-: 113<br>
+: 116<br>
 gi
 : 8<br>
 bw
@@ -769,73 +771,73 @@ cd
 cg
 : 13<br>
 mu
-: 68<br>
+: 69<br>
 zm
-: 77<br>
+: 78<br>
 na
 : 39<br>
-bz
-: 206<br>
 sn
-: 49<br>
+: 48<br>
+bz
+: 205<br>
 ug
 : 113<br>
 ml
-: 61<br>
+: 62<br>
 tk
 : 120<br>
 ps
 : 78<br>
 ck
 : 2<br>
-ls
-: 18<br>
 bn
 : 29<br>
+ls
+: 18<br>
 bf
 : 26<br>
 mw
-: 27<br>
+: 26<br>
 li
-: 160<br>
+: 162<br>
 tz
-: 143<br>
-build
-: 30<br>
+: 142<br>
 rw
 : 65<br>
 cv
 : 23<br>
+build
+: 31<br>
 mk
 : 279<br>
 tt
 : 45<br>
 ao
-: 62<br>
-mv
-: 41<br>
+: 61<br>
 zw
 : 75<br>
+mv
+: 41<br>
 ki
 : 10<br>
 mg
-: 32<br>
+: 33<br>
 bj
 : 30<br>
 pn
 : 9<br>
-sl
-: 11<br>
 je
 : 11<br>
+sl
+: 10<br>
 ht
-: 27<br>
+: 25<br>
+ws
+: 386<br>
 vg
 : 40<br>
-ws
-: 391<br>
 al
-: 171<br>
+: 170<br>
 nr
 : 5<br>
 tm
@@ -845,41 +847,41 @@ gm
 vi
 : 7<br>
 sb
-: 22<br>
+: 21<br>
 dj
 : 14<br>
 cy
 : 131<br>
-vu
-: 21<br>
 af
 : 26<br>
+vu
+: 21<br>
 sh
 : 194<br>
 vc
 : 116<br>
 sm
-: 14<br>
+: 13<br>
 td
-: 6<br>
+: 5<br>
 tg
-: 16<br>
-gy
-: 32<br>
+: 15<br>
 fj
+: 32<br>
+gy
 : 32<br>
 asia
 : 396<br>
 gp
 : 13<br>
 tj
-: 80<br>
+: 79<br>
 ne
 : 10<br>
 bt
 : 31<br>
 systems
-: 173<br>
+: 174<br>
 pg
 : 20<br>
 tl
@@ -887,71 +889,71 @@ tl
 pm
 : 67<br>
 ga
-: 49<br>
+: 48<br>
 nf
 : 14<br>
+amazon
+: 7<br>
 sr
 : 10<br>
 social
-: 261<br>
-amazon
-: 7<br>
+: 260<br>
 house
 : 31<br>
 space
-: 2238<br>
+: 2231<br>
 bio
-: 157<br>
+: 159<br>
 chrome
 : 1<br>
 rocks
-: 257<br>
+: 258<br>
 bid
-: 206<br>
+: 207<br>
 world
-: 583<br>
+: 584<br>
 works
-: 82<br>
+: 81<br>
 monster
-: 285<br>
+: 282<br>
 zip
-: 45<br>
+: 44<br>
 pub
-: 75<br>
+: 74<br>
 expert
-: 78<br>
+: 77<br>
 energy
 : 51<br>
 today
-: 453<br>
+: 446<br>
 tube
 : 112<br>
 menu
 : 23<br>
+box
+: 7<br>
 lol
-: 683<br>
+: 685<br>
 bradesco
 : 5<br>
 uno
 : 144<br>
 tips
-: 51<br>
+: 52<br>
 school
 : 68<br>
-box
-: 7<br>
 jobs
 : 72<br>
 press
-: 222<br>
+: 220<br>
 win
-: 3147<br>
+: 3146<br>
 global
-: 248<br>
-lat
-: 263<br>
+: 247<br>
 sx
 : 62<br>
+lat
+: 262<br>
 inc
 : 36<br>
 canon
@@ -961,187 +963,183 @@ rodeo
 ninja
 : 123<br>
 click
-: 1434<br>
+: 1438<br>
 care
 : 72<br>
 cam
-: 335<br>
+: 331<br>
 onl
 : 79<br>
 land
-: 80<br>
+: 81<br>
 gift
 : 20<br>
 email
-: 181<br>
+: 180<br>
 tokyo
-: 122<br>
+: 124<br>
 show
-: 61<br>
+: 60<br>
 tel
-: 64<br>
+: 65<br>
 gratis
 : 44<br>
 futbol
 : 18<br>
 city
-: 167<br>
+: 166<br>
 run
 : 221<br>
+tools
+: 172<br>
 autos
-: 86<br>
+: 84<br>
 cfd
-: 409<br>
+: 408<br>
 kpmg
 : 3<br>
 homes
-: 225<br>
-globo
-: 5<br>
+: 230<br>
 ink
-: 277<br>
+: 276<br>
 realtor
 : 6<br>
 skin
 : 162<br>
 boats
-: 55<br>
+: 54<br>
+globo
+: 5<br>
 men
 : 96<br>
-tools
-: 172<br>
 trade
 : 114<br>
 legal
-: 26<br>
+: 25<br>
+farm
+: 37<br>
 host
 : 331<br>
-farm
-: 39<br>
 fox
 : 8<br>
 casa
 : 65<br>
-bank
-: 64<br>
 download
 : 129<br>
-studio
-: 84<br>
+bank
+: 63<br>
 engineering
 : 23<br>
+studio
+: 84<br>
 foundation
-: 79<br>
+: 80<br>
+wf
+: 36<br>
 radio
 : 23<br>
+bingo
+: 9<br>
 dhl
 : 5<br>
 delivery
 : 32<br>
-wf
-: 36<br>
-bingo
-: 9<br>
-group
-: 213<br>
 domains
 : 44<br>
+group
+: 213<br>
 fyi
 : 90<br>
+baby
+: 42<br>
 ovh
-: 104<br>
+: 103<br>
 webcam
 : 24<br>
 africa
-: 71<br>
-baby
-: 41<br>
+: 70<br>
+store
+: 1063<br>
 gal
 : 25<br>
-sharp
-: 5<br>
-store
-: 1058<br>
-sbs
-: 869<br>
-audio
-: 31<br>
-design
-: 68<br>
 tax
-: 18<br>
-sap
-: 8<br>
+: 19<br>
 ltd
 : 205<br>
-hosting
-: 72<br>
 band
 : 18<br>
+sharp
+: 5<br>
 sale
 : 36<br>
+audio
+: 31<br>
 wine
 : 19<br>
 business
-: 45<br>
+: 46<br>
+design
+: 68<br>
+sbs
+: 860<br>
+hosting
+: 70<br>
+sap
+: 8<br>
 digital
 : 347<br>
 work
-: 373<br>
+: 371<br>
+finance
+: 169<br>
 town
 : 29<br>
-finance
-: 170<br>
 youtube
 : 4<br>
-leclerc
-: 11<br>
 mc
 : 18<br>
+leclerc
+: 11<br>
 xn--p1ai
-: 717<br>
-website
-: 654<br>
+: 713<br>
 eus
-: 78<br>
+: 77<br>
 events
 : 59<br>
-boo
-: 28<br>
-day
-: 66<br>
-camera
-: 14<br>
-guide
-: 55<br>
 security
 : 14<br>
-aero
-: 170<br>
+website
+: 655<br>
+camera
+: 14<br>
+boo
+: 28<br>
 agency
-: 69<br>
+: 68<br>
 film
 : 25<br>
+aero
+: 168<br>
 lc
 : 30<br>
 scot
 : 33<br>
+day
+: 65<br>
 rip
-: 45<br>
+: 46<br>
 love
-: 119<br>
-codes
-: 51<br>
+: 120<br>
+guide
+: 55<br>
 cern
 : 6<br>
-voto
-: 3<br>
 blue
 : 60<br>
-yoga
-: 5<br>
-london
-: 24<br>
+codes
+: 51<br>
+voto
+: 3<br>
 mba
 : 19<br>
 istanbul
@@ -1151,19 +1149,41 @@ ooo
 coop
 : 115<br>
 shop
-: 2504<br>
+: 2525<br>
+london
+: 24<br>
 cyou
 : 314<br>
 buzz
-: 4103<br>
-motorcycles
-: 42<br>
+: 4162<br>
 godaddy
 : 4<br>
 fit
-: 64<br>
+: 66<br>
+style
+: 44<br>
+science
+: 142<br>
+yoga
+: 5<br>
+sy
+: 51<br>
+money
+: 104<br>
+supply
+: 10<br>
+wales
+: 29<br>
+basketball
+: 11<br>
+church
+: 19<br>
+motorcycles
+: 42<br>
+saxo
+: 2<br>
 date
-: 68<br>
+: 70<br>
 giving
 : 5<br>
 kim
@@ -1176,24 +1196,6 @@ foo
 : 20<br>
 xn--mk1bu44c
 : 12<br>
-style
-: 44<br>
-science
-: 143<br>
-sy
-: 50<br>
-money
-: 104<br>
-supply
-: 10<br>
-basketball
-: 11<br>
-wales
-: 30<br>
-church
-: 19<br>
-saxo
-: 2<br>
 cafe
 : 66<br>
 toyota
@@ -1202,30 +1204,30 @@ madrid
 : 2<br>
 stream
 : 156<br>
-wtf
-: 147<br>
-dog
-: 34<br>
 statefarm
 : 3<br>
+wtf
+: 146<br>
+dog
+: 35<br>
 game
-: 91<br>
+: 89<br>
 black
-: 25<br>
+: 26<br>
 ye
-: 16<br>
-bnpparibas
 : 16<br>
 solar
 : 8<br>
+bnpparibas
+: 16<br>
 sky
 : 12<br>
 report
 : 45<br>
 travel
-: 146<br>
+: 147<br>
 exchange
-: 72<br>
+: 73<br>
 gold
 : 70<br>
 makeup
@@ -1233,83 +1235,83 @@ makeup
 uol
 : 2<br>
 quest
-: 296<br>
+: 293<br>
 yachts
-: 31<br>
+: 32<br>
 paris
 : 16<br>
-rest
-: 117<br>
 garden
 : 10<br>
 earth
 : 32<br>
-onion
-: 2<br>
 training
 : 17<br>
-bible
-: 8<br>
+rest
+: 119<br>
+productions
+: 4<br>
+onion
+: 2<br>
+actor
+: 2<br>
 museum
 : 27<br>
-vision
-: 23<br>
-marketing
-: 28<br>
-photos
-: 30<br>
+bible
+: 8<br>
 pictures
 : 18<br>
+marketing
+: 28<br>
+vision
+: 23<br>
+photos
+: 30<br>
 bot
 : 24<br>
 taxi
 : 15<br>
 aw
 : 7<br>
+rent
+: 42<br>
+academy
+: 60<br>
 center
-: 131<br>
-productions
-: 4<br>
-actor
-: 2<br>
+: 130<br>
 abbott
 : 17<br>
 restaurant
 : 8<br>
 claims
 : 5<br>
-rent
-: 42<br>
-academy
-: 60<br>
 cab
 : 14<br>
 photo
-: 14<br>
+: 15<br>
 dating
 : 16<br>
 ntt
 : 6<br>
+sncf
+: 7<br>
 university
 : 14<br>
-sncf
+green
+: 24<br>
+audi
 : 7<br>
 tc
 : 43<br>
-green
-: 25<br>
-audi
-: 8<br>
-sz
-: 12<br>
 fo
-: 26<br>
+: 27<br>
 honda
 : 1<br>
 mo
-: 46<br>
+: 45<br>
 toshiba
 : 1<br>
+sz
+: 12<br>
 eco
 : 22<br>
 schwarz
@@ -1317,13 +1319,13 @@ schwarz
 berlin
 : 23<br>
 beer
-: 17<br>
+: 18<br>
 sony
 : 3<br>
 cash
 : 86<br>
 company
-: 173<br>
+: 171<br>
 barclays
 : 7<br>
 community
@@ -1334,260 +1336,262 @@ capital
 : 40<br>
 yandex
 : 13<br>
+nc
+: 25<br>
+shopping
+: 10<br>
+barcelona
+: 7<br>
+law
+: 19<br>
+abb
+: 5<br>
+sexy
+: 28<br>
 army
 : 24<br>
 career
 : 4<br>
 christmas
 : 8<br>
-barcelona
-: 7<br>
-nc
-: 25<br>
-shopping
-: 10<br>
-law
-: 18<br>
-abb
-: 5<br>
-sexy
-: 28<br>
 deals
-: 26<br>
-cars
-: 8<br>
-ax
-: 17<br>
-rugby
-: 11<br>
+: 27<br>
 xn--80asehdb
 : 9<br>
+ax
+: 17<br>
+cars
+: 8<br>
+rugby
+: 11<br>
 nyc
 : 27<br>
 directory
-: 42<br>
+: 41<br>
 markets
 : 14<br>
-ren
-: 6<br>
-dance
-: 21<br>
-institute
-: 12<br>
-boutique
-: 7<br>
-hermes
-: 2<br>
 industries
 : 6<br>
+boutique
+: 7<br>
+institute
+: 12<br>
+hermes
+: 2<br>
 partners
 : 34<br>
 adult
 : 11<br>
-ski
+dance
 : 21<br>
+ski
+: 22<br>
 gn
 : 4<br>
 nrw
 : 30<br>
 fashion
 : 13<br>
+ren
+: 6<br>
+fail
+: 18<br>
 lgbt
 : 17<br>
 cards
 : 20<br>
-fail
-: 18<br>
-place
-: 33<br>
-cleaning
-: 3<br>
 bike
+: 33<br>
+place
 : 33<br>
 yt
 : 17<br>
+cleaning
+: 3<br>
 review
-: 32<br>
-racing
-: 13<br>
+: 33<br>
 gallery
 : 25<br>
+racing
+: 13<br>
 horse
 : 10<br>
 limo
 : 9<br>
 insure
 : 8<br>
-vin
-: 38<br>
 abudhabi
 : 2<br>
+vin
+: 37<br>
 moda
 : 12<br>
-taipei
-: 13<br>
 fund
 : 20<br>
+taipei
+: 13<br>
 faith
 : 18<br>
 xn--d1acj3b
 : 6<br>
+casino
+: 1353<br>
 xn--c1avg
 : 4<br>
 cw
-: 8<br>
-casino
-: 1352<br>
-brussels
-: 12<br>
+: 7<br>
 how
 : 25<br>
+brussels
+: 12<br>
 pizza
 : 16<br>
+family
+: 19<br>
 careers
 : 19<br>
-family
-: 18<br>
 cricket
 : 11<br>
 education
-: 66<br>
+: 67<br>
 rio
 : 11<br>
-williamhill
-: 2<br>
 hockey
 : 5<br>
+williamhill
+: 2<br>
 neustar
 : 2<br>
 pioneer
 : 3<br>
 express
 : 38<br>
-glass
-: 5<br>
 toys
 : 20<br>
+glass
+: 5<br>
 bar
-: 81<br>
+: 80<br>
 courses
 : 6<br>
 contact
 : 7<br>
 xn--h2brj9c
 : 4<br>
+pictet
+: 3<br>
 gay
 : 29<br>
 krd
 : 7<br>
 cymru
 : 9<br>
-jewelry
-: 4<br>
-aig
-: 4<br>
 llc
 : 22<br>
-auto
-: 18<br>
+jewelry
+: 4<br>
 ing
 : 10<br>
+aig
+: 4<br>
+auto
+: 18<br>
 fish
-: 14<br>
+: 13<br>
 golf
-: 33<br>
-nagoya
-: 6<br>
+: 32<br>
 gw
 : 4<br>
 kiwi
 : 14<br>
 cruises
 : 3<br>
+nagoya
+: 5<br>
 fitness
 : 15<br>
-pictet
-: 3<br>
 panasonic
 : 1<br>
-scb
-: 10<br>
 amex
 : 3<br>
+scb
+: 10<br>
 reviews
 : 35<br>
 gdn
-: 17<br>
+: 19<br>
 ventures
 : 9<br>
 holiday
 : 2<br>
-gent
-: 4<br>
-pharmacy
-: 4<br>
 ky
 : 13<br>
+pharmacy
+: 4<br>
+gent
+: 4<br>
+gives
+: 51<br>
 fk
 : 2<br>
 credit
-: 25<br>
-gives
-: 51<br>
+: 24<br>
 sd
 : 12<br>
-pf
-: 21<br>
 kp
 : 4<br>
+pf
+: 21<br>
 wang
 : 15<br>
 gq
 : 31<br>
 gmbh
-: 9<br>
-international
-: 26<br>
-hm
-: 6<br>
+: 11<br>
 flir
 : 2<br>
+hm
+: 6<br>
+international
+: 26<br>
 dental
 : 4<br>
+estate
+: 16<br>
 bm
 : 20<br>
-car
-: 7<br>
 haus
 : 8<br>
 auction
-: 19<br>
+: 20<br>
+car
+: 7<br>
 promo
 : 24<br>
-estate
-: 16<br>
 xn--45br5cyl
 : 2<br>
+archi
+: 5<br>
 equipment
 : 4<br>
 fujitsu
 : 1<br>
-archi
-: 5<br>
 xn--3hcrj9c
-: 1<br>
-km
 : 1<br>
 camp
 : 11<br>
-diet
-: 10<br>
 bzh
-: 19<br>
+: 20<br>
 sport
-: 17<br>
+: 16<br>
+km
+: 1<br>
+ceo
+: 11<br>
 bb
 : 12<br>
+diet
+: 10<br>
 bargains
 : 2<br>
 sandvik
@@ -1596,46 +1600,44 @@ koeln
 : 7<br>
 xn--3e0b707e
 : 4<br>
-itau
-: 3<br>
 coupons
 : 4<br>
-ceo
-: 11<br>
-forum
-: 9<br>
-nico
+itau
 : 3<br>
+charity
+: 42<br>
+forum
+: 8<br>
 gf
 : 3<br>
 photography
 : 5<br>
-charity
-: 42<br>
-xn--gecrj9c
-: 2<br>
-xn--6frz82g
-: 31<br>
-xn--t60b56a
+nico
+: 3<br>
+monash
+: 3<br>
+alsace
 : 2<br>
 doctor
 : 6<br>
-monash
-: 3<br>
 kaufen
 : 4<br>
-alsace
-: 2<br>
 storage
 : 7<br>
+xn--gecrj9c
+: 2<br>
 coffee
 : 25<br>
+xn--6frz82g
+: 30<br>
+xn--t60b56a
+: 2<br>
 observer
 : 8<br>
+limited
+: 16<br>
 tatar
 : 4<br>
-limited
-: 15<br>
 meet
 : 6<br>
 study
@@ -1652,252 +1654,250 @@ clothing
 : 7<br>
 healthcare
 : 9<br>
+cheap
+: 19<br>
 diamonds
 : 3<br>
 schule
 : 6<br>
-cheap
-: 20<br>
 parts
 : 17<br>
 swiss
 : 26<br>
 akdn
 : 1<br>
-discount
-: 7<br>
 softbank
 : 1<br>
-broker
+discount
 : 7<br>
 jcb
 : 2<br>
-bmw
+broker
 : 7<br>
-forex
-: 4<br>
-xn--55qx5d
-: 5<br>
-gifts
-: 6<br>
 next
 : 5<br>
-saarland
-: 6<br>
+bmw
+: 7<br>
+xn--55qx5d
+: 5<br>
 flights
 : 2<br>
-mattel
-: 2<br>
-xn--tckwe
-: 2<br>
-post
-: 5<br>
-football
-: 19<br>
+saarland
+: 6<br>
 investments
 : 6<br>
-er
-: 1<br>
-trading
-: 8<br>
-kitchen
-: 8<br>
-xn--45brj9c
+mattel
 : 2<br>
+football
+: 19<br>
+post
+: 5<br>
+forex
+: 3<br>
 holdings
 : 5<br>
+er
+: 1<br>
+kitchen
+: 8<br>
 tickets
 : 5<br>
+xn--45brj9c
+: 2<br>
+trading
+: 8<br>
+xn--tckwe
+: 2<br>
 xn--rhqv96g
 : 1<br>
+gifts
+: 6<br>
 yokohama
 : 6<br>
 vegas
 : 18<br>
-new
-: 6<br>
 sydney
 : 2<br>
-amsterdam
-: 10<br>
+new
+: 6<br>
+cooking
+: 2<br>
 hamburg
 : 7<br>
-tui
-: 3<br>
-politie
-: 1<br>
-computer
-: 15<br>
-lr
-: 6<br>
-bauhaus
-: 3<br>
-tienda
-: 5<br>
-capetown
-: 2<br>
 shoes
 : 12<br>
+amsterdam
+: 12<br>
+politie
+: 1<br>
+tui
+: 3<br>
+bauhaus
+: 3<br>
+lr
+: 6<br>
 lease
 : 2<br>
 xn--j1amh
 : 11<br>
 navy
 : 3<br>
+music
+: 2<br>
 poker
 : 6<br>
-xn--q9jyb4c
-: 4<br>
-cooking
-: 2<br>
+computer
+: 15<br>
+consulting
+: 9<br>
 clinic
 : 38<br>
 builders
 : 3<br>
-music
-: 2<br>
-consulting
-: 9<br>
 gop
 : 3<br>
 moscow
-: 50<br>
+: 49<br>
+xn--q9jyb4c
+: 4<br>
 vote
 : 5<br>
 voyage
 : 5<br>
 singles
 : 3<br>
+tienda
+: 5<br>
+capetown
+: 2<br>
 bbva
 : 2<br>
 mr
 : 9<br>
 total
 : 2<br>
-realestate
-: 2<br>
 schmidt
-: 4<br>
-enterprises
-: 3<br>
-weir
-: 2<br>
-rentals
-: 5<br>
-properties
-: 3<br>
-soccer
-: 5<br>
-xn--2scrj9c
-: 2<br>
-feedback
-: 1<br>
-qpon
-: 4<br>
-okinawa
-: 2<br>
-engineer
 : 4<br>
 jio
 : 1<br>
-hitachi
-: 1<br>
+weir
+: 2<br>
+realestate
+: 2<br>
+enterprises
+: 3<br>
+properties
+: 3<br>
+rentals
+: 5<br>
+qpon
+: 4<br>
+xn--2scrj9c
+: 2<br>
+okinawa
+: 3<br>
+engineer
+: 4<br>
+soccer
+: 5<br>
 trust
 : 1<br>
 lighting
 : 3<br>
-financial
-: 5<br>
 citic
 : 1<br>
+feedback
+: 1<br>
+financial
+: 6<br>
 loans
 : 4<br>
 creditcard
 : 2<br>
+hitachi
+: 1<br>
 construction
 : 3<br>
-college
-: 9<br>
 tours
 : 8<br>
-ruhr
-: 5<br>
-furniture
-: 2<br>
-repair
-: 3<br>
-vlaanderen
-: 7<br>
+college
+: 8<br>
 country
 : 7<br>
+ruhr
+: 5<br>
 xn--90ais
 : 11<br>
+vlaanderen
+: 7<br>
+furniture
+: 2<br>
+shiksha
+: 2<br>
 aq
 : 1<br>
-kn
+repair
 : 3<br>
+xn--p1acf
+: 22<br>
 exposed
 : 2<br>
-xn--p1acf
-: 23<br>
 call
 : 1<br>
 now
 : 1<br>
-shiksha
-: 2<br>
-vacations
-: 2<br>
 contractors
 : 1<br>
-abbvie
+kn
+: 3<br>
+vacations
 : 2<br>
 recipes
 : 5<br>
+edeka
+: 4<br>
 hiphop
+: 2<br>
+loan
+: 26<br>
+abbvie
+: 2<br>
+sanofi
+: 3<br>
+viajes
+: 2<br>
+srl
 : 2<br>
 wedding
 : 3<br>
-edeka
-: 4<br>
-sanofi
-: 3<br>
-loan
-: 26<br>
-srl
-: 2<br>
 xn--90ae
 : 2<br>
 xn--io0a7i
 : 1<br>
-forsale
-: 3<br>
 you
 : 2<br>
-viajes
-: 2<br>
-miami
-: 4<br>
 java
 : 2<br>
-jetzt
-: 7<br>
-frl
-: 4<br>
 bayern
 : 12<br>
+forsale
+: 3<br>
+miami
+: 4<br>
+jetzt
+: 7<br>
 netflix
 : 1<br>
-stockholm
-: 5<br>
+frl
+: 4<br>
 physio
 : 4<br>
-vodka
+stockholm
+: 5<br>
+kred
 : 3<br>
 med
 : 1<br>
-kred
-: 3<br>
 supplies
 : 1<br>
 xn--i1b6b1a6a2e
@@ -1906,48 +1906,50 @@ associates
 : 3<br>
 tattoo
 : 3<br>
-plumbing
-: 2<br>
 moi
 : 2<br>
+plumbing
+: 2<br>
+vodka
+: 3<br>
 florist
 : 1<br>
 salon
 : 4<br>
-hotmail
-: 1<br>
 cologne
 : 3<br>
-gripe
-: 2<br>
-spa
+hotmail
 : 1<br>
 mortgage
 : 4<br>
 lilly
 : 2<br>
-bing
-: 1<br>
 maison
 : 2<br>
+spa
+: 1<br>
+gripe
+: 2<br>
+bing
+: 1<br>
 condos
 : 2<br>
 immo
 : 8<br>
-catering
-: 1<br>
 pay
 : 1<br>
 surgery
 : 3<br>
+catering
+: 1<br>
 wien
 : 6<br>
 corsica
 : 4<br>
-epson
-: 1<br>
 coach
 : 9<br>
+epson
+: 1<br>
 accountant
 : 12<br>
 tennis
@@ -1964,185 +1966,183 @@ reise
 : 1<br>
 reisen
 : 4<br>
+luxury
+: 3<br>
 talk
 : 1<br>
 accountants
 : 1<br>
-luxury
-: 3<br>
 cpa
 : 3<br>
 mtn
 : 1<br>
+dealer
+: 2<br>
+quebec
+: 4<br>
 villas
 : 1<br>
 dentist
 : 1<br>
-quebec
-: 4<br>
-apartments
-: 3<br>
-chintai
-: 2<br>
-chase
-: 1<br>
 fishing
-: 2<br>
-dealer
 : 2<br>
 sohu
 : 1<br>
-orange
+apartments
+: 3<br>
+chase
 : 1<br>
+chintai
+: 2<br>
 komatsu
 : 3<br>
-democrat
-: 3<br>
+orange
+: 1<br>
+mobile
+: 1<br>
 azure
 : 1<br>
+democrat
+: 3<br>
+xn--fiqs8s
+: 9<br>
 booking
 : 1<br>
 theater
 : 2<br>
-drive
-: 1<br>
-mobile
-: 1<br>
 cuisinella
 : 2<br>
-xn--unup4y
-: 3<br>
 lawyer
 : 2<br>
-discover
+drive
 : 1<br>
-xn--fiqs8s
-: 7<br>
+xn--unup4y
+: 3<br>
 vivo
 : 3<br>
-data
+discover
 : 1<br>
 moto
 : 1<br>
+data
+: 1<br>
 melbourne
 : 3<br>
-wow
-: 1<br>
 deloitte
 : 2<br>
+wow
+: 1<br>
 free
 : 1<br>
-rehab
-: 6<br>
 kids
 : 2<br>
-xerox
+rehab
+: 6<br>
+xn--6qq986b3xl
 : 1<br>
 barclaycard
 : 3<br>
+xn--fiqz9s
+: 1<br>
+xerox
+: 1<br>
 zappos
 : 2<br>
-crs
-: 3<br>
 weather
 : 1<br>
 ismaili
 : 2<br>
-irish
+crs
 : 3<br>
+irish
+: 4<br>
 phone
 : 1<br>
 soy
 : 5<br>
-xn--6qq986b3xl
-: 1<br>
 aaa
-: 1<br>
-memorial
 : 1<br>
 watches
 : 1<br>
+ipiranga
+: 2<br>
 sucks
 : 2<br>
+memorial
+: 1<br>
 rich
 : 2<br>
 analytics
 : 1<br>
 insurance
 : 1<br>
-hsbc
-: 1<br>
-ipiranga
-: 2<br>
 flowers
 : 3<br>
-hot
+hsbc
 : 1<br>
-landrover
-: 2<br>
 boston
 : 2<br>
-aol
-: 1<br>
-organic
+landrover
 : 2<br>
-hospital
+hot
+: 1<br>
+aol
 : 1<br>
 dvag
 : 3<br>
-frogans
-: 1<br>
-open
-: 1<br>
-joy
-: 1<br>
-xn--fiqz9s
-: 1<br>
-windows
-: 1<br>
-bcg
+hospital
 : 2<br>
 samsung
 : 1<br>
-fage
-: 4<br>
+organic
+: 2<br>
+joy
+: 1<br>
+open
+: 1<br>
+frogans
+: 1<br>
 prime
 : 1<br>
-extraspace
+bcg
 : 2<br>
-android
+windows
+: 1<br>
+fage
+: 4<br>
+extraspace
 : 2<br>
 tatamotors
 : 3<br>
+weber
+: 3<br>
+android
+: 2<br>
 book
 : 1<br>
 xbox
 : 1<br>
-gmo
-: 2<br>
 xn--nqv7f
 : 2<br>
-weber
-: 3<br>
 save
 : 1<br>
 philips
-: 1<br>
-fire
 : 1<br>
 read
 : 1<br>
 teva
 : 3<br>
-xn--nqv7fs00ema
+fire
 : 1<br>
 walmart
 : 1<br>
-prudential
-: 1<br>
 ikano
 : 1<br>
+xn--nqv7fs00ema
+: 1<br>
 room
+: 1<br>
+prudential
 : 1<br>
 like
 : 1<br>
@@ -2150,39 +2150,43 @@ bbc
 : 1<br>
 secure
 : 1<br>
-dell
-: 1<br>
-buy
-: 1<br>
-guitars
-: 2<br>
-virgin
+circle
 : 1<br>
 pin
 : 1<br>
+guitars
+: 2<br>
+buy
+: 1<br>
+dell
+: 1<br>
 property
+: 3<br>
+gucci
+: 1<br>
+virgin
+: 1<br>
+gmo
+: 2<br>
+xn--80adxhks
 : 3<br>
 got
 : 1<br>
-gucci
-: 1<br>
-circle
-: 1<br>
-xn--80adxhks
-: 3<br>
-smile
+tires
 : 1<br>
 ice
 : 2<br>
-nfl
-: 1<br>
 bentley
 : 1<br>
-tires
+smile
 : 1<br>
-degree
+afl
+: 3<br>
+nfl
 : 1<br>
 attorney
+: 1<br>
+degree
 : 1<br>
 nike
 : 2<br>
@@ -2190,197 +2194,195 @@ kindle
 : 1<br>
 ltda
 : 1<br>
-blackfriday
-: 1<br>
 broadway
-: 1<br>
-office
-: 1<br>
-mh
 : 1<br>
 phd
 : 3<br>
 anz
 : 2<br>
-ibm
+mh
+: 1<br>
+office
 : 1<br>
 xn--80aswg
 : 2<br>
-xn--ses554g
+blackfriday
 : 1<br>
-afl
-: 3<br>
-george
+ibm
 : 1<br>
 bofa
 : 1<br>
-safe
-: 1<br>
-axa
+george
 : 1<br>
 rwe
 : 1<br>
+axa
+: 1<br>
+safe
+: 1<br>
 intuit
-: 1<br>
-audible
-: 1<br>
-spot
-: 2<br>
-target
-: 1<br>
-imdb
 : 1<br>
 locus
 : 1<br>
+audible
+: 1<br>
+target
+: 1<br>
+spot
+: 2<br>
+imdb
+: 1<br>
+jprs
+: 1<br>
+xn--ses554g
+: 1<br>
+author
+: 1<br>
+joburg
+: 2<br>
 nra
 : 1<br>
 ally
 : 1<br>
-author
-: 1<br>
 fast
 : 1<br>
+seat
+: 3<br>
 republican
-: 1<br>
-joburg
-: 2<br>
-jprs
 : 1<br>
 woodside
 : 1<br>
 mini
 : 1<br>
-zara
+compare
 : 1<br>
-yamaxun
+auspost
+: 1<br>
+zara
 : 1<br>
 dtv
 : 1<br>
-ieee
-: 1<br>
 kpn
 : 2<br>
-auspost
-: 1<br>
-compare
-: 1<br>
-ford
-: 1<br>
-silk
+yamaxun
 : 1<br>
 wanggou
 : 1<br>
-aetna
+ieee
 : 1<br>
 sener
 : 1<br>
-tunes
-: 1<br>
-mint
-: 1<br>
 jot
-: 1<br>
-tushu
-: 1<br>
-jpmorgan
 : 1<br>
 suzuki
 : 1<br>
+ford
+: 1<br>
+zuerich
+: 1<br>
+silk
+: 1<br>
+jpmorgan
+: 1<br>
+tunes
+: 1<br>
+aetna
+: 1<br>
 americanexpress
 : 1<br>
-hotels
+mint
 : 1<br>
-select
-: 1<br>
-seat
-: 3<br>
-vanguard
-: 1<br>
-dvr
-: 1<br>
-voting
+tushu
 : 1<br>
 aeg
 : 1<br>
-osaka
+voting
+: 1<br>
+hotels
+: 1<br>
+vanguard
+: 1<br>
+select
 : 1<br>
 mlb
 : 1<br>
+osaka
+: 1<br>
+kyoto
+: 2<br>
 sas
 : 1<br>
 abogado
-: 1<br>
-zuerich
 : 1<br>
 commbank
 : 1<br>
 dupont
 : 1<br>
+sakura
+: 1<br>
 wtc
 : 1<br>
-netbank
-: 1<br>
-aramco
-: 1<br>
-weatherchannel
+dvr
 : 1<br>
 tirol
 : 1<br>
-kyoto
-: 2<br>
-sarl
-: 1<br>
 ss
 : 1<br>
-sakura
+netbank
 : 1<br>
 mls
 : 1<br>
-cba
+weatherchannel
 : 1<br>
-deal
+aramco
 : 1<br>
-nab
-: 1<br>
-zero
+sarl
 : 1<br>
 samsclub
 : 1<br>
+deal
+: 1<br>
+cba
+: 1<br>
+nab
+: 1<br>
 walter
-: 1<br>
-song
-: 1<br>
-lidl
-: 1<br>
-nba
-: 1<br>
-ferrero
 : 1<br>
 asda
 : 1<br>
+lidl
+: 1<br>
+zero
+: 1<br>
+ferrero
+: 1<br>
+song
+: 1<br>
 xn--jlq480n2rg
+: 1<br>
+nba
 : 1<br>
 xn--cckwcxetd
 : 1<br>
-ping
+ricoh
 : 1<br>
 ftr
+: 1<br>
+ping
+: 1<br>
+ericsson
+: 1<br>
+hyatt
 : 1<br>
 bestbuy
 : 1<br>
 reit
 : 1<br>
-ricoh
+jaguar
 : 1<br>
 citi
 : 1<br>
-ericsson
-: 1<br>
 safety
-: 1<br>
-jaguar
-: 1<br>
-hyatt
 : 1<br>
 bloomberg
 : 1<br>
@@ -2390,13 +2392,13 @@ realty
 : 1<br>
 allfinanz
 : 1<br>
-coupon
-: 1<br>
-lincoln
-: 1<br>
 theatre
 : 1<br>
+coupon
+: 1<br>
 baseball
+: 1<br>
+lincoln
 : 1<br>
 mq
 : 2<br>
@@ -2410,187 +2412,187 @@ xn--fpcrj9c3d
 : 1<br>
 xn--mgbab2bd
 : 1<br>
-frontier
-: 1<br>
-jnj
+xn--mgba3a3ejt
 : 1<br>
 fidelity
 : 1<br>
-xn--mgba3a3ejt
+amica
 : 1<br>
 pid
 : 1<br>
 xn--vuq861b
 : 1<br>
-amica
+frontier
+: 1<br>
+jnj
 : 1<br>
 xn--czrs0t
 : 1<br>
-lanxess
+flickr
 : 1<br>
-protection
+lanxess
 : 1<br>
 tiaa
 : 1<br>
-oracle
-: 1<br>
-dds
-: 1<br>
-bridgestone
-: 1<br>
 skype
+: 1<br>
+protection
 : 1<br>
 stc
 : 1<br>
-case
-: 1<br>
-flickr
-: 1<br>
 tab
 : 1<br>
-sfr
-: 1<br>
-seek
+oracle
 : 1<br>
 grocery
 : 1<br>
+dds
+: 1<br>
+case
+: 1<br>
+sfr
+: 1<br>
+xn--mxtq1m
+: 1<br>
 lundbeck
-: 1<br>
-xn--g2xx48c
-: 1<br>
-able
-: 1<br>
-msd
-: 1<br>
-pfizer
 : 1<br>
 mtr
 : 1<br>
-esq
-: 1<br>
 xn--vhquv
 : 1<br>
-juniper
-: 1<br>
-caravan
-: 1<br>
-hbo
-: 1<br>
-ollo
-: 1<br>
-latrobe
-: 1<br>
-athleta
+xn--g2xx48c
 : 1<br>
 xn--fjq720a
 : 1<br>
-catholic
+esq
+: 1<br>
+msd
+: 1<br>
+able
+: 1<br>
+pfizer
+: 1<br>
+hbo
+: 1<br>
+seek
+: 1<br>
+juniper
+: 1<br>
+athleta
+: 1<br>
+ollo
+: 1<br>
+caravan
 : 1<br>
 olayangroup
 : 1<br>
-lpl
-: 1<br>
 pru
+: 1<br>
+latrobe
+: 1<br>
+gap
+: 1<br>
+ubank
+: 1<br>
+kfh
+: 1<br>
+bridgestone
 : 1<br>
 olayan
 : 1<br>
+catholic
+: 1<br>
 fresenius
 : 1<br>
-tdk
+lpl
 : 1<br>
-kfh
+tdk
 : 1<br>
 staples
 : 1<br>
 sandvikcoromant
 : 1<br>
-gap
-: 1<br>
-tjx
-: 1<br>
-winners
+xn--54b7fta0cc
 : 1<br>
 lipsy
 : 1<br>
-lplfinancial
-: 1<br>
-ubank
+farmers
 : 1<br>
 homesense
 : 1<br>
-itv
+lplfinancial
 : 1<br>
-xn--54b7fta0cc
+winners
 : 1<br>
 seven
 : 1<br>
+tjx
+: 1<br>
+itv
+: 1<br>
+cbn
+: 1<br>
+praxi
+: 1<br>
 barefoot
 : 1<br>
-bms
+nikon
+: 1<br>
+bosch
+: 1<br>
+gallo
+: 1<br>
+homedepot
 : 1<br>
 reliance
 : 1<br>
-tjmaxx
+bms
 : 1<br>
 delta
 : 1<br>
-farmers
+tjmaxx
 : 1<br>
-gallo
+xn--zfr164b
+: 1<br>
+smart
+: 1<br>
+cisco
 : 1<br>
 homegoods
 : 1<br>
 wme
 : 1<br>
-lifeinsurance
-: 1<br>
-praxi
-: 1<br>
-cbn
-: 1<br>
-cisco
-: 1<br>
-homedepot
-: 1<br>
-nikon
-: 1<br>
-smart
-: 1<br>
-grainger
-: 1<br>
-marshalls
-: 1<br>
-xn--zfr164b
-: 1<br>
-juegos
-: 1<br>
-pohl
-: 1<br>
-bbt
-: 1<br>
-bosch
-: 1<br>
 obi
+: 1<br>
+lifeinsurance
 : 1<br>
 banamex
 : 1<br>
-kerryhotels
+juegos
 : 1<br>
-xn--mxtq1m
+grainger
 : 1<br>
 kerrylogistics
 : 1<br>
+marshalls
+: 1<br>
+bbt
+: 1<br>
 nextdirect
 : 1<br>
-mckinsey
+kerryhotels
+: 1<br>
+pohl
+: 1<br>
+nokia
 : 1<br>
 tkmaxx
 : 1<br>
-jmp
+mckinsey
 : 1<br>
 ## The malicious website blocklist
 com: 6251<br>
-site: 77<br>
+site: 79<br>
 net: 466<br>
 cc: 29<br>
 in: 14<br>
@@ -2876,60 +2878,59 @@ net: 1<br>
 eu: 1<br>
 com.cn: 1<br>
 ## URLHaus
+com: 107<br>
+it: 2<br>
 cn: 6<br>
-com: 128<br>
-net: 15<br>
+net: 14<br>
 ca: 3<br>
-ru: 10<br>
-co.za: 8<br>
+ru: 9<br>
+co.za: 10<br>
+id: 1<br>
 ro: 1<br>
-com.vn: 1<br>
+com.vn: 2<br>
+com.br: 6<br>
 com.cn: 2<br>
+vn: 2<br>
 click: 1<br>
 es: 1<br>
-cl: 1<br>
+cl: 2<br>
 in: 3<br>
 online: 2<br>
 co: 1<br>
 com.ar: 3<br>
-de: 7<br>
-top: 2<br>
+de: 9<br>
 re: 1<br>
 hu: 1<br>
-vn: 2<br>
 estate: 1<br>
 co.il: 1<br>
-org: 8<br>
-shop: 3<br>
+org: 7<br>
 info: 1<br>
 com.my: 1<br>
 co.mz: 1<br>
-xyz: 2<br>
-nl: 2<br>
+nl: 3<br>
 cc: 1<br>
 ac.ug: 2<br>
 asia: 1<br>
 by: 1<br>
 ug: 7<br>
 ac.in: 1<br>
-com.br: 3<br>
 ge: 1<br>
-su: 2<br>
-it: 1<br>
 org.uk: 1<br>
 at: 1<br>
+shop: 2<br>
 org.pk: 1<br>
 eu: 1<br>
 pk: 2<br>
 in.th: 1<br>
 pe: 1<br>
-store: 1<br>
+sg: 1<br>
 com.sg: 1<br>
 kr: 1<br>
 ninja: 1<br>
 dev: 1<br>
 mx: 1<br>
+top: 1<br>
 tn: 1<br>
 pe.kr: 1<br>
 io: 1<br>
-biz: 1<br>
+xn--p1ai: 1<br>
