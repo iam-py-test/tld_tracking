@@ -58,7 +58,7 @@ for l in lists:
 
 outlist = open("output.md",'w')
 outlist.write("## All lists\n")
-for tld in tldsg:
+for tld in sorted(list(tldsg)):
   if tld not in tld_stats:
     tld_stats[tld] = []
   tld_stats[tld].append(tldsg[tld])
@@ -67,7 +67,7 @@ for tld in tldsg:
 for ldata in lists_data:
   outlist.write("## {}\n".format(ldata))
   ltlds = lists_data[ldata]
-  for tld in ltlds:
+  for tld in sorted(list(ltlds)):
     outlist.write("{}: {}<br>\n".format(tld,ltlds[tld]))
 outlist.close()
 
