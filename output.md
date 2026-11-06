@@ -375,7 +375,7 @@ apartments: 2<br>
 api.br: 1<br>
 api.gov.uk: 1<br>
 apigee.io: 1<br>
-app: 3946<br>
+app: 3945<br>
 app.br: 34<br>
 apple: 9<br>
 applinzi.com: 1<br>
@@ -3179,6 +3179,7 @@ sklep.pl: 4<br>
 skr.jp: 1<br>
 sky: 11<br>
 sl: 11<br>
+sliplane.app: 1<br>
 sm: 16<br>
 smart: 1<br>
 smile: 1<br>
