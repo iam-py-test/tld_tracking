@@ -8,7 +8,7 @@ psl = PublicSuffixList()
 lists = {
   "The malicious website blocklist":"https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt",
   "iam-py-test's anti-PUP list":"https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antipup_domains.txt",
-  "URLHaus": "https://urlhaus.abuse.ch/downloads/hostfile/"
+  "URLHaus": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt"
 }
 lists_data = {}
 tldsg = {}
@@ -41,6 +41,8 @@ for l in lists:
       continue
     if domain.startswith("127.0.0.1\t"):
       domain = domain.replace("127.0.0.1\t", "")
+    if domain.startswith("0.0.0.0 "):
+      domain = domain.replace("0.0.0.0 ", "")
     try:
       tld = psl.publicsuffix(domain)
       if tld == None:
